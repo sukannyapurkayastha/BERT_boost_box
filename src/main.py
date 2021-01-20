@@ -31,6 +31,7 @@ def run(train_dataset, test_dataset):
     # test_data_loader = DataLoader(test_data_set, batch_size=config.VALID_BATCH_SIZE)
 
     model = model_class.Bert_Kbqa_Model()
+    model.to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=3e-5)
     for epoch in range(config.EPOCHS):
         train(model, epoch, train_data_loader, optimizer)
