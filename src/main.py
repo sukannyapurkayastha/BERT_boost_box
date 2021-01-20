@@ -13,6 +13,8 @@ import model_class
 from train_test_files import train, valid
 from torch.utils.data import DataLoader
 
+device = 'cuda' if cuda.is_available() else 'cpu'
+
 def run(train_dataset, test_dataset):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_test = pd.read_csv(test_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
