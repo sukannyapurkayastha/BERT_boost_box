@@ -23,10 +23,14 @@ def train(model, epoch, training_loader, optimizer):
     nb_tr_examples = 0
     model.train()
     for _, data in enumerate(training_loader, 0):
-        ids = data['ids'].to(device, dtype=torch.long)
-        mask = data['mask'].to(device, dtype=torch.long)
-        targets = data['targets'].to(device, dtype=torch.long)
-        mask_labels = data['mask_labels'].to(device, dtype=torch.long)
+        ids = data['ids']
+        mask = data['mask']
+        targets = data['targets']
+        mask_labels = data['mask_labels']
+        ids = ids.to(device, dtype=torch.long)
+        mask = mask.to(device, dtype=torch.long)
+        targets = targets.to(device, dtype=torch.long)
+        mask_labels = mask_labels.to(device, dtype=torch.long)
 
         outputs = model(ids, mask)
         # predictions = torch.nn.Softmax(outputs)
