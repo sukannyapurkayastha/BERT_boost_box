@@ -13,6 +13,8 @@ import model_class
 from train_test_files import train, valid
 from torch.utils.data import DataLoader
 
+device = 'cuda' if cuda.is_available() else 'cpu'
+
 def run(train_dataset, test_dataset):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_test = pd.read_csv(test_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
@@ -29,6 +31,7 @@ def run(train_dataset, test_dataset):
     # test_data_loader = DataLoader(test_data_set, batch_size=config.VALID_BATCH_SIZE)
 
     model = model_class.Bert_Kbqa_Model()
+    model.to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=3e-5)
     for epoch in range(config.EPOCHS):
         train(model, epoch, train_data_loader, optimizer)
