@@ -30,6 +30,6 @@ class BERT_KBQA_Dataloader:
             'ids': torch.tensor(ids, dtype=torch.long),
             'mask': torch.tensor(mask, dtype=torch.long),
             'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
-            'targets': torch.tensor(self.relation_cat[index], dtype=torch.long),
+            'targets': torch.tensor(self.relation_cat[index], dtype=torch.float),
             'mask_labels': torch.from_numpy(np.array(self.mask_labels[index]))
         }
