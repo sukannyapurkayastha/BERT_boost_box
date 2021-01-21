@@ -35,9 +35,10 @@ def train(model, epoch, training_loader, optimizer):
         token_type_ids = token_type_ids.to(device, dtype=torch.long)
 
         outputs = model(ids, mask, token_type_ids)
+        mask_outputs = outputs.to(device, dtype=torch.float)
         # predictions = torch.nn.Softmax(outputs)
         Loss_CE = loss_function(outputs, targets)
-        Loss_Mask = mask_loss(outputs.to(device, dtype=torch.float), mask_labels)
+        Loss_Mask = mask_loss(mask_outputs, mask_labels)
         loss = Loss_CE + alpha * Loss_Mask
         tr_loss += Loss_CE.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
