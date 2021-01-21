@@ -80,8 +80,8 @@ def valid(model, testing_loader):
             ids = data['ids'].to(device, dtype=torch.long)
             mask = data['mask'].to(device, dtype=torch.long)
             targets = data['targets'].to(device, dtype=torch.long)
-            outputs = model(ids, mask).squeeze()
             mask_labels = data['mask_labels'].to(device, dtype=torch.long)
+            outputs = model(ids, mask, token_type_ids).squeeze()
             outputs_ = outputs * mask_labels
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
