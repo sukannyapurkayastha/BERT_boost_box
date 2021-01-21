@@ -41,7 +41,7 @@ def train(model, epoch, training_loader, optimizer):
         # predictions = torch.nn.Softmax(outputs)
         Loss_CE = loss_function(outputs, targets)
         Loss_Mask = mask_loss(mask_outputs, mask_labels)
-        loss = Loss_CE + alpha * Loss_Mask
+        loss = (1-alpha) * Loss_CE + alpha * Loss_Mask
         tr_loss += Loss_CE.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
         n_correct += calcuate_accu(big_idx, targets)
