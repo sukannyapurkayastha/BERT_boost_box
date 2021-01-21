@@ -22,6 +22,8 @@ def train(model, epoch, training_loader, optimizer):
     nb_tr_steps = 0
     nb_tr_examples = 0
     model.train()
+    print(f'No of correct examples before training:{n_correct}')
+    print(f'No of examples after training:{nb_tr_examples}')
     for _, data in enumerate(training_loader, 0):
         ids = data['ids']
         mask = data['mask']
@@ -58,12 +60,9 @@ def train(model, epoch, training_loader, optimizer):
         # # When using GPU
         optimizer.step()
 
+    print(f'No of correct examples after training:{n_correct}')
+    print(f'No of examples after training:{nb_tr_examples}')
     print(f'The Total Accuracy for Epoch {epoch}: {(n_correct * 100) / nb_tr_examples}')
-    epoch_loss = tr_loss / nb_tr_steps
-    epoch_accu = (n_correct * 100) / nb_tr_examples
-    print(f"Training Loss Epoch: {epoch_loss}")
-    print(f"Training Accuracy Epoch: {epoch_accu}")
-
     return
 
 
@@ -99,7 +98,7 @@ def valid(model, testing_loader):
                 print(f"Validation Accuracy per 100 steps: {accu_step}")
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
-    print(f"Validation Loss Epoch: {epoch_loss}")
-    print(f"Validation Accuracy Epoch: {epoch_accu}")
+    print(f"Validation Loss: {epoch_loss}")
+    print(f"Validation Accuracy : {epoch_accu}")
 
     return epoch_accu
