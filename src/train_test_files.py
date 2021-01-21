@@ -31,7 +31,7 @@ def train(model, epoch, training_loader, optimizer):
         ids = ids.to(device, dtype=torch.long)
         mask = mask.to(device, dtype=torch.long)
         targets = targets.to(device, dtype=torch.long)
-        mask_labels = mask_labels.to(device, dtype=torch.long)
+        mask_labels = mask_labels.to(device, dtype=torch.float)
         token_type_ids = token_type_ids.to(device, dtype=torch.long)
 
         outputs = model(ids, mask, token_type_ids)
