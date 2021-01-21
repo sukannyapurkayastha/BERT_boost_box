@@ -1,9 +1,9 @@
 from transformers import BertTokenizer
 
 MAX_LEN = 512
-TRAIN_BATCH_SIZE = 8
+TRAIN_BATCH_SIZE = 32
 VALID_BATCH_SIZE = 8
-EPOCHS = 2
+EPOCHS = 7
 ACCUMULATION = 3
 # BERT_PATH='../data/bert_base_uncased'
 # MODEL_PATH='model.bin'
