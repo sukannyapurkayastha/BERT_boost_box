@@ -13,6 +13,7 @@ import model_class
 from train_test_files import train, valid
 from torch.utils.data import DataLoader
 from torch import cuda
+import torch.nn as nn 
 
 
 device = 'cuda' if cuda.is_available() else 'cpu'
