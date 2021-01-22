@@ -12,6 +12,9 @@ import pandas as pd
 import model_class
 from train_test_files import train, valid
 from torch.utils.data import DataLoader
+from torch import cuda
+import torch.nn as nn 
+
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
@@ -32,6 +35,7 @@ def run(train_dataset, test_dataset):
 
     model = model_class.Bert_Kbqa_Model()
     model.to(device)
+    model = nn.DataParallel(model)
     optimizer = torch.optim.Adam(model.parameters(), lr=3e-5)
     for epoch in range(config.EPOCHS):
         train(model, epoch, train_data_loader, optimizer)

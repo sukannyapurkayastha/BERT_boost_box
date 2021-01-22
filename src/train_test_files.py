@@ -22,6 +22,8 @@ def train(model, epoch, training_loader, optimizer):
     nb_tr_steps = 0
     nb_tr_examples = 0
     model.train()
+    print(f'No of correct examples before training:{n_correct}')
+    print(f'No of examples after training:{nb_tr_examples}')
     for _, data in enumerate(training_loader, 0):
         ids = data['ids']
         mask = data['mask']
@@ -31,14 +33,15 @@ def train(model, epoch, training_loader, optimizer):
         ids = ids.to(device, dtype=torch.long)
         mask = mask.to(device, dtype=torch.long)
         targets = targets.to(device, dtype=torch.long)
-        mask_labels = mask_labels.to(device, dtype=torch.long)
+        mask_labels = mask_labels.to(device, dtype=torch.float)
         token_type_ids = token_type_ids.to(device, dtype=torch.long)
 
         outputs = model(ids, mask, token_type_ids)
+        mask_outputs = outputs.type_as(mask_labels)
         # predictions = torch.nn.Softmax(outputs)
         Loss_CE = loss_function(outputs, targets)
-        Loss_Mask = mask_loss(outputs, mask_labels)
-        loss = Loss_CE + alpha * Loss_Mask
+        Loss_Mask = mask_loss(mask_outputs, mask_labels)
+        loss = (1-alpha) * Loss_CE + alpha * Loss_Mask
         tr_loss += Loss_CE.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
         n_correct += calcuate_accu(big_idx, targets)
@@ -57,12 +60,9 @@ def train(model, epoch, training_loader, optimizer):
         # # When using GPU
         optimizer.step()
 
+    print(f'No of correct examples after training:{n_correct}')
+    print(f'No of examples after training:{nb_tr_examples}')
     print(f'The Total Accuracy for Epoch {epoch}: {(n_correct * 100) / nb_tr_examples}')
-    epoch_loss = tr_loss / nb_tr_steps
-    epoch_accu = (n_correct * 100) / nb_tr_examples
-    print(f"Training Loss Epoch: {epoch_loss}")
-    print(f"Training Accuracy Epoch: {epoch_accu}")
-
     return
 
 
@@ -80,8 +80,9 @@ def valid(model, testing_loader):
             ids = data['ids'].to(device, dtype=torch.long)
             mask = data['mask'].to(device, dtype=torch.long)
             targets = data['targets'].to(device, dtype=torch.long)
-            outputs = model(ids, mask).squeeze()
+            token_type_ids = data['token_type_ids']
             mask_labels = data['mask_labels'].to(device, dtype=torch.long)
+            outputs = model(ids, mask, token_type_ids).squeeze()
             outputs_ = outputs * mask_labels
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
@@ -98,7 +99,7 @@ def valid(model, testing_loader):
                 print(f"Validation Accuracy per 100 steps: {accu_step}")
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
-    print(f"Validation Loss Epoch: {epoch_loss}")
-    print(f"Validation Accuracy Epoch: {epoch_accu}")
+    print(f"Validation Loss: {epoch_loss}")
+    print(f"Validation Accuracy : {epoch_accu}")
 
     return epoch_accu

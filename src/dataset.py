@@ -15,7 +15,8 @@ class BERT_KBQA_Dataloader:
         return len(self.text)
 
     def __getitem__(self, index):
-        inputs = self.tokenizer.encode_plus(self.text, None, add_special_tokens=True, max_length=config.MAX_LEN)
+        text= str(self.text[index])
+        inputs = self.tokenizer.encode_plus(text, None, add_special_tokens=True, max_length=config.MAX_LEN)
         ids = inputs["input_ids"]
         mask = inputs["attention_mask"]
         token_type_ids = inputs["token_type_ids"]
@@ -30,5 +31,5 @@ class BERT_KBQA_Dataloader:
             'mask': torch.tensor(mask, dtype=torch.long),
             'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
             'targets': torch.tensor(self.relation_cat[index], dtype=torch.long),
-            'mask_labels': [torch.from_numpy(np.array(self.mask_labels[index]))]
+            'mask_labels': torch.from_numpy(np.array(self.mask_labels[index]))
         }
