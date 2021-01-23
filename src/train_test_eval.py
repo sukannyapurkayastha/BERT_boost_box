@@ -66,7 +66,7 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
     return
 
 
-def valid(model, testing_loader, device):
+def valid(model, testing_loader, device, alpha):
     model.eval()
     n_correct = 0
     tr_loss = 0
