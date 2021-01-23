@@ -16,7 +16,7 @@ def mask_loss(outputs, target_mask):
     return torch.nn.BCEWithLogitsLoss()(outputs, target_mask)
 
 
-def train(model, epoch, alpha, training_loader, optimizer):
+def train(model, epoch, alpha, training_loader, optimizer, device):
     tr_loss = 0
     n_correct = 0
     nb_tr_steps = 0
@@ -66,7 +66,7 @@ def train(model, epoch, alpha, training_loader, optimizer):
     return
 
 
-def valid(model, testing_loader):
+def valid(model, testing_loader, device):
     model.eval()
     n_correct = 0
     tr_loss = 0
