@@ -1,6 +1,6 @@
 from transformers import BertTokenizer
 
-MAX_LEN = 512
+MAX_LEN = 256
 TRAIN_BATCH_SIZE = 8
 VALID_BATCH_SIZE = 8
 EPOCHS = 15
