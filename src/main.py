@@ -39,7 +39,7 @@ def run(train_dataset, test_dataset, epochs, alpha, lr):
     model = nn.DataParallel(model)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
     for epoch in range(epochs):
-        train(model, epoch, train_data_loader, optimizer, alpha)
+        train(model, epoch, alpha, train_data_loader, optimizer)
         #valid(model,valid_data_loader)
 
     del data_train
