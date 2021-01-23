@@ -10,7 +10,7 @@ import torch
 import h5py
 import pandas as pd
 import model_class
-from train_test_files import train, valid
+from train_test_eval import train, valid
 from torch.utils.data import DataLoader
 from torch import cuda
 import torch.nn as nn 
