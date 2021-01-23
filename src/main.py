@@ -39,7 +39,7 @@ def run(train_dataset, test_dataset, epochs, alpha, lr):
     model = nn.DataParallel(model)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
     for epoch in range(epochs):
-        train(model, epoch, alpha, train_data_loader, optimizer)
+        train(model, epoch, alpha, train_data_loader, optimizer, device)
         #valid(model,valid_data_loader)
 
     del data_train
@@ -50,7 +50,7 @@ def run(train_dataset, test_dataset, epochs, alpha, lr):
         data_test = hf['test_mask'][:].tolist()
     test_data_set = dataset.BERT_KBQA_Dataloader(df_test.text.values, df_test.relation_label.values, data_test)
     test_data_loader = DataLoader(test_data_set, batch_size=config.VALID_BATCH_SIZE,)
-    acc = valid(model, test_data_loader)
+    acc = valid(model, test_data_loader, device)
     print("Accuracy on test data = %0.2f%%" % acc)
 
 
