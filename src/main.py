@@ -59,6 +59,7 @@ if __name__ == '__main__':
     parser.add_argument("--epochs", help='No. of epochs', type=int)
     parser.add_argument("--alpha", help='Value of alpha', type=float)
     parser.add_argument("--lr", help='learning_rate', type=float)
+    args = parser.parse_args()
     train_dataset = '../data/train_data_final.txt'
     test_dataset = '../data/test_data_final.txt'
     run(train_dataset, test_dataset, args.epochs, args.alpha, args.lr)
