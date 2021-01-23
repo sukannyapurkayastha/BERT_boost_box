@@ -50,7 +50,7 @@ def run(train_dataset, test_dataset, epochs, alpha, lr, batch_size):
         data_test = hf['test_mask'][:].tolist()
     test_data_set = dataset.BERT_KBQA_Dataloader(df_test.text.values, df_test.relation_label.values, data_test)
     test_data_loader = DataLoader(test_data_set, batch_size=batch_size)
-    acc = valid(model, test_data_loader, device)
+    acc = valid(model, test_data_loader, device, alpha)
     print("Accuracy on test data = %0.2f%%" % acc)
 
 
