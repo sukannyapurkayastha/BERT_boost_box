@@ -14,11 +14,12 @@ from train_test_files import train, valid
 from torch.utils.data import DataLoader
 from torch import cuda
 import torch.nn as nn 
+import argparse
 
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-def run(train_dataset, test_dataset):
+def run(train_dataset, test_dataset, epochs, alpha, lr):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_test = pd.read_csv(test_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
 
@@ -36,9 +37,10 @@ def run(train_dataset, test_dataset):
     model = model_class.Bert_Kbqa_Model()
     model.to(device)
     model = nn.DataParallel(model)
-    optimizer = torch.optim.Adam(model.parameters(), lr=3e-5)
-    for epoch in range(config.EPOCHS):
-        train(model, epoch, train_data_loader, optimizer)
+    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+    for epoch in range(epochs):
+        train(model, epoch, train_data_loader, optimizer, alpha)
+        #valid(model,valid_data_loader)
 
     del data_train
     del train_data_loader
@@ -53,6 +55,10 @@ def run(train_dataset, test_dataset):
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--epochs", help='No. of epochs', type=int)
+    parser.add_argument("--alpha", help='Value of alpha', type=float)
+    parser.add_argument("--lr", help='learning_rate', type=float)
     train_dataset = '../data/train_data_final.txt'
     test_dataset = '../data/test_data_final.txt'
     run(train_dataset, test_dataset)
