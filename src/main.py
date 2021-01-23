@@ -61,6 +61,6 @@ if __name__ == '__main__':
     parser.add_argument("--lr", help='learning_rate', type=float)
     train_dataset = '../data/train_data_final.txt'
     test_dataset = '../data/test_data_final.txt'
-    run(train_dataset, test_dataset, epochs, alpha, lr)
+    run(train_dataset, test_dataset, args.epochs, args.alpha, args.lr)
 
 
