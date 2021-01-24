@@ -75,7 +75,7 @@ def valid(model, testing_loader, device, alpha):
     nb_tr_examples = 0
     n_wrong = 0
     total = 0
-    f=open(f'Results/Results_{alpha}.txt','w')
+    f=open(f'../Results/Result_{alpha}.txt','w')
     with torch.no_grad():
         for _, data in enumerate(testing_loader, 0):
             ids = data['ids'].to(device, dtype=torch.long)
