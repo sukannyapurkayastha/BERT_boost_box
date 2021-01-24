@@ -99,7 +99,7 @@ def valid(model, testing_loader, device, alpha):
             #    print(f"Validation Loss per 100 steps: {loss_step}")
             #    print(f"Validation Accuracy per 100 steps: {accu_step}")
             for pred in big_idx.tolist():
-                f.write(pred+'\n')
+                f.write(str(pred)+'\n')
         f.close()
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
