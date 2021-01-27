@@ -20,7 +20,7 @@ from pytorchtools import EarlyStopping
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_size):
+def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_size, patience):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_valid = pd.read_csv(valid_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_test = pd.read_csv(test_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
@@ -44,7 +44,7 @@ def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_siz
     model.to(device)
     model = nn.DataParallel(model)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-    early_stopping = EarlyStopping(patience=patience, verbose=True, path=f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}.pt')
+    early_stopping = EarlyStopping(patience=patience, verbose=True, path=f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt')
 
     for epoch in range(epochs):
         train(model, epoch, alpha, train_data_loader, optimizer, device)
@@ -54,9 +54,9 @@ def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_siz
             print("Early stopping")
             break
 
-    model.load_state_dict(torch.load(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}.pt'))
-    f=open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}.txt','w')
-    f.write(f'Epochs:{epochs}\n Batch size:{batch_size}\n Learning Rate:{lr}\n alpha: {alpha}')
+    model.load_state_dict(torch.load(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt'))
+    f=open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.txt','w')
+    f.write(f'Epochs:{epochs}\n Batch size:{batch_size}\n Learning Rate:{lr}\n alpha: {alpha}\n patience: {patience}\n')
     f.close()
     #torch.save(model.state_dict(), f'../checkpoints/checkpoint_{alpha}.pt')
 
@@ -81,10 +81,11 @@ if __name__ == '__main__':
     parser.add_argument("--alpha", help='Value of alpha', type=float)
     parser.add_argument("--lr", help='learning_rate', type=float)
     parser.add_argument("--batch_size", help='batch_size', type=int)
+    parser.add_argument("--patience", help= 'patience', type = int)
     args = parser.parse_args()
     train_dataset = '../data/train_data_final.txt'
     valid_dataset = '../data/valid_data_final.txt'
     test_dataset = '../data/test_data_final.txt'
-    run(train_dataset, valid_dataset, test_dataset, args.epochs, args.alpha, args.lr, args.batch_size)
+    run(train_dataset, valid_dataset, test_dataset, args.epochs, args.alpha, args.lr, args.batch_size, args.patience)
 
 
