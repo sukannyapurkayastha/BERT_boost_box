@@ -66,7 +66,7 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
     return
 
 
-def valid(model, testing_loader, device, alpha):
+def valid(model, testing_loader, device, alpha, type_of_data):
     model.eval()
     n_correct = 0
     tr_loss = 0
@@ -75,7 +75,8 @@ def valid(model, testing_loader, device, alpha):
     nb_tr_examples = 0
     n_wrong = 0
     total = 0
-    f=open(f'../Results/Result_{alpha}.txt','w')
+    pred_idx=[]
+        
     with torch.no_grad():
         for _, data in enumerate(testing_loader, 0):
             ids = data['ids'].to(device, dtype=torch.long)
@@ -98,12 +99,16 @@ def valid(model, testing_loader, device, alpha):
             #    accu_step = (n_correct * 100) / nb_tr_examples
             #    print(f"Validation Loss per 100 steps: {loss_step}")
             #    print(f"Validation Accuracy per 100 steps: {accu_step}")
-            for pred in big_idx.tolist():
-                f.write(str(pred)+'\n')
-        f.close()
+            pred_idx.extend(big_idx.tolist())
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
     print(f"Test Loss: {epoch_loss}")
     print(f"Test Accuracy : {epoch_accu}")
+    
+    if type_of_data=='test':
+        f=open(f'../Results/Result_{alpha}.txt','w')
+        for idx in pred_idx:
+            f.write(str(idx)+'\n')
+        f.close()
 
-    return epoch_accu
+    return epoch_accu, epoch_loss
