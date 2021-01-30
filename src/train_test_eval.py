@@ -1,8 +1,8 @@
 import torch
 from torch import cuda
-device = 'cuda' if cuda.is_available() else 'cpu'
+#device = 'cuda' if cuda.is_available() else 'cpu'
 #optimizer = torch.optim.Adam(lr=3e-5)
-alpha = 0.5
+#alpha = 0.5
 
 def calcuate_accu(big_idx, targets):
     n_correct = (big_idx == targets).sum().item()
@@ -16,7 +16,7 @@ def mask_loss(outputs, target_mask):
     return torch.nn.BCEWithLogitsLoss()(outputs, target_mask)
 
 
-def train(model, epoch, training_loader, optimizer):
+def train(model, epoch, alpha, training_loader, optimizer, device):
     tr_loss = 0
     n_correct = 0
     nb_tr_steps = 0
@@ -66,7 +66,7 @@ def train(model, epoch, training_loader, optimizer):
     return
 
 
-def valid(model, testing_loader):
+def valid(model, testing_loader, device, alpha, type_of_data):
     model.eval()
     n_correct = 0
     tr_loss = 0
@@ -75,6 +75,8 @@ def valid(model, testing_loader):
     nb_tr_examples = 0
     n_wrong = 0
     total = 0
+    pred_idx=[]
+        
     with torch.no_grad():
         for _, data in enumerate(testing_loader, 0):
             ids = data['ids'].to(device, dtype=torch.long)
@@ -92,14 +94,21 @@ def valid(model, testing_loader):
             nb_tr_steps += 1
             nb_tr_examples += targets.size(0)
 
-            if _ % 5000 == 0:
-                loss_step = tr_loss / nb_tr_steps
-                accu_step = (n_correct * 100) / nb_tr_examples
-                print(f"Validation Loss per 100 steps: {loss_step}")
-                print(f"Validation Accuracy per 100 steps: {accu_step}")
+            # if _ % 5000 == 0:
+            #    loss_step = tr_loss / nb_tr_steps
+            #    accu_step = (n_correct * 100) / nb_tr_examples
+            #    print(f"Validation Loss per 100 steps: {loss_step}")
+            #    print(f"Validation Accuracy per 100 steps: {accu_step}")
+            pred_idx.extend(big_idx.tolist())
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
-    print(f"Validation Loss: {epoch_loss}")
-    print(f"Validation Accuracy : {epoch_accu}")
+    print(f"Test Loss: {epoch_loss}")
+    print(f"Test Accuracy : {epoch_accu}")
+    
+    if type_of_data=='test':
+        f=open(f'../Results/Result_{alpha}.txt','w')
+        for idx in pred_idx:
+            f.write(str(idx)+'\n')
+        f.close()
 
-    return epoch_accu
+    return epoch_accu, epoch_loss
