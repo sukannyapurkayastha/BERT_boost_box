@@ -4,7 +4,7 @@ This repository contains the data and code for BERT Boost Box. The following ste
   * unzip train_mask.zip
   * unzip valid_mask.zip
   * unzip test_mask.zip
-* mkdir ../Results [All the outputs from the run will be saved in this folder]
+* mkdir ../checkpoints [All the checkpoints from the run along with the config files will be saved in this folder]
 * cd ../src
 * Run the main.py file
   * python main.py --epochs 10 --patience 7 --batch_size 8 --alpha 0.5 --lr 1e-5 
