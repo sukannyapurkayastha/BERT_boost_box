@@ -48,7 +48,7 @@ def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_siz
 
     for epoch in range(epochs):
         train(model, epoch, alpha, train_data_loader, optimizer, device)
-        _, loss = valid(model,valid_data_loader, device, alpha, 'valid')
+        _, valid_loss = valid(model,valid_data_loader, device, alpha, 'valid')
         early_stopping(valid_loss, model)
         if early_stopping.early_stop:
             print("Early stopping")
