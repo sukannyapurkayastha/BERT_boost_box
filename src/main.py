@@ -44,7 +44,8 @@ def run(train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_siz
     model.to(device)
     model = nn.DataParallel(model)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
-    early_stopping = EarlyStopping(patience=patience, verbose=True, path=f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt')
+    path = open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt','w')
+    early_stopping = EarlyStopping(patience = patience, verbose = True, path = path)
 
     for epoch in range(epochs):
         train(model, epoch, alpha, train_data_loader, optimizer, device)
