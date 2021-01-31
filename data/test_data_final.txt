@@ -1,103 +1,107 @@
-Which architect of Marine Corps Air Station Kaneohe Bay was also tenant of New Sanno hotel /' [SEP] SUB [SEP] New_Sanno_Hotel	tenant	14682
 Which architect of Marine Corps Air Station Kaneohe Bay was also tenant of New Sanno hotel /' [SEP] SUB [SEP] Marine_Corps_Air_Station_Kaneohe_Bay	architect	16129
+Which architect of Marine Corps Air Station Kaneohe Bay was also tenant of New Sanno hotel /' [SEP] SUB [SEP] New_Sanno_Hotel	tenant	14682
 Which sects people are part of local political parties which fall under the International Muslim Brotherhood? [SEP] OBJ [SEP] Muslim_Brotherhood	international	8267
 List common systems are developed by of the Google Videos and written by of the Google Web Toolkit ? [SEP] SUB [SEP] Google_Videos	developer	25969
 List common systems are developed by of the Google Videos and written by of the Google Web Toolkit ? [SEP] SUB [SEP] Google_Web_Toolkit	author	46678
-For which games are Sam Loyd and Eric Schiller both famous? [SEP] SUB [SEP] Eric_Schiller	knownFor	51841
 For which games are Sam Loyd and Eric Schiller both famous? [SEP] SUB [SEP] Sam_Loyd	knownFor	51841
+For which games are Sam Loyd and Eric Schiller both famous? [SEP] SUB [SEP] Eric_Schiller	knownFor	51841
 Is Peter Piper Pizza in the pizza industry? [SEP] SUB [SEP] Peter_Piper_Pizza	industry	10551
 Is Peter Piper Pizza in the pizza industry? [SEP] OBJ [SEP] Pizza	industry	10551
-Name the artist who made Dream Dancing and is often associated with Joe Pass? [SEP] OBJ [SEP] Dream_Dancing	associatedBand	31652
+Name the artist who made Dream Dancing and is often associated with Joe Pass? [SEP] OBJ [SEP] Dream_Dancing	name	50666
+Name the artist who made Dream Dancing and is often associated with Joe Pass? [SEP] SUB [SEP] Joe_Pass	associatedBand	31652
+Who is the office holder with deputies as Neil Brown and Andrew Peacock? [SEP] OBJ [SEP] Neil_Brown_(Australian_politician)	deputy	40330
 Who is the office holder with deputies as Neil Brown and Andrew Peacock? [SEP] OBJ [SEP] Andrew_Peacock	deputy	40330
-Where did these popular aeroplanes - Focke Wulf 260 and Start+Flug H 101 originate? [SEP] SUB [SEP] H	<r0	61207
 Where did these popular aeroplanes - Focke Wulf 260 and Start+Flug H 101 originate? [SEP] SUB [SEP] Focke-Wulf_Fw_260	nationalOrigin	14009
-Which television show 's producer is Stephen E. Ambrose and written by Erik Jendresen? [SEP] OBJ [SEP] Erik_Jendresen	writer	38511
+Where did these popular aeroplanes - Focke Wulf 260 and Start+Flug H 101 originate? [SEP] SUB [SEP] Start_+_Flug_H-101	nationalOrigin	14009
 Which television show 's producer is Stephen E. Ambrose and written by Erik Jendresen? [SEP] OBJ [SEP] Stephen_E._Ambrose	producer	27123
+Which television show 's producer is Stephen E. Ambrose and written by Erik Jendresen? [SEP] OBJ [SEP] Erik_Jendresen	writer	38511
 Who created the Women in the Garden and also the L'Enfant a la tasse ? [SEP] SUB [SEP] Women_in_the_Garden	artist	57049
 Who created the Women in the Garden and also the L'Enfant a la tasse ? [SEP] SUB [SEP] L'Enfant_a_la_tasse	artist	57049
 Which famous horserace has seen both Fergie sutherland and the illustrious War of Attrition? [SEP] SUB [SEP] Fergie_Sutherland	race	42597
 Which famous horserace has seen both Fergie sutherland and the illustrious War of Attrition? [SEP] SUB [SEP] War_of_Attrition	established	6822
 Tell me the name of the Prime Time Entertainment Network's TV show whose Artist is Christopher Franke ? [SEP] OBJ [SEP] Prime_Time_Entertainment_Network	network	2420
+Tell me the name of the Prime Time Entertainment Network's TV show whose Artist is Christopher Franke ? [SEP] OBJ [SEP] Christopher_Franke	artist	57049
 How many other battles have the military person fought whose one of the battles is World War II ? [SEP] OBJ [SEP] Ii	battles	51886
-Whose network's parent organisation is Comcast? [SEP] OBJ [SEP] Parent	parentOrganisation	3927
-Is William H Blanchard buried in Colorado? [SEP] SUB [SEP] William_Blanchard	placeofburial	24330
-Is William H Blanchard buried in Colorado? [SEP] OBJ [SEP] H	placeofburial	24330
+Whose network's parent organisation is Comcast? [SEP] OBJ [SEP] Comcast	parentOrganisation	3927
+Is William H Blanchard buried in Colorado? [SEP] SUB [SEP] H	placeofburial	24330
+Is William H Blanchard buried in Colorado? [SEP] OBJ [SEP] Colorado	placeofburial	24330
 Which cport of Vishwajyot High School is also the genere of Battle chess  [SEP] SUB [SEP] Vishwajyot_High_School	sport	49094
 Which cport of Vishwajyot High School is also the genere of Battle chess  [SEP] SUB [SEP] Battle_Chess	genre	33756
 In which state is the Channel district? [SEP] SUB [SEP] Channel_District	state	50216
 Who was in the missions of Apollo 11 and Gemini 8? [SEP] OBJ [SEP] Apollo_11	mission	28637
 Who was in the missions of Apollo 11 and Gemini 8? [SEP] OBJ [SEP] Gemini_8	mission	28637
 What is the total number of other tenant of the stadia whose one of the tenant is Raptors 905? [SEP] OBJ [SEP] Raptors_905	tenant	14682
-Where can one find the Dzogchen Ponolop Rinpoche? [SEP] SUB [SEP] Dzogchen_Rinpoche	<r0	61207
-Who is the stockholder of the road tunnels operated by the Massachusetts Department of Transportation? [SEP] OBJ [SEP] Massachusetts_Department_of_Transportation	operator	59761
+Where can one find the Dzogchen Ponolop Rinpoche? [SEP] OBJ [SEP] Dzogchen_Rinpoche	<r0	61207
+Who is the stockholder of the road tunnels operated by the Massachusetts Department of Transportation? [SEP] SUB [SEP] Stockholder_of_Record	operator	59761
 What are the awards won by the film director of Saraband ? [SEP] SUB [SEP] Saraband	director	19232
 What is the almamater of the president whose vice president was Enrique Jos Varona? [SEP] OBJ [SEP] Enrique_José_Varona	vicePresident	10628
 What is the route end of Birmingham and Oxford Junction Railway ? [SEP] SUB [SEP] Birmingham	routeEnd	35144
 What is the route end of Birmingham and Oxford Junction Railway ? [SEP] SUB [SEP] Birmingham_and_Oxford_Junction_Railway	routeEnd	35144
 Where did the Vitis Vinifera grapes originate? [SEP] OBJ [SEP] Vitis_vinifera	species	53533
 How many people are there whose children died in Indiana? [SEP] OBJ [SEP] Indiana	deathPlace	46824
+What is the military branch of the William French Smith which is also the branch of Pierre R. Graham ? [SEP] SUB [SEP] William_French_Smith	militaryBranch	54483
 What is the military branch of the William French Smith which is also the branch of Pierre R. Graham ? [SEP] SUB [SEP] Pierre_R._Graham	branch	38710
 What is the river whose source is Lake Ontario? [SEP] OBJ [SEP] Lake_Ontario	source	52585
-Whichlocation city of the Denver Broncos is the palce of birth of Steven Clark Cunningham ? [SEP] SUB [SEP] Steven_Clark_Cunningham	birthPlace	29833
 Whichlocation city of the Denver Broncos is the palce of birth of Steven Clark Cunningham ? [SEP] SUB [SEP] Denver_Broncos	locationCity	20127
+Whichlocation city of the Denver Broncos is the palce of birth of Steven Clark Cunningham ? [SEP] SUB [SEP] Steven_Clark_Cunningham	birthPlace	29833
 What is the religion of the person who founded the Emel magazine? [SEP] SUB [SEP] Emel_(magazine)	founder	6960
 Give the name of the  managers of England national under-20 football team and England national under-21 football team? [SEP] OBJ [SEP] England_national_under-20_football_team	managerclubs	43471
 Give the name of the  managers of England national under-20 football team and England national under-21 football team? [SEP] OBJ [SEP] England_national_under-21_football_team	managerclubs	43471
 How many cities are around the sea in which the the fig tree bay meets? [SEP] SUB [SEP] Fig_Tree_Bay	inflow	31108
 is blue lagoon island a part of the bahamas achipelago? [SEP] OBJ [SEP] The_Bahamas	archipelago	49409
 is blue lagoon island a part of the bahamas achipelago? [SEP] SUB [SEP] Blue_Lagoon_Island	archipelago	49409
-Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann? [SEP] OBJ [SEP] Bernard_Herrmann	musicComposer	53162
 Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann? [SEP] OBJ [SEP] RKO_Pictures	distributor	2105
-Did the New Way party merge in the One Israel party? [SEP] SUB [SEP] One_party	<r0	61207
-Did the New Way party merge in the One Israel party? [SEP] OBJ [SEP] Ethiopia	<r0	61207
+Name the movies distributed by RKO Pictures and has music composer as Bernard Herrmann? [SEP] OBJ [SEP] Bernard_Herrmann	musicComposer	53162
+Did the New Way party merge in the One Israel party? [SEP] SUB [SEP] One_party	institution	52605
+Did the New Way party merge in the One Israel party? [SEP] OBJ [SEP] Vanderbilt_University	institution	52605
 How many pole drivers have been there in grand prixes where first driver was Damon Hill? [SEP] OBJ [SEP] Damon_Hill	firstDriver	5441
 Where are jockeys in Dubai World Cup from? [SEP] OBJ [SEP] Dubai_World_Cup	race	42597
 Who owns the newspaper which was founded by Nehru? [SEP] OBJ [SEP] Jawaharlal_Nehru	founder	6960
 To which places do the flights go by airlines headquartered in the UK? [SEP] OBJ [SEP] United_Kingdom	headquarters	42877
-What is the magazine which have been  founded by Ralph J. Gleason? [SEP] OBJ [SEP] J	founder	6960
-Is Seattle the Ship builder of USS Marmora (IX-189)? [SEP] OBJ [SEP] Seattle	shipBuilder	17572
+What is the magazine which have been  founded by Ralph J. Gleason? [SEP] OBJ [SEP] Ralph_J._Gleason	founder	6960
 Is Seattle the Ship builder of USS Marmora (IX-189)? [SEP] SUB [SEP] USS_Marmora_(IX-189)	shipBuilder	17572
+Is Seattle the Ship builder of USS Marmora (IX-189)? [SEP] OBJ [SEP] Seattle	shipBuilder	17572
 Is Tirana the largest city of Albania? [SEP] SUB [SEP] Albania	largestCity	6967
 Is Tirana the largest city of Albania? [SEP] OBJ [SEP] Tirana	largestCity	6967
-In which cities can the beverage related to Barq's be found? [SEP] OBJ [SEP] Barq	related	56672
+In which cities can the beverage related to Barq's be found? [SEP] SUB [SEP] Barq	related	56672
 What is the birth place of the astronaut whose mission was the Vostok programmer? [SEP] OBJ [SEP] Vostok_programme	mission	28637
 Count everyone who studied at an institute which are in Suburbs? [SEP] OBJ [SEP] Suburbs_(The_Suburbs_album)	university	14298
 Where did Whitney Wistert debut? [SEP] SUB [SEP] Whitey_Wistert	debutteam	49790
 What is the major shrine of the monarchs whose successor is Dragimir of Travunia and Zachlumia? [SEP] OBJ [SEP] Dragimir_of_Travunia_and_Zachlumia	successor	10209
-What is the major shrine of the monarchs whose successor is Dragimir of Travunia and Zachlumia? [SEP] OBJ [SEP] Dragimir_of_Travunia_and_Zachlumia	successor	10209
+What is the major shrine of the monarchs whose successor is Dragimir of Travunia and Zachlumia? [SEP] SUB [SEP] Zachlumia	majorShrine	19003
 How many television shows have  Fox Broadcasting Company as their channel? [SEP] OBJ [SEP] Fox_Broadcasting_Company	channel	18373
 What is the river whose mouth locations are Arctic Ocean and Laptev Sea? [SEP] OBJ [SEP] Arctic_Ocean	mouthLocation	51026
-What are some wars fought when Chung Il Kwon as the country's prime minister? [SEP] OBJ [SEP] Julia_Gillard	locationCity	20127
+What are some wars fought when Chung Il Kwon as the country's prime minister? [SEP] OBJ [SEP] Julia_Gillard	type	48286
 Where was the person born who died in Bryn Mawr Hospital? [SEP] OBJ [SEP] Bryn_Mawr_Hospital	placeOfDeath	45761
 What is the faith of the Ajith Perera and religious affiliation of the Neungin High School? [SEP] SUB [SEP] Ajith_Perera	religion	21742
 What is the faith of the Ajith Perera and religious affiliation of the Neungin High School? [SEP] SUB [SEP] Neungin_High_School	religiousAffiliation	7933
 Who was in military unit which played the role of Air interdiction? [SEP] OBJ [SEP] Air_interdiction	role	40357
 Who are the current members of Insects vs Robots? [SEP] SUB [SEP] Insects_vs_Robots	currentMembers	59874
-Is Ombla originate in Croatia? [SEP] OBJ [SEP] Croatia	sourceMountain	33972
 Is Ombla originate in Croatia? [SEP] SUB [SEP] Ombla	sourceMountain	33972
+Is Ombla originate in Croatia? [SEP] OBJ [SEP] Croatia	sourceMountain	33972
 Greater Napanee is the home town of what people? [SEP] OBJ [SEP] Greater_Napanee	hometown	16022
 What place did Edwin Adams die at, which gave birth to William A Purtell? [SEP] SUB [SEP] Edwin_Adams_(politician)	placeOfDeath	45761
 What place did Edwin Adams die at, which gave birth to William A Purtell? [SEP] SUB [SEP] William_A._Purtell	birthPlace	29833
 Name the nationalteam of Trn Vit Hng ? [SEP] SUB [SEP] Trần_Việt_Hương	nationalteam	16411
+Which designer of RENFE also owns Renaissance Center ? [SEP] SUB [SEP] RENFE_Class_334	designer	25631
 Which designer of RENFE also owns Renaissance Center ? [SEP] SUB [SEP] Renaissance_Center	owner	23181
-Which designer of RENFE also owns Renaissance Center ? [SEP] SUB [SEP] RENFE_Class_334	languageFamily	17277
-Whihc uni did Joshua A. Siegel attend ? [SEP] SUB [SEP] A	education	30733
+Whihc uni did Joshua A. Siegel attend ? [SEP] SUB [SEP] University_Station_(MTR)	education	30733
 How many books are written by the author who is famous for Novelas Ejemplares? [SEP] OBJ [SEP] Novelas_ejemplares	notableWork	46501
 Name the rivers who originate from Essex? [SEP] OBJ [SEP] Essex	mouthPlace	4324
 Companies founded in Taiwan have typically which divisions? [SEP] OBJ [SEP] Typically_Tropical	genus	49674
-Did Timm Gunn guest in Sunrise (HIMYM)? [SEP] SUB [SEP] Sunrise_(How_I_Met_Your_Mother)	guests	44086
 Did Timm Gunn guest in Sunrise (HIMYM)? [SEP] OBJ [SEP] Tim_Gunn	guests	44086
-to which university did both, the Stanford Cardinal and Gerald Reaven go? [SEP] SUB [SEP] Gerald_Reaven	institution	52605
+Did Timm Gunn guest in Sunrise (HIMYM)? [SEP] SUB [SEP] Sunrise_(How_I_Met_Your_Mother)	guests	44086
 to which university did both, the Stanford Cardinal and Gerald Reaven go? [SEP] SUB [SEP] Stanford_Cardinal	university	14298
-Name the nearest city to David W. Brown House ? [SEP] SUB [SEP] David_W._Brown_House	nearestCity	32453
+to which university did both, the Stanford Cardinal and Gerald Reaven go? [SEP] SUB [SEP] Both	university	14298
+Name the nearest city to David W. Brown House ? [SEP] SUB [SEP] Vienna	nearestCity	32453
 where did Deion Sanders debut? [SEP] SUB [SEP] Deion_Sanders	debutteam	49790
 What cities are nearer to Fuountain Lake Farm? [SEP] SUB [SEP] Fountain_Lake_Farm	nearestCity	32453
 Who are the characters of Batman Live? [SEP] SUB [SEP] Batman_Live	characters	54039
 Which artists trained in San Francisco Art Institute? [SEP] OBJ [SEP] San_Francisco_Art_Institute	training	30534
-What is the owning organisation of the Ford Kansas City Assembly Plant and also the builder of the Ford Y-block engine? [SEP] SUB [SEP] Ford_Y-block_engine	manufacturer	12225
 What is the owning organisation of the Ford Kansas City Assembly Plant and also the builder of the Ford Y-block engine? [SEP] SUB [SEP] Ford_Kansas_City_Assembly_Plant	owningOrganisation	16597
-Name the country with currency as Aureus ? [SEP] OBJ [SEP] Aureus_University_School_of_Medicine	kingdom	18201
-what awards have been given to A. Peter Dewey? [SEP] OBJ [SEP] A	award	271
+What is the owning organisation of the Ford Kansas City Assembly Plant and also the builder of the Ford Y-block engine? [SEP] SUB [SEP] Ford_Y-block_engine	manufacturer	12225
+Name the country with currency as Aureus ? [SEP] OBJ [SEP] Aureus_University_School_of_Medicine	currency	31836
+what awards have been given to A. Peter Dewey? [SEP] SUB [SEP] A._Peter_Dewey	award	271
 How many shows belong to the network one of whose sister station is Cartoonite? [SEP] OBJ [SEP] Cartoonito	sisterStation	29307
 what has been developed by John Fanning? [SEP] OBJ [SEP] John_Fanning_(businessman)	developer	25969
 Muhammad Yunus has won how many awards? [SEP] SUB [SEP] Muhammad_Yunus	award	271
@@ -119,19 +123,23 @@ How many things are written in C++? [SEP] OBJ [SEP] C++	programmingLanguage	2788
 Name the garrison of the Western Naval Command and line of the Vadodara Junction railway station ? [SEP] SUB [SEP] Western_Naval_Command	garrison	47579
 Name the garrison of the Western Naval Command and line of the Vadodara Junction railway station ? [SEP] SUB [SEP] Vadodara_Junction_railway_station	line	42779
 Who are the shareholder of the soccer club for whom Steve Holland plays? [SEP] SUB [SEP] Steve_Holland_(footballer)	currentclub	23052
-Which city located on Mediterranean Sea is also the stadium of Panionios G.S.S. season ? [SEP] SUB [SEP] 2014–15_Panionios_G.S.S._season	stadium	17400
 Which city located on Mediterranean Sea is also the stadium of Panionios G.S.S. season ? [SEP] SUB [SEP] Mediterranean_Sea	cities	54723
-Was Don't Bring Me Down recorded in West Germany? [SEP] OBJ [SEP] West_Germany	recorded	12808
+Which city located on Mediterranean Sea is also the stadium of Panionios G.S.S. season ? [SEP] SUB [SEP] 2014–15_Panionios_G.S.S._season	stadium	17400
 Was Don't Bring Me Down recorded in West Germany? [SEP] SUB [SEP] Don't_Bring_Me_Down	recorded	12808
+Was Don't Bring Me Down recorded in West Germany? [SEP] OBJ [SEP] West_Germany	recorded	12808
 Through which cities do the rivers starting at the Montauk State Park flow? [SEP] OBJ [SEP] Montauk_State_Park	sourcePlace	42829
 How many ideologies do the political party of Boonchu Rojanastien hold? [SEP] SUB [SEP] Boonchu_Rojanastien	party	51475
+What are the hubs of PLUS Helicopter Services, a highway helicopter unit of PLUS Expressways? [SEP] SUB [SEP] Serbian_police_helicopter_unit	hubs	46029
 What are the hubs of PLUS Helicopter Services, a highway helicopter unit of PLUS Expressways? [SEP] SUB [SEP] Plus	hubs	46029
-Name the movies for which music was given by  Geoffrey Burgon and distributed by  Cinema International Corporation? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
 Name the movies for which music was given by  Geoffrey Burgon and distributed by  Cinema International Corporation? [SEP] OBJ [SEP] Geoffrey_Burgon	music	27000
+Name the movies for which music was given by  Geoffrey Burgon and distributed by  Cinema International Corporation? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
 Is Henry David Thoreau interested in Politics? [SEP] SUB [SEP] Henry_David_Thoreau	mainInterests	55033
+Is Henry David Thoreau interested in Politics? [SEP] OBJ [SEP] Maldives	membership	34676
+Among the companies who has product named Chinook who has a key person as Dennis Muilenburg ? [SEP] OBJ [SEP] Dennis_Muilenburg	keyPeople	4072
 Among the companies who has product named Chinook who has a key person as Dennis Muilenburg ? [SEP] OBJ [SEP] Dennis_Muilenburg	keyPeople	4072
 Which country's leader  is Giuseppe Bertello? [SEP] OBJ [SEP] Giuseppe_Bertello	leader	30944
-Who wrote the subsequent work of One Day at a Time (Em's Version) ? [SEP] OBJ [SEP] The_Browning_Version_(1951_film)	subsequentWork	51389
+Who wrote the subsequent work of One Day at a Time (Em's Version) ? [SEP] SUB [SEP] The_Browning_Version_(1951_film)	subsequentWork	51389
+Who wrote the subsequent work of One Day at a Time (Em's Version) ? [SEP] SUB [SEP] One_Day_at_a_Time_(Em's_Version)	subsequentWork	51389
 Name the TV shows with network as NBC and company as Paramount Television ? [SEP] OBJ [SEP] NBC	network	2420
 Name the TV shows with network as NBC and company as Paramount Television ? [SEP] OBJ [SEP] Paramount_Television	company	28063
 Name the fictional character whose voice's animator is Hardie Gramatky? [SEP] OBJ [SEP] Hardie_Gramatky	animator	27549
@@ -144,9 +152,9 @@ What is a common ingredient used in boyt Blodpalt and Kaszanka ? [SEP] SUB [SEP]
 Who is the partner of Rob Patterson? [SEP] OBJ [SEP] Rob_Patterson	partner	50973
 How many politicians are there from the city of Ganges? [SEP] SUB [SEP] Ganges	city	42352
 To which american football teams does the Heinz Field serve as home stadium? [SEP] SUB [SEP] Heinz_Field	tenants	56982
-Which architect of the Marine Corps Air Station Kaneohe Bay is the branch of the Burnet R. Maybank? [SEP] SUB [SEP] Burnet_R._Maybank	branch	38710
 Which architect of the Marine Corps Air Station Kaneohe Bay is the branch of the Burnet R. Maybank? [SEP] SUB [SEP] Marine_Corps_Air_Station_Kaneohe_Bay	architect	16129
-Which movies's screenplay is written by Akiva Goldsman [SEP] OBJ [SEP] Katha_Screenplay_Darsakatvam_Appalaraju	Film	61207
+Which architect of the Marine Corps Air Station Kaneohe Bay is the branch of the Burnet R. Maybank? [SEP] SUB [SEP] R	branch	38710
+Which movies's screenplay is written by Akiva Goldsman [SEP] OBJ [SEP] Akiva_Goldsman	screenplay	20549
 How many TV shows are similar to the ones belonging to fantasy genre? [SEP] OBJ [SEP] Fantasy_television	genre	33756
 Give me all commanders which had an important role in both, the Battle of Fort Stephenson and Battle of the Thames? [SEP] SUB [SEP] Battle_of_Fort_Stephenson	commander	4055
 Give me all commanders which had an important role in both, the Battle of Fort Stephenson and Battle of the Thames? [SEP] SUB [SEP] Battle_of_the_Thames	commander	4055
@@ -155,11 +163,11 @@ Which sea is surrounded by Rostock and Kaliningrad? [SEP] OBJ [SEP] Rostock_Mote
 Which television show's developer is Brian Graden and voices to the character is by Isaac Hayes? [SEP] OBJ [SEP] Brian_Graden	developer	25969
 Which television show's developer is Brian Graden and voices to the character is by Isaac Hayes? [SEP] OBJ [SEP] Isaac_Hayes	voices	57080
 How did the child of Stevens T. Mason die? [SEP] SUB [SEP] Stevens_Thomson_Mason_(Virginia)	child	9507
-Does the Ontario International Airport serve the Inland Empire? [SEP] OBJ [SEP] Inland_Empire	cityServed	1159
 Does the Ontario International Airport serve the Inland Empire? [SEP] SUB [SEP] Ontario_International_Airport	cityServed	1159
-Is semnani one of the languages spoken in Iran? [SEP] SUB [SEP] Iran	languages	10454
+Does the Ontario International Airport serve the Inland Empire? [SEP] OBJ [SEP] Inland_Empire	cityServed	1159
 Is semnani one of the languages spoken in Iran? [SEP] OBJ [SEP] Semnani_languages	languages	10454
-What is the nickname of the home stadium of Angels Toru? [SEP] SUB [SEP] Toru_Iwaya	nickname	60600
+Is semnani one of the languages spoken in Iran? [SEP] SUB [SEP] Iran	languages	10454
+What is the nickname of the home stadium of Angels Toru? [SEP] SUB [SEP] Toru_Iwaya	field	32951
 What is the television show whose executive producer is Douglas Netter? [SEP] OBJ [SEP] Douglas_Netter	executiveProducer	18481
 List out the people who are related to the relatives of Jared Kushner ? [SEP] SUB [SEP] Jared_Kushner	relation	34514
 List all the doctoral student of the scientist who has advised john Bowlby ? [SEP] OBJ [SEP] John_Bowlby	doctoralStudents	52530
@@ -168,15 +176,16 @@ In which city did The Ultimate Fighter: Team Rousey vs. Team Tate take place ? [
 Where was Sino-French War fought ? [SEP] SUB [SEP] Sino-French_War	territory	9357
 Who did Daniel Gibson marry? [SEP] OBJ [SEP] Daniel_Gibson	spouse	10737
 What is the political party of the daughter of Jawaharlal Nehru ? [SEP] SUB [SEP] Jawaharlal_Nehru	child	9507
-Name the river with source as Shannon Pot and its mouth is located in Limerick? [SEP] OBJ [SEP] Limerick	mouthLocation	51026
 Name the river with source as Shannon Pot and its mouth is located in Limerick? [SEP] OBJ [SEP] Shannon_Pot	source	52585
+Name the river with source as Shannon Pot and its mouth is located in Limerick? [SEP] OBJ [SEP] Limerick	mouthLocation	51026
 What is the organisation whose purposes are Environmentalism and Peace? [SEP] OBJ [SEP] Peace	purpose	15045
 Count the number of sports team members  which have player named Matt Williams ? [SEP] OBJ [SEP] Matt_Williams_(New_Zealand_footballer)	name	50666
 How many different people own the Timeform award winners? [SEP] OBJ [SEP] Timeform	awards	13196
 Guggenheim family is the cofounder of a company that invested stocks in which baseball teams? [SEP] OBJ [SEP] Guggenheim_family	founder	6960
 Was John muir one of the first to ascend a mountain on Mt hoffmann? [SEP] OBJ [SEP] John_Muir	firstAscentPerson	7678
+Was John muir one of the first to ascend a mountain on Mt hoffmann? [SEP] OBJ [SEP] MT	elevation	60679
 Which city is known for the people working in the western penn hospital? [SEP] OBJ [SEP] Toronto_Western_Hospital	language	25837
-In which country does the publishing house exist which was cofounded by Panos Loannides? [SEP] OBJ [SEP] Steve_Panos	residence	27866
+In which country does the publishing house exist which was cofounded by Panos Loannides? [SEP] OBJ [SEP] Steve_Panos	foundingYear	55373
 Name the team which is owned by Dafenham wind turbines and stood first in 1967 mexican Grand Prix ? [SEP] SUB [SEP] Dagenham_wind_turbines	owner	23181
 Name the team which is owned by Dafenham wind turbines and stood first in 1967 mexican Grand Prix ? [SEP] SUB [SEP] 1967_Mexican_Grand_Prix	firstTeam	18122
 Which education center Sidney Catlin Partrodge attended which was also the alma mater of Lisa Brummel ? [SEP] SUB [SEP] Sidney_Catlin_Partridge	education	30733
@@ -184,40 +193,41 @@ Which education center Sidney Catlin Partrodge attended which was also the alma 
 What sports can be played in Kharghar's schools [SEP] OBJ [SEP] Kharghar	city	42352
 Which ethinicity of  Riley Reid is the state of origin of Holmes Colbert? [SEP] SUB [SEP] Riley_Reid	ethnicity	14643
 Which ethinicity of  Riley Reid is the state of origin of Holmes Colbert? [SEP] SUB [SEP] Holmes_Colbert	stateOfOrigin	58653
-Was John Boehner the winner of the US House of Representatives elections in Ohio in 2010? [SEP] SUB [SEP] United_States_House_of_Representatives_elections_in_Ohio,_2006	winner	25382
-Was John Boehner the winner of the US House of Representatives elections in Ohio in 2010? [SEP] OBJ [SEP] United_States	winner	25382
+Was John Boehner the winner of the US House of Representatives elections in Ohio in 2010? [SEP] SUB [SEP] United_States	winner	25382
+Was John Boehner the winner of the US House of Representatives elections in Ohio in 2010? [SEP] OBJ [SEP] John_Boehner	incumbent	41795
 Which american football team  has stadium as O.co Coliseum? [SEP] OBJ [SEP] O.co_Coliseum	locationCity	20127
 How many subjects are covered in the publications of Doubleday? [SEP] OBJ [SEP] Doubleday_(publisher)	publisher	48680
 In which city of Pittsburg Steelers was the Congress of Inductrial Organization founded ? [SEP] SUB [SEP] Sheffield_Steelers	founded	39237
 What is the hometown of the residents of Martha's vineyards? [SEP] OBJ [SEP] Martha's_Vineyard	residence	27866
-Name the sea into which Danish Straits flows and has Kaliningrad as one of the city on the shore ? [SEP] OBJ [SEP] Danish_straits	outflow	40867
-Name the sea into which Danish Straits flows and has Kaliningrad as one of the city on the shore ? [SEP] OBJ [SEP] Denmark	themeMusicComposer	48383
+Name the sea into which Danish Straits flows and has Kaliningrad as one of the city on the shore ? [SEP] OBJ [SEP] Kaliningrad	cities	54723
+Name the sea into which Danish Straits flows and has Kaliningrad as one of the city on the shore ? [SEP] OBJ [SEP] Denmark	outflow	40867
 Name the team manger of Middlebrough F.C season 2006-07 ? [SEP] SUB [SEP] FC	manager	1385
 What city has the football team in which Lee Robinson debuted? [SEP] SUB [SEP] Lee_Robinson_(American_football)	debutTeam	33901
 Who is the owner of the bank which owns Bloomberg Radio? [SEP] SUB [SEP] Bloomberg_Radio	owner	23181
 Which companies were behind the renovation of McKechnie Field ? [SEP] SUB [SEP] McKechnie_Field	architect	16129
-Who was the coach of marquette Golden Eagles men's basketball team-2012,13 season ? [SEP] SUB [SEP] Team_Northumbria_(basketball)	coach	12657
-Miluk and Cayuse are still spoken in which part of the world? [SEP] SUB [SEP] Cayuse_language	region	15210
+Which companies were behind the renovation of McKechnie Field ? [SEP] SUB [SEP] Companies_listed_on_the_New_York_Stock_Exchange_(J)	movement	48022
+Who was the coach of marquette Golden Eagles men's basketball team-2012,13 season ? [SEP] SUB [SEP] Marquette_Golden_Eagles_women's_basketball	coach	12657
 Miluk and Cayuse are still spoken in which part of the world? [SEP] SUB [SEP] Miluk_language	region	15210
+Miluk and Cayuse are still spoken in which part of the world? [SEP] SUB [SEP] Cayuse_language	region	15210
 Which governer of Winston bryant is also the president of Carl Stokes ? [SEP] SUB [SEP] Winston_Bryant	governor	25211
 Which governer of Winston bryant is also the president of Carl Stokes ? [SEP] SUB [SEP] Carl_Stokes	president	60714
 List the sports of PATTS College of Aeronautics which are of interest of Jon Speelman ? [SEP] SUB [SEP] Jon_Speelman	field	32951
 What is the home stadium of the club coached by Justine Omojong? [SEP] OBJ [SEP] Justine_Omojong	coach	12657
 Which are the predecessors of the cars which are similar to the Oldsmobile 88? [SEP] SUB [SEP] Oldsmobile_88	related	56672
-Name a queen whose parent is Ptolemy XII Auletes and consort is Ptolemy XIII Theos Philopator? [SEP] OBJ [SEP] Seleucus_IV_Philopator	spouse	10737
-Name a queen whose parent is Ptolemy XII Auletes and consort is Ptolemy XIII Theos Philopator? [SEP] OBJ [SEP] XII	themeMusicComposer	48383
+Name a queen whose parent is Ptolemy XII Auletes and consort is Ptolemy XIII Theos Philopator? [SEP] OBJ [SEP] XII	parent	9413
+Name a queen whose parent is Ptolemy XII Auletes and consort is Ptolemy XIII Theos Philopator? [SEP] OBJ [SEP] Louis_XIII_of_France	spouse	10737
 Which show's theme music was composed by Primus and voiced by Isaac Hayes? [SEP] OBJ [SEP] Primus_(band)	themeMusicComposer	48383
 Which show's theme music was composed by Primus and voiced by Isaac Hayes? [SEP] OBJ [SEP] Isaac_Hayes	voices	57080
 Who is the chancellor of the university whose campus is in Woodlane, New Jersey ? [SEP] OBJ [SEP] Woodlane,_New_Jersey	campus	54176
 Name the mountain whose parent peak is located in Mexico. [SEP] OBJ [SEP] Mexico	locatedInArea	41630
 List the ingredient of Blodpalt ? [SEP] SUB [SEP] Blodpalt	ingredient	52849
 List the developers who has contributed to both GNOWSYS and GNU TeXmacs ? [SEP] SUB [SEP] GNOWSYS	developer	25969
-List the developers who has contributed to both GNOWSYS and GNU TeXmacs ? [SEP] SUB [SEP] GNU	developer	25969
+List the developers who has contributed to both GNOWSYS and GNU TeXmacs ? [SEP] SUB [SEP] GNU_TeXmacs	developer	25969
 List the served region of the organisations of Trade association. [SEP] OBJ [SEP] Trade_association	type	48286
-Is Hyundai Lavita assembled in Malaysia? [SEP] SUB [SEP] Hyundai_Lavita	assembly	1238
 Is Hyundai Lavita assembled in Malaysia? [SEP] OBJ [SEP] Malaysia	assembly	1238
+Is Hyundai Lavita assembled in Malaysia? [SEP] SUB [SEP] Hyundai_Lavita	assembly	1238
 Who composed the music for Tonight's the Night ? [SEP] SUB [SEP] Tonight's_the_Night_(2003_musical)	music	27000
-How many things are made by companies who produce mass media articles? [SEP] OBJ [SEP] Companies_listed_on_the_New_York_Stock_Exchange_(J)	product	55169
+How many things are made by companies who produce mass media articles? [SEP] OBJ [SEP] Mass_media	products	9311
 What awards have been given to race horses bred by Bert Michell? [SEP] OBJ [SEP] Bert_S._Michell	trainer	48412
 Whose mayors are affiliated with Christen-Democratisch en Vlaams? [SEP] OBJ [SEP] Christen-Democratisch_en_Vlaams	affiliation	14578
 What is the common nationality of Viveka Babajee anad Ronny Vencatachellum ? [SEP] SUB [SEP] Ronny_Vencatachellum	nationality	46679
@@ -226,77 +236,80 @@ Is the Hyundai Lavita assembled in Ulsan? [SEP] OBJ [SEP] Ulsan	assembly	1238
 Which party won the elections when Y.S. Rajasekhara Reddy was in power? [SEP] OBJ [SEP] Y._S._Rajasekhara_Reddy	leader	30944
 Where does the river begin whose left tributary is Krapanski Potok? [SEP] OBJ [SEP] Krapanski_Potok	leftTributary	14378
 What are the notable commanders of the army  whose one of the notable commanders is Paul Hausser? [SEP] OBJ [SEP] Paul_Hausser	notableCommanders	47959
+Does Fa'a' International Airport serve tahiti too? [SEP] SUB [SEP] International_airport	colour	30549
 Does Fa'a' International Airport serve tahiti too? [SEP] OBJ [SEP] Tahiti	cityServed	1159
-Does Fa'a' International Airport serve tahiti too? [SEP] OBJ [SEP] International_airport	colour	30549
 Who is the producer of  Frampton's Camel ? [SEP] SUB [SEP] Frampton's_Camel	producer	27123
 Name the directors of Lennon Legend: The Very Best of John Lennon (DVD) ? [SEP] SUB [SEP] Lennon_Legend:_The_Very_Best_of_John_Lennon_(DVD)	director	19232
 What is the political party of Arun Chandra Guha and Indira Gandhi? [SEP] SUB [SEP] Arun_Chandra_Guha	party	51475
 What is the political party of Arun Chandra Guha and Indira Gandhi? [SEP] SUB [SEP] Indira_Gandhi	party	51475
 To which country is Svetlana Navasardyan from? [SEP] SUB [SEP] Svetlana_Navasardyan	origin	33099
 What is the alma mater of the scientist who is known for Rational analysis ? [SEP] OBJ [SEP] Rational_analysis	knownFor	51841
-Who is the owner of  Chelsea F.C. ? [SEP] SUB [SEP] Chelsea_F.C.	owner	23181
+Who is the owner of  Chelsea F.C. ? [SEP] SUB [SEP] FC	owner	23181
 In how many places has Don R. Berlin worked? [SEP] SUB [SEP] Don_R._Berlin	employer	41337
 For how many movies are there whose musicians home town is in Volos ? [SEP] OBJ [SEP] Volos	hometown	16022
 In all the places with a stagecoach, where is a Peetz Table Wind Energy Center located too? [SEP] SUB [SEP] Peetz_Table_Wind_Energy_Center	location	20193
-Name the fictional character whose relatives are Huey, Dewey, and Louie and is of species American Pekin duck? [SEP] OBJ [SEP] American_Pekin_duck	species	53533
 Name the fictional character whose relatives are Huey, Dewey, and Louie and is of species American Pekin duck? [SEP] OBJ [SEP] Huey,_Dewey,_and_Louie	relatives	22219
+Name the fictional character whose relatives are Huey, Dewey, and Louie and is of species American Pekin duck? [SEP] OBJ [SEP] American_Pekin_duck	species	53533
 Who is the owner of the website which has the label Seed Eight ? [SEP] SUB [SEP] Website	owner	23181
 In which country is Sierra del Merendin? [SEP] SUB [SEP] Sierra_del_Merendón	country	60260
 What is on the border of the places which fall under crook county municipality, oregon? [SEP] OBJ [SEP] Crook_County,_Oregon	municipality	26836
 Which is the university of Vanderbilt Commodores ? [SEP] SUB [SEP] Vanderbilt_Commodores	university	14298
-Whose relatives are Clan McDuck and Huey, Dewey, and Louie? [SEP] OBJ [SEP] Huey,_Dewey,_and_Louie	relatives	22219
+Whose relatives are Clan McDuck and Huey, Dewey, and Louie? [SEP] OBJ [SEP] Clan_McDuck	relatives	22219
+Whose relatives are Clan McDuck and Huey, Dewey, and Louie? [SEP] OBJ [SEP] Louie	relatives	22219
 What musicians are signed up with colpix records? [SEP] OBJ [SEP] Colpix_Records	label	29992
 Who is the person that first ascented the Cathedral Peak and Mount Hoffmann? [SEP] SUB [SEP] Cathedral_Peak_(California)	firstAscentPerson	7678
-What currencies are used in the country whose capital is Podgorica? [SEP] OBJ [SEP] Currencies_of_Puerto_Rico	capital	9607
+Who is the person that first ascented the Cathedral Peak and Mount Hoffmann? [SEP] SUB [SEP] Mount_Hoffmann	firstAscentPerson	7678
+What currencies are used in the country whose capital is Podgorica? [SEP] OBJ [SEP] Podgorica	capital	9607
 How many other home stadium are there of the soccer club whose home stadium is Luzhniki Stadium ? [SEP] OBJ [SEP] Luzhniki_Stadium	homeStadium	4141
 Where was  William Anthony  trained ? [SEP] SUB [SEP] William_Anthony_(artist)	training	30534
 Which composer of Motorpsycho Nitemare has also composed The time are A-Changing ? [SEP] SUB [SEP] Motorpsycho_Nitemare	composer	19833
 What river is it whose source is Dowra? [SEP] OBJ [SEP] Dowra	sourceLocation	36037
-What is the religion of the president who won the Mongolian legislative election, 2004 ? [SEP] SUB [SEP] Mongolian_legislative_election,_2004	leader	30944
-Give me everything owned by networks which is lead by Steve Burke? [SEP] OBJ [SEP] Steve_Burke	network	2420
+What is the religion of the president who won the Mongolian legislative election, 2004 ? [SEP] OBJ [SEP] Mongolia	city	42352
+Give me everything owned by networks which is lead by Steve Burke? [SEP] OBJ [SEP] Steve_Burke	creator	44347
 What is the municipality of Homestead Grays Bridge ? [SEP] SUB [SEP] Homestead_Grays_Bridge	municipality	26836
 What religion do the politicians follow, who graduated from the Yokkohama Nationaal University? [SEP] OBJ [SEP] Yokohama_National_University	almaMater	18496
-Who is the narrator of The Incredible Hulk , 1982 TV series ? [SEP] SUB [SEP] Tv_test_pattern	narrator	35460
+Who is the narrator of The Incredible Hulk , 1982 TV series ? [SEP] SUB [SEP] The_Incredible_Hulk_(1982_TV_series)	narrated	5717
 What sports are played in schools where Swahili is the official language? [SEP] OBJ [SEP] Swahili_language	language	25837
 Which interest of Philip Novak is the relegion of Vesak ? [SEP] SUB [SEP] Philip_Novak	mainInterests	55033
+Which interest of Philip Novak is the relegion of Vesak ? [SEP] SUB [SEP] Vesak	type	48286
 Count all the ethinic group who speaks language which belongs to Anglo-Frisian language family ? [SEP] OBJ [SEP] Anglo-Frisian_languages	languageFamily	17277
 What is the area of the Tar Heel Sports Network which is  official residence of the Michael Nichols (photographer) ? [SEP] SUB [SEP] Tar_Heel_Sports_Network	area	34354
-What is the area of the Tar Heel Sports Network which is  official residence of the Michael Nichols (photographer) ? [SEP] SUB [SEP] Michael_Nichols_(photographer)	residence	27866
 Cologny and Lancy are the neighboring municipalities of which place ? [SEP] OBJ [SEP] Lancy	neighboringMunicipalities	21106
 How many artists have their works in the Sao Paolo Museum of Art? [SEP] OBJ [SEP] São_Paulo_Museum_of_Art	museum	55889
 VP-8 and VP-10 shares which command structure ? [SEP] SUB [SEP] VP-8	commandStructure	19806
 VP-8 and VP-10 shares which command structure ? [SEP] SUB [SEP] VP-10	commandStructure	19806
-What is used as money for French Southern and Antarctic Lands is also the  product of the Karafarin Bank ? [SEP] SUB [SEP] French_Southern_and_Antarctic_Lands	currency	31836
-What is used as money for French Southern and Antarctic Lands is also the  product of the Karafarin Bank ? [SEP] SUB [SEP] France	product	55169
+What is used as money for French Southern and Antarctic Lands is also the  product of the Karafarin Bank ? [SEP] SUB [SEP] France	capital	9607
+What is used as money for French Southern and Antarctic Lands is also the  product of the Karafarin Bank ? [SEP] SUB [SEP] Karafarin_Bank	product	55169
 Give me the total number of membership of the organisations which have memebers as  Azerbaijan? [SEP] OBJ [SEP] Azerbaijan	membership	34676
 What is the content licence of MSX BASIC ? [SEP] SUB [SEP] MSX_BASIC	license	8471
 What are the central characters in spy kids series? [SEP] OBJ [SEP] Spy_Kids_(franchise)	series	38064
 Which comic characters were created by Paul Dini? [SEP] OBJ [SEP] Paul_Dini	creators	49430
 who owns the ship Victoria? [SEP] SUB [SEP] Victoria_(ship)	owner	23181
 Where was the predecessor of Sevan Ross born? [SEP] OBJ [SEP] Sevan_Ross	successor	10209
-Which city council owns the Ted Williams tunnel and Leonard Memorial ridge? [SEP] SUB [SEP] Ridge	owner	23181
 Which city council owns the Ted Williams tunnel and Leonard Memorial ridge? [SEP] SUB [SEP] Ted_Williams_Tunnel	owner	23181
+Which city council owns the Ted Williams tunnel and Leonard Memorial ridge? [SEP] SUB [SEP] Ridge	owner	23181
 Where is the school which is the rival of Somerset Berkley Regional High? [SEP] SUB [SEP] Somerset_Berkley_Regional_High_School	rival	15173
 How many soccer manager have been in the Spain nation football team? [SEP] OBJ [SEP] Spain_national_football_team	nationalteam	16411
 Name the common alma mater of the Henry Morton Dexter and Jack McGregor [SEP] SUB [SEP] Henry_Morton_Dexter	education	30733
 Name the common alma mater of the Henry Morton Dexter and Jack McGregor [SEP] SUB [SEP] Henry_Morton_Dexter	education	30733
 What are some companies which are founded in Dallas Jurisdiction? [SEP] OBJ [SEP] Dallas	governingBody	58573
-How many bands collaborated with artists who signed up with EMI? [SEP] OBJ [SEP] Emi	rkdArtistsId	24860
+How many bands collaborated with artists who signed up with EMI? [SEP] OBJ [SEP] Emi	associatedMusicalArtist	38946
 What is the purpose of New Zealand Chess Federation ? [SEP] SUB [SEP] New_Zealand_Chess_Federation	purpose	15045
 How many TV shows are of the company which are of company which is a subsidiary of Big  Ticket Entertainment ? [SEP] OBJ [SEP] Big_Ticket_Entertainment	subsidiary	24874
 Who operates twin Cities 400 ? [SEP] SUB [SEP] Twin_Cities_400	operatedBy	37735
-What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle ? [SEP] SUB [SEP] Charles_A._Boutelle	restingplace	43919
 What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle ? [SEP] SUB [SEP] Maine_School_of_Science_and_Mathematics	authority	44115
+What is the city of the Maine School of Science and Mathematics is also the resting place of Charles A. Boutelle ? [SEP] SUB [SEP] Charles_A._Boutelle	restingplace	43919
 Give me a count of royalties buried in Rome ? [SEP] OBJ [SEP] Rome	placeOfBurial	59321
-In how many places are Marjas found? [SEP] OBJ [SEP] Barjas	height	18692
-List the soccer players whose current team has the ground Stoke-on-Trent. [SEP] OBJ [SEP] County_Ground,_Stoke-on-Trent	hometown	16022
+In how many places are Marjas found? [SEP] SUB [SEP] Barjas	height	18692
+List the soccer players whose current team has the ground Stoke-on-Trent. [SEP] OBJ [SEP] County_Ground,_Stoke-on-Trent	incumbent	41795
 Which are the countires where Pioneer Corporation has flourished? [SEP] SUB [SEP] Pioneer_Corporation	country	60260
-Who is the president of Carl Stokes nad Wyche Fowler ? [SEP] SUB [SEP] Carl_Stokes	president	60714
-Is God Save the Queen the national anthem of United Kingdom? [SEP] OBJ [SEP] God_Save_the_Queen	nationalAnthem	52699
+Which are the countires where Pioneer Corporation has flourished? [SEP] SUB [SEP] Coutières	sport	49094
+Who is the president of Carl Stokes nad Wyche Fowler ? [SEP] SUB [SEP] Wyche_Fowler	president	60714
 Is God Save the Queen the national anthem of United Kingdom? [SEP] SUB [SEP] United_Kingdom	nationalAnthem	52699
-List few Swedish language movies ? [SEP] OBJ [SEP] Sweden	Film	61207
-Was christina crawford trained by Booker T? [SEP] OBJ [SEP] Booker_T_(wrestler)	trainer	48412
+Is God Save the Queen the national anthem of United Kingdom? [SEP] OBJ [SEP] God_Save_the_Queen	nationalAnthem	52699
+List few Swedish language movies ? [SEP] SUB [SEP] Sweden	Film	61207
 Was christina crawford trained by Booker T? [SEP] SUB [SEP] Christina_Crawford_(wrestler)	trainer	48412
+Was christina crawford trained by Booker T? [SEP] OBJ [SEP] Booker_T_(wrestler)	trainer	48412
 What is the currency of Kerguelen Islands ? [SEP] SUB [SEP] Kerguelen_Islands	currency	31836
 What are the musicals whose musicians worked under Sony Music Entertainment? [SEP] OBJ [SEP] Sony_Music_Entertainment	label	29992
 Whose shrines are in a place governed by Justin Trudeau? [SEP] OBJ [SEP] Justin_Trudeau	leaderName	4863
@@ -305,19 +318,21 @@ Who is the leader of Hackweiser ? [SEP] SUB [SEP] Hackweiser	leaderName	4863
 In which city is the sister station of KTXY located ? [SEP] SUB [SEP] KTXY	sisterStation	29307
 Where was the successor of Hank Brown born? [SEP] SUB [SEP] Hank_Brown	successor	10209
 Name the constituency of Jonas Gahr where Sverre Krogh was born ? [SEP] SUB [SEP] Jonas_Gahr_Støre	constituency	47766
+What is the common battle fought by Stephen Urban and Ali Habib Mahmud ? [SEP] SUB [SEP] Stephen_Urban	battle	2009
 What is the common battle fought by Stephen Urban and Ali Habib Mahmud ? [SEP] SUB [SEP] Ali_Habib_Mahmud	battles	51886
-What is the relegious affiliations of Katyayana ? [SEP] SUB [SEP] Katyayana_(Buddhist)	religion	21742
-Where was the engineer born who manufactured EP R.E.P. 1? [SEP] OBJ [SEP] Round_1_(EP)	foundationPlace	4841
+What is the relegious affiliations of Katyayana ? [SEP] SUB [SEP] Smithsonian_Affiliations	religion	21742
+Where was the engineer born who manufactured EP R.E.P. 1? [SEP] OBJ [SEP] Loring_R-1	almaMater	18496
 who all have been a manager of english under twenty one football team? [SEP] OBJ [SEP] England_national_under-21_football_team	managerclubs	43471
 What is the military conflict whose commanders are John McEwen and Phm Vn ng? [SEP] OBJ [SEP] John_McEwen	commander	4055
 Which party has come in power in Mumbai North? [SEP] OBJ [SEP] Mumbai_North_(Lok_Sabha_constituency)	constituency	47766
-Name the tv show with judges Randy Jackson and Jennifer Lopez? [SEP] OBJ [SEP] Jennifer_Lopez	judges	19319
 Name the tv show with judges Randy Jackson and Jennifer Lopez? [SEP] OBJ [SEP] Randy_Jackson	judges	19319
+Name the tv show with judges Randy Jackson and Jennifer Lopez? [SEP] OBJ [SEP] Jennifer_Lopez	judges	19319
 What is the largest city of the country which hosted the 1951 Asian Games? [SEP] SUB [SEP] 1951_Asian_Games	hostCity	56089
 Which royalty was married to ptolemy XIII Theos Philopator and had mother named Cleopatra V ? [SEP] OBJ [SEP] Ptolemy_XIII_Theos_Philopator	spouse	10737
 Which royalty was married to ptolemy XIII Theos Philopator and had mother named Cleopatra V ? [SEP] OBJ [SEP] Cleopatra_V_of_Egypt	mother	25257
 Whose theme music was composed by a band which collaborated with Phish? [SEP] OBJ [SEP] Phish	associatedBand	31652
 Is morrissey in the smiths? [SEP] SUB [SEP] Morrissey	associatedBand	31652
+Is morrissey in the smiths? [SEP] OBJ [SEP] Mauritius	club	54161
 Which administrative headquarters of the Pulau Ubin is also the resting place of the Nicole Lai [SEP] SUB [SEP] Pulau_Ubin	capital	9607
 Which administrative headquarters of the Pulau Ubin is also the resting place of the Nicole Lai [SEP] SUB [SEP] Nicole_Lai	restingPlace	17425
 Who built the stadium which was rented by Costa Rica national football team? [SEP] OBJ [SEP] Costa_Rica_national_football_team	tenants	56982
@@ -325,12 +340,12 @@ In which country does the Auckland rugby union team play  ? [SEP] SUB [SEP] Auck
 What is the serving railway line of Warwick railway station, Perth ? [SEP] SUB [SEP] Warwick_railway_station,_Perth	servingRailwayLine	44108
 What is the radio show created by Timoteo Jeffries, about? [SEP] OBJ [SEP] Timoteo_Jeffries	creator	44347
 Where are all the protected areas near Bend, Oregon? [SEP] OBJ [SEP] Bend,_Oregon	nearestCity	32453
-Was True Grit a novel of the western genre? [SEP] OBJ [SEP] Western_(genre)	literaryGenre	44323
 Was True Grit a novel of the western genre? [SEP] SUB [SEP] True_Grit_(novel)	literaryGenre	44323
-Which notable series of Russell T Davies is also the series of Short Trips: A day in the life ? [SEP] SUB [SEP] Short_Trips:_A_Day_in_the_Life	series	38064
+Was True Grit a novel of the western genre? [SEP] OBJ [SEP] Western_(genre)	literaryGenre	44323
 Which notable series of Russell T Davies is also the series of Short Trips: A day in the life ? [SEP] SUB [SEP] Russell_T_Davies	notableWork	46501
+Which notable series of Russell T Davies is also the series of Short Trips: A day in the life ? [SEP] SUB [SEP] Short_Trips:_A_Day_in_the_Life	series	38064
 Which battles were fought under the president when Chung Won Shik was the prime minister? [SEP] OBJ [SEP] Chung_Hong-won	type	48286
-Which office holder's resting place is in  Palo Alto, California and was succeeded by Adrian A. Basora ? [SEP] OBJ [SEP] A	successor	10209
+Which office holder's resting place is in  Palo Alto, California and was succeeded by Adrian A. Basora ? [SEP] OBJ [SEP] Jean-Yves_Le_Drian	hometown	16022
 which movies have been published by Cinema International Corporation? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
 What is the total number of other destinations of the airlines whose one of the destinations is Mediterranean Sea? [SEP] OBJ [SEP] Destinations	destinations	32201
 Count the total number of academic discipline of the journals whose one of the academic discipline is Neuroimaging ? [SEP] OBJ [SEP] Neuroimaging	academicDiscipline	51789
@@ -339,20 +354,20 @@ List the award which have been won by both Charles LeMaire and Nick Park ? [SEP]
 What are some cities which have a Ferris wheel? [SEP] OBJ [SEP] Ferris_wheel	buildingType	51427
 Name the movie who has screenplay by Akiva Goldsman and is edited by Mark Stevens ? [SEP] OBJ [SEP] Akiva_Goldsman	screenplay	20549
 Name the movie who has screenplay by Akiva Goldsman and is edited by Mark Stevens ? [SEP] OBJ [SEP] Mark_Stevens_(film_editor)	editing	42946
-Count the movies in Swedish language? [SEP] OBJ [SEP] Swedish_language	language	25837
-Give me the total number of television shows whose theme music composer is Julian Gingell and created by  Simon Fuller? [SEP] OBJ [SEP] Julian_Gingell	themeMusicComposer	48383
+Count the movies in Swedish language? [SEP] OBJ [SEP] Sweden	Film	61207
+Give me the total number of television shows whose theme music composer is Julian Gingell and created by  Simon Fuller? [SEP] OBJ [SEP] Simon_Fuller	creator	44347
 Which cloud platform of Google cloud connect also provides services to 21Vianet ? [SEP] SUB [SEP] Google_Cloud_Connect	computingPlatform	61133
 Which cloud platform of Google cloud connect also provides services to 21Vianet ? [SEP] SUB [SEP] 21Vianet	services	13703
 Name the office holder whose constituency is Haight-Ashbury? [SEP] OBJ [SEP] Haight-Ashbury	constituency	47766
-Name the loocation of Lekh Castle which is also the location of SamurAbsheron channel ? [SEP] SUB [SEP] A_Channel_(manga)	location	20193
 Name the loocation of Lekh Castle which is also the location of SamurAbsheron channel ? [SEP] SUB [SEP] Lekh_Castle	location	20193
+Name the loocation of Lekh Castle which is also the location of SamurAbsheron channel ? [SEP] SUB [SEP] A_Channel_(manga)	location	20193
 Count the number of families of the Animal kingdom. [SEP] OBJ [SEP] Animal_Kingdom	established	6822
-What is the political party of the person succeeded by A.K. Singh? [SEP] SUB [SEP] AK	successor	10209
-Who is the head coach of the teams in Middlesbrough FC? [SEP] OBJ [SEP] FC	ground	44631
+What is the political party of the person succeeded by A.K. Singh? [SEP] SUB [SEP] Singh	successor	10209
+Who is the head coach of the teams in Middlesbrough FC? [SEP] SUB [SEP] FC	team	48483
 To which uni. did  sidney c patridge and cyril hume both once went? [SEP] SUB [SEP] Cyril_Hume	education	30733
 People in the royal Thai army follow which religion? [SEP] OBJ [SEP] Royal_Thai_Army	branch	38710
+Was Lucrezia Tornabuoni the mother of Lorenzo de' Medici? [SEP] SUB [SEP] Tista_De_Lorenzo	mother	25257
 Was Lucrezia Tornabuoni the mother of Lorenzo de' Medici? [SEP] OBJ [SEP] Lucrezia_Tornabuoni	mother	25257
-Was Lucrezia Tornabuoni the mother of Lorenzo de' Medici? [SEP] OBJ [SEP] Tista_De_Lorenzo	mother	25257
 Who are the producers of the movies  which has music by Gary Chang ? [SEP] OBJ [SEP] Gary_Chang	music	27000
 Where was Special 26 recorded ? [SEP] SUB [SEP] Special_26	recorded	12808
 How many movies music composers are associated with Demis Roussos ? [SEP] OBJ [SEP] Demis_Roussos	associatedActs	5810
@@ -360,7 +375,7 @@ To which nation did David Animle Hanses owe his allegiance? [SEP] SUB [SEP] Davi
 What is the alma mater of the actors of The God Who Wasn't There ? [SEP] SUB [SEP] The_God_Who_Wasn't_There	starring	26771
 List some musicians associated with famous guitar players? [SEP] OBJ [SEP] Guitar	notableInstruments	11461
 What are the airlines whose hub airport is operated by the Los Angeles World Airports? [SEP] OBJ [SEP] Los_Angeles_World_Airports	operator	59761
-Which company's cars are assembled in Colombia? [SEP] OBJ [SEP] Cars_Toons	assembly	1238
+Which company's cars are assembled in Colombia? [SEP] OBJ [SEP] Colombia	assembly	1238
 Who directed The Haunted House ? [SEP] SUB [SEP] The_Haunted_House_(1929_film)	director	19232
 Count all the different purposes followed by the different NGOs. [SEP] OBJ [SEP] Ngosini_West	mission	28637
 The players born in Bellaire, Ohio have played for which team? [SEP] OBJ [SEP] Bellaire,_Ohio	birthPlace	29833
@@ -370,19 +385,19 @@ Count the tenants of MasterCard Centre? [SEP] SUB [SEP] MasterCard_Centre	tenant
 who are starring in the movies written by Mark Sandrich ? [SEP] OBJ [SEP] Mark_Sandrich	writer	38511
 Count the number of religions followed by BJP members. [SEP] OBJ [SEP] Bangladesh_Jatiya_Party_–_BJP	members	34001
 What is the mascot of the rival school of Sullivan Central High? [SEP] SUB [SEP] Sullivan_Central_High_School	rival	15173
-What award has been awarded to both Dion Beebe and Charles LeMaire? [SEP] SUB [SEP] Charles_LeMaire	awards	13196
 What award has been awarded to both Dion Beebe and Charles LeMaire? [SEP] SUB [SEP] Dion_Beebe	award	271
+What award has been awarded to both Dion Beebe and Charles LeMaire? [SEP] SUB [SEP] Charles_LeMaire	awards	13196
 What is the birth name  of Putri Raemawasti ? [SEP] SUB [SEP] Putri_Raemawasti	birthName	37027
 What is the party of the politicians whose children is Sanjay Gandhi ? [SEP] OBJ [SEP] Sanjay_Gandhi	children	21932
-Name the tenants of MAsterCard center wich is also the draft team of Antoine Bibeau? [SEP] SUB [SEP] MasterCard	name	50666
+Name the tenants of MAsterCard center wich is also the draft team of Antoine Bibeau? [SEP] SUB [SEP] MasterCard	occupation	58311
 Name the tenants of MAsterCard center wich is also the draft team of Antoine Bibeau? [SEP] SUB [SEP] Antoine_Bibeau	draftTeam	54294
 What is the number of occupation of the people who died in tampa bay, florida? [SEP] OBJ [SEP] Tampa,_Florida	deathPlace	46824
 Who was the United States president who also served as a governor of Indiana Territory? [SEP] OBJ [SEP] Indiana_Territory	branch	38710
 List the people who were born in Gelnhausen and graduated from Pepperdine University? [SEP] OBJ [SEP] Gelnhausen	birthPlace	29833
 List the people who were born in Gelnhausen and graduated from Pepperdine University? [SEP] OBJ [SEP] Pepperdine_University	education	30733
 Musical artists who are associated with Ren & Angela were born where ? [SEP] OBJ [SEP] Ren_Bonian	associate	27040
-What religion do the Wickramabahu Centeral College and Neungin High School both follow? [SEP] SUB [SEP] Neungin_High_School	religiousAffiliation	7933
 What religion do the Wickramabahu Centeral College and Neungin High School both follow? [SEP] SUB [SEP] Wickramabahu_Central_College_(National_School)	religiousAffiliation	7933
+What religion do the Wickramabahu Centeral College and Neungin High School both follow? [SEP] SUB [SEP] Neungin_High_School	religiousAffiliation	7933
 Who designed the language integrated query? [SEP] SUB [SEP] Language_Integrated_Query	designer	25631
 Name the debut team of Dan Otero ? [SEP] SUB [SEP] Dan_Otero	debutTeam	33901
 Who started at the pole position in both 1997 canadian grand prix and the 94 spanish one? [SEP] SUB [SEP] 1997_Canadian_Grand_Prix	poleDriver	59587
@@ -394,14 +409,14 @@ What state was Cyrus Mann born in, and has the famous Downriver ? [SEP] SUB [SEP
 What state was Cyrus Mann born in, and has the famous Downriver ? [SEP] SUB [SEP] Downriver	state	50216
 Who is a religious figure titled superior general? [SEP] OBJ [SEP] Superior_general	title	59541
 List the employments of people who died in Tampa, Florida. [SEP] OBJ [SEP] Tampa,_Florida	deathPlace	46824
-What are some famous veterinary physicians known for? [SEP] OBJ [SEP] Famous	<r0	61207
-List the movies edited by Julian Doyle in which music was composed by Geoffrey Brugon ? [SEP] OBJ [SEP] Geoffrey	creator	44347
+What are some famous veterinary physicians known for? [SEP] OBJ [SEP] Famous	type	48286
+List the movies edited by Julian Doyle in which music was composed by Geoffrey Brugon ? [SEP] OBJ [SEP] Geoffrey	leaderName	4863
 Name the children of the person who is the star of The Weathered Underground ? [SEP] SUB [SEP] The_Weathered_Underground	starring	26771
-Which owner of Chelsea F.C also owns Evraz ? [SEP] SUB [SEP] Chelsea	owner	23181
-Which owner of Chelsea F.C also owns Evraz ? [SEP] SUB [SEP] FC	languageFamily	17277
+Which owner of Chelsea F.C also owns Evraz ? [SEP] SUB [SEP] FC	owner	23181
+Which owner of Chelsea F.C also owns Evraz ? [SEP] SUB [SEP] Evraz	owningCompany	24243
 Did Umkhonto we Sizwe had Nelson Mandela as a commander? [SEP] OBJ [SEP] Nelson_Mandela	notableCommanders	47959
-Name the office holder with associate as Marcus Calpurnius Bibulus and has a kid named Augustus? [SEP] OBJ [SEP] Augustus	child	9507
 Name the office holder with associate as Marcus Calpurnius Bibulus and has a kid named Augustus? [SEP] OBJ [SEP] Marcus_Calpurnius_Bibulus	associate	27040
+Name the office holder with associate as Marcus Calpurnius Bibulus and has a kid named Augustus? [SEP] OBJ [SEP] Augustus	child	9507
 What are the movies whose screenplay is done by Eric Roth? [SEP] OBJ [SEP] Eric_Roth	screenplay	20549
 What is the total number of writers whose singles are recorded in Miami? [SEP] OBJ [SEP] Miami	recordedIn	8087
 What religions are followed by members of the societies whose architectural influences can be seen on the Sanggar Agung ? [SEP] SUB [SEP] Sanggar_Agung	architecturalStyle	50249
@@ -409,71 +424,73 @@ Who is the producer of album which has the song Money? [SEP] SUB [SEP] Money_(Pi
 List the Sci-fi TV shows with theme music given by Ron Grainer? [SEP] OBJ [SEP] Ron_Grainer	themeMusicComposer	48383
 What is the company to which Fusajiro Yamauchi proprietor to ? [SEP] OBJ [SEP] Fusajiro_Yamauchi	foundedBy	7071
 Who is the writer of mark twain Tonight ? [SEP] SUB [SEP] Mark_Twain_Tonight	writer	38511
-How many members are there in the European Go Federation? [SEP] SUB [SEP] European_Go_Federation	membership	34676
+How many members are there in the European Go Federation? [SEP] SUB [SEP] Europe	membership	34676
 Was Kevin Rudd the PM of Julia Gillard? [SEP] SUB [SEP] PM	primeMinister	24941
+Was Kevin Rudd the PM of Julia Gillard? [SEP] SUB [SEP] Julia_Gillard	primeMinister	24941
 Daniel L D Granger and Job Durfee have based their political career in which US state? [SEP] SUB [SEP] Daniel_L._D._Granger	state	50216
 What is the mascot of the handball teams in the Turkish Handball Super League? [SEP] OBJ [SEP] Turkish_Handball_Super_League	league	25449
-What city was recorded in Live in detroit which is also the official residence of ken Holland ? [SEP] SUB [SEP] Ken_Holland	residence	27866
 What city was recorded in Live in detroit which is also the official residence of ken Holland ? [SEP] SUB [SEP] Live_in_Detroit,_MI	recordedIn	8087
-Marika Gombitov makes songs in which languages? [SEP] OBJ [SEP] Marika_Nezer	language	25837
-What are some musical artists associated with the ones signed up with EMI? [SEP] OBJ [SEP] Emi	associatedBand	31652
+What city was recorded in Live in detroit which is also the official residence of ken Holland ? [SEP] SUB [SEP] Ken_Holland	residence	27866
+Marika Gombitov makes songs in which languages? [SEP] OBJ [SEP] Marika_Nezer	anthem	19364
+What are some musical artists associated with the ones signed up with EMI? [SEP] OBJ [SEP] Emi	associatedMusicalArtist	38946
 Name the river which flows through the closest city of Mount Raimer ? [SEP] SUB [SEP] Mount_Raimer	nearestCity	32453
 Name the scientist whose supervisor also supervised Mary Ainsworth? [SEP] OBJ [SEP] Mary_Ainsworth	doctoralStudents	52530
 What are some relatives of armymen who died in Germany? [SEP] OBJ [SEP] Germany	placeOfDeath	45761
 Deion sanders and Hinkey haines debuted their career with which common team? [SEP] SUB [SEP] Hinkey_Haines	debutteam	49790
-Which garrison of East Indies Station is also the route end of Mumbai Vadodara Express ? [SEP] SUB [SEP] Mumbai_Vadodara_Expressway	routeEnd	35144
 Which garrison of East Indies Station is also the route end of Mumbai Vadodara Express ? [SEP] SUB [SEP] East_Indies_Station	garrison	47579
+Which garrison of East Indies Station is also the route end of Mumbai Vadodara Express ? [SEP] SUB [SEP] Mumbai_Vadodara_Expressway	routeEnd	35144
 To which political party does Virendra Kataria belongs ? [SEP] SUB [SEP] Virendra_Kataria	party	51475
 Copley Medal has been awarded to which scientists? [SEP] OBJ [SEP] Scientists_for_Global_Responsibility	awards	13196
 What is the total number of awards whose presenter's headquarters is Beverly Hills, California? [SEP] OBJ [SEP] Beverly_Hills,_California	headquarters	42877
 Who is the narrator of The Price of Beauty ? [SEP] SUB [SEP] The_Price_of_Beauty	narrator	35460
-Does Dan River flow into the Jordan Valley? [SEP] SUB [SEP] Jordan_Valley	outflow	40867
-Does Dan River flow into the Jordan Valley? [SEP] OBJ [SEP] Dan_River	outflow	40867
+Does Dan River flow into the Jordan Valley? [SEP] SUB [SEP] Dan_River	outflow	40867
+Does Dan River flow into the Jordan Valley? [SEP] OBJ [SEP] Jordan_Valley	outflow	40867
 Who is the producer of the device which is the operating system of Now TV  ? [SEP] SUB [SEP] Now_TV_(UK)	operatingSystem	27233
-How many artists have collaborated with famous guitar players? [SEP] OBJ [SEP] Famous%3F	artist	57049
+How many artists have collaborated with famous guitar players? [SEP] OBJ [SEP] Famous%3F	band	46993
 How many politicians live in India? [SEP] OBJ [SEP] India	residence	27866
 What is the base currency of the country which operates the Marion Dufresne? [SEP] SUB [SEP] Marion_Dufresne_(1995)	operator	59761
-What is the region served by the governor of Stephen L.R. McNichols ? [SEP] SUB [SEP] Liberia	regionServed	15934
+What is the region served by the governor of Stephen L.R. McNichols ? [SEP] SUB [SEP] Stephen_L.R._McNichols	governor	25211
 Who operates Liverpool Playhouse ? [SEP] SUB [SEP] Liverpool_Playhouse	operatedBy	37735
 Who has composed songs produced by Terry Melcher? [SEP] OBJ [SEP] Terry_Melcher	producer	27123
 To which series does Lost special belong to ? [SEP] SUB [SEP] We_Belong	series	38064
-How many albums did the maker of The Band produce? [SEP] SUB [SEP] Produce_101	album	4867
+How many albums did the maker of The Band produce? [SEP] OBJ [SEP] Produce_101	producer	27123
 List few musical artist whose notable instruments are Ludwig Drums and  Remo? [SEP] OBJ [SEP] Ludwig_Drums	notableInstruments	11461
+List few musical artist whose notable instruments are Ludwig Drums and  Remo? [SEP] OBJ [SEP] Remo	instrument	60877
 How many rivers start in an English speaking country? [SEP] OBJ [SEP] English_language	officialLanguage	4888
-For a position in which institution were both Jack Ryan and Robert sarvis both appointed? [SEP] OBJ [SEP] Jack_Ryan	thumbnail	32084
-For a position in which institution were both Jack Ryan and Robert sarvis both appointed? [SEP] OBJ [SEP] Robert	thumbnail	32084
+For a position in which institution were both Jack Ryan and Robert sarvis both appointed? [SEP] SUB [SEP] Jack_Ryan	birthPlace	29833
+For a position in which institution were both Jack Ryan and Robert sarvis both appointed? [SEP] SUB [SEP] Robert	serves	26696
 Where Everybody knows you is the theme album of which show ? [SEP] SUB [SEP] Everybody	album	4867
 Food in which countries has shallot in it? [SEP] OBJ [SEP] Countries_of_the_United_Kingdom	award	271
 Which rivers have source origins asnorth western, Zambia ? [SEP] OBJ [SEP] North-Western_Province,_Zambia	sourceRegion	45823
 Organization holding stocks of  Galician and German wikipedias? [SEP] SUB [SEP] Galician_parliamentary_election,_2005	country	60260
-Name the river with Readin, Brekshire in its path and mouth place is Sothend-on-sea ? [SEP] OBJ [SEP] Readin'_and_Writin'	path	52474
+Organization holding stocks of  Galician and German wikipedias? [SEP] SUB [SEP] Germany	country	60260
+Name the river with Readin, Brekshire in its path and mouth place is Sothend-on-sea ? [SEP] OBJ [SEP] Readin'_and_Writin'	district	8043
 Name the river with Readin, Brekshire in its path and mouth place is Sothend-on-sea ? [SEP] OBJ [SEP] Southend-on-Sea	mouthPlace	4324
 Alexander Magleby, a rugby player is alma mater to which university? [SEP] SUB [SEP] Alexander_Magleby	university	14298
-Is Amharic the official language of Ethiopia? [SEP] OBJ [SEP] Amharic	officialLanguage	4888
 Is Amharic the official language of Ethiopia? [SEP] SUB [SEP] Ethiopia	officialLanguage	4888
+Is Amharic the official language of Ethiopia? [SEP] OBJ [SEP] Amharic	officialLanguage	4888
 What sport played at Islamic azad uni employes Craig Van Tilbury? [SEP] SUB [SEP] Craig_Van_Tilbury	occupation	58311
 List the products of the company which published Tweenies: Game Time. [SEP] SUB [SEP] Tweenies:_Game_Time	publisher	48680
 List the agencies located someplace lead by Alex Chalk. [SEP] OBJ [SEP] Alex_Chalk	leaderName	4863
 What religion are the characters of Absolutely Fabulous from? [SEP] OBJ [SEP] Absolutely_Fabulous	series	38064
 What are the movies whose music composer uses a Hammond organ? [SEP] OBJ [SEP] Hammond_organ	instrument	60877
 Was Love Hurts in Short Cut Draw Blood? [SEP] OBJ [SEP] Short_Cut_Draw_Blood	album	4867
-Was Love Hurts in Short Cut Draw Blood? [SEP] OBJ [SEP] Ethiopia	<r0	61207
 Janaka Thissakuttiarachchi follows what religion, which once employed Atisa Srijnana too? [SEP] SUB [SEP] Janaka_Thissakuttiarachchi	religion	21742
 Whihc birthpalce of Svetlana Gounkina is also the largest city of Union State ? [SEP] SUB [SEP] Svetlana_Gounkina	birthPlace	29833
 Whihc birthpalce of Svetlana Gounkina is also the largest city of Union State ? [SEP] SUB [SEP] Svetlana_Gounkina	birthPlace	29833
-Name the TV show with artist Christopher Franke and cast member Jason Carter ? [SEP] SUB [SEP] Tv_test_pattern	name	50666
+Name the TV show with artist Christopher Franke and cast member Jason Carter ? [SEP] OBJ [SEP] Christopher_Franke	artist	57049
 Name the TV show with artist Christopher Franke and cast member Jason Carter ? [SEP] OBJ [SEP] Jason_Carter_(actor)	starring	26771
 Which artist married to Lee Krasner? [SEP] OBJ [SEP] Lee_Krasner	spouse	10737
 What teams did the ex teamplayers of lighthouse boy club start their career with? [SEP] OBJ [SEP] Lighthouse_Boys_Club	youthclubs	44726
-Where was the deadbody discovered of one of the alumni of General Educational Development? [SEP] SUB [SEP] Deadboy_&_the_Elephantmen	bodyDiscovered	11445
+Where was the deadbody discovered of one of the alumni of General Educational Development? [SEP] OBJ [SEP] General_Educational_Development	education	30733
 Who designed the bridge in Oddamavadi? [SEP] OBJ [SEP] Oddamavadi	locatedInArea	41630
 What is the leader name of the settlements whose governing body is Municipal council? [SEP] OBJ [SEP] Municipal_council	governingBody	58573
 Name the co-founder of the record labels which have one of the founder as Chris DuBois ? [SEP] OBJ [SEP] Chris_DuBois	founder	6960
 List the companies operating in Australia? [SEP] OBJ [SEP] Australia	regionServed	15934
 In which countries is coconut used as a food ingredient? [SEP] OBJ [SEP] Coconut	ingredient	52849
-How many people have worked for teams chaired by Patricia Amorim? [SEP] OBJ [SEP] Eduarda_Amorim	club	54161
+How many people have worked for teams chaired by Patricia Amorim? [SEP] OBJ [SEP] Eduarda_Amorim	leader	30944
 How many kinds of games can be played on the Amiga? [SEP] OBJ [SEP] Amiga	computingPlatform	61133
-Is the book The Buddha and his Dhamma a book about Buddhism? [SEP] OBJ [SEP] Buddhism	literaryGenre	44323
+Is the book The Buddha and his Dhamma a book about Buddhism? [SEP] SUB [SEP] The_Good_Book_(book)	<r0	61207
 Is the book The Buddha and his Dhamma a book about Buddhism? [SEP] OBJ [SEP] Mahima_Dharma	<r0	61207
 How many relatives are there of people fought in the Battle of the Bulge? [SEP] OBJ [SEP] Battle_of_the_Bulge	battles	51886
 How many genres of games can I find on the commodore CDTV? [SEP] OBJ [SEP] Commodore_CDTV	computingPlatform	61133
@@ -482,28 +499,28 @@ Does Jevan Snead play as Quarterback? [SEP] OBJ [SEP] Quarterback	position	26672
 Give me the sitcoms where Eliza Schneider and Isaac Hayes gave voice? [SEP] OBJ [SEP] Eliza_Schneider	voices	57080
 Give me the sitcoms where Eliza Schneider and Isaac Hayes gave voice? [SEP] OBJ [SEP] Isaac_Hayes	voices	57080
 Directors of which movies are buried in Ronda? [SEP] OBJ [SEP] Ronda	restingPlace	17425
-List the debut team of the baseball player who born in Houston. [SEP] OBJ [SEP] Houston_Astros	team	48483
-Does Cascade Airways have a hub in Seattle? [SEP] OBJ [SEP] Seattle	hubAirport	23355
+List the debut team of the baseball player who born in Houston. [SEP] OBJ [SEP] Houston_Astros	birthPlace	29833
 Does Cascade Airways have a hub in Seattle? [SEP] SUB [SEP] Cascade_Airways	hubAirport	23355
-Who edited  British Gazette ? [SEP] OBJ [SEP] United_Kingdom	editor	24177
+Does Cascade Airways have a hub in Seattle? [SEP] OBJ [SEP] Seattle	hubAirport	23355
+Who edited  British Gazette ? [SEP] SUB [SEP] United_Kingdom	editor	24177
 List the things for which the relatives of Mrunalini Kunte are known? [SEP] SUB [SEP] Mrunalini_Kunte	relative	29794
 What acts and artists are associated with people who have worked with Divertis? [SEP] OBJ [SEP] Divertis	associatedActs	5810
-What are the notableworks of Russell T Davies? [SEP] OBJ [SEP] T	leaderName	4863
+What are the notableworks of Russell T Davies? [SEP] OBJ [SEP] Russell_Davies	party	51475
 Which company has developed games whose music is done by Gerard Marino? [SEP] OBJ [SEP] Gerard_Marino	composer	19833
 Who all have developed softwares for Unix Like OSes? [SEP] OBJ [SEP] Unix	developer	25969
 What are some party leaders of the parties which have had a seat in Berlin? [SEP] OBJ [SEP] Berlin	headquarter	3819
-Was James maker in the band Noko? [SEP] SUB [SEP] Noko	associatedBand	31652
 Was James maker in the band Noko? [SEP] OBJ [SEP] James_Maker	associatedBand	31652
-Was Nick Jonas a member of the Jonas Brothers? [SEP] SUB [SEP] Jonas_Brothers	pastMembers	6231
+Was James maker in the band Noko? [SEP] SUB [SEP] Noko	associatedBand	31652
 Was Nick Jonas a member of the Jonas Brothers? [SEP] OBJ [SEP] Nick_Jonas	pastMembers	6231
+Was Nick Jonas a member of the Jonas Brothers? [SEP] SUB [SEP] Jonas_Brothers	pastMembers	6231
 Which tenant of New Sanno Hotel is the military branch of the Gary Holder-Winfield ? [SEP] SUB [SEP] Gary_Holder-Winfield	militaryBranch	54483
 Which tenant of New Sanno Hotel is the military branch of the Gary Holder-Winfield ? [SEP] SUB [SEP] New_Sanno_Hotel	tenant	14682
 List the director of The Adventures of mimi ? [SEP] SUB [SEP] The_Adventures_of_Mimi_(video)	director	19232
-List sports managers who managed Middlesbrough F.C. and England national under-21 football team? [SEP] OBJ [SEP] England_national_under-21_football_team	managerclubs	43471
 List sports managers who managed Middlesbrough F.C. and England national under-21 football team? [SEP] OBJ [SEP] Middlesbrough_F.C.	managerClub	50459
+List sports managers who managed Middlesbrough F.C. and England national under-21 football team? [SEP] OBJ [SEP] England_national_under-21_football_team	managerclubs	43471
 Name all the soccer players who played in a under 18 club for La Liga? [SEP] OBJ [SEP] La_Liga	league	25449
-Which key perosn of the Elders is also the president of united World College ? [SEP] SUB [SEP] United_World_Colleges	president	60714
 Which key perosn of the Elders is also the president of united World College ? [SEP] SUB [SEP] The_Elders_(organization)	keyPeople	4072
+Which key perosn of the Elders is also the president of united World College ? [SEP] SUB [SEP] United_World_Colleges	president	60714
 Who are the players whose current clubs have Ferran Soriano as chairman? [SEP] OBJ [SEP] Ferran_Soriano	chairman	8592
 What are some parties which have people from Mangalore as a member? [SEP] OBJ [SEP] Mangalore	placeOfBirth	46252
 Which employer of Michael M. Sears is also the producer of Delta III ? [SEP] SUB [SEP] Michael_M._Sears	employer	41337
@@ -512,126 +529,128 @@ Name the largest city in the county where there is a Cy-Fair High School. [SEP] 
 How many bacterias are there whose division is Firmicutes? [SEP] OBJ [SEP] Firmicutes	division	4874
 To which country does Peter Blay owe his allegiance? [SEP] SUB [SEP] Peter_Blay	allegiance	57391
 Is jim harbaugh currently in the Michigan Wolverines? [SEP] OBJ [SEP] Michigan_Wolverines	currentteam	10545
+Is jim harbaugh currently in the Michigan Wolverines? [SEP] OBJ [SEP] Michigan_Wolverines	currentteam	10545
 Name the television show whose subsequent work is Crusade and Composer is Stewart Copeland? [SEP] OBJ [SEP] Crusade_(TV_series)	subsequentWork	51389
 What are the current music bands of Chester Bennington? [SEP] OBJ [SEP] Chester_Bennington	currentMembers	59874
-Who was the prime minister under which the predecessor of Derick Heathcoat Amory served? [SEP] OBJ [SEP] David_Heathcoat-Amory	regionServed	15934
+Who was the prime minister under which the predecessor of Derick Heathcoat Amory served? [SEP] SUB [SEP] David_Heathcoat-Amory	predecessor	37087
 Which person designed the cars which has been designed by ASC Creative Services? [SEP] OBJ [SEP] ASC_Creative_Services	designCompany	29715
 What are some orthonychidae birds? [SEP] OBJ [SEP] Orthonychidae	family	22188
 Which driver had the pole position in 1994 Spanish Grand Prix ? [SEP] SUB [SEP] 1994_Spanish_Grand_Prix	poleDriver	59587
-Does the US route 281 have a junction at San Antonio? [SEP] OBJ [SEP] San_Antonio	junction	21409
 Does the US route 281 have a junction at San Antonio? [SEP] SUB [SEP] U.S._Route_281	junction	21409
+Does the US route 281 have a junction at San Antonio? [SEP] OBJ [SEP] San_Antonio	junction	21409
 How many awards have been given to the founder of Grameen Bank? [SEP] SUB [SEP] Grameen_Bank	founder	6960
-Was Queen Latifah in the U.N.I.T.Y. group? [SEP] SUB [SEP] U.N.I.T.Y.	musicalArtist	16478
 Was Queen Latifah in the U.N.I.T.Y. group? [SEP] OBJ [SEP] Queen_Latifah	musicalArtist	16478
+Was Queen Latifah in the U.N.I.T.Y. group? [SEP] SUB [SEP] U.N.I.T.Y.	musicalArtist	16478
 Count the number of important works done by the writers of The Second Coming? [SEP] SUB [SEP] The_Second_Coming_(TV_serial)	author	46678
 Who all are known to play the Gibson Guitar Corporation? [SEP] OBJ [SEP] Gibson_Guitar_Corporation	notableInstruments	11461
 Which child of Jack Ferguson became a Prime Minister? [SEP] SUB [SEP] Jack_Ferguson	child	9507
 Did Annie Leibovitz do the cover of The Road Ahead? [SEP] SUB [SEP] The_Road_Ahead_(album)	coverArtist	10040
 Did Annie Leibovitz do the cover of The Road Ahead? [SEP] OBJ [SEP] Annie_Leibovitz	coverArtist	10040
 What are the things whose mascots are from the class Eutheria? [SEP] OBJ [SEP] Eutheria	class	21255
-For whom did Michael Springer palyed for which is also had a former student named Donald Brooks ? [SEP] SUB [SEP] Donald_Brooks	education	30733
 For whom did Michael Springer palyed for which is also had a former student named Donald Brooks ? [SEP] SUB [SEP] Michael_Springer	team	48483
-Name the common nationality of Georgina Theodora Wood and akwasi Oppong Fosu ? [SEP] SUB [SEP] Akwasi_Oppong_Fosu	nationality	46679
+For whom did Michael Springer palyed for which is also had a former student named Donald Brooks ? [SEP] SUB [SEP] Donald_Brooks	education	30733
 Name the common nationality of Georgina Theodora Wood and akwasi Oppong Fosu ? [SEP] SUB [SEP] Georgina_Theodora_Wood	nationality	46679
-Name the movie written by Monty Python and distributed by Cinema International Corporation ? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
+Name the common nationality of Georgina Theodora Wood and akwasi Oppong Fosu ? [SEP] SUB [SEP] Akwasi_Oppong_Fosu	nationality	46679
 Name the movie written by Monty Python and distributed by Cinema International Corporation ? [SEP] OBJ [SEP] Monty_Python	writer	38511
+Name the movie written by Monty Python and distributed by Cinema International Corporation ? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
 Is Pittsburgh Steelers the former team of Marv McFadden? [SEP] SUB [SEP] Marv_McFadden	pastteams	33745
 Is Pittsburgh Steelers the former team of Marv McFadden? [SEP] OBJ [SEP] Pittsburgh_Steelers	pastteams	33745
 Which series was written by Eric Jendresen and John Orloff? [SEP] OBJ [SEP] Erik_Jendresen	writer	38511
 Which series was written by Eric Jendresen and John Orloff? [SEP] OBJ [SEP] John_Orloff	writer	38511
 In which city can I find both the office of Elasticsearch and the Yellow Claw DJ? [SEP] SUB [SEP] Elasticsearch	location	20193
-In which city can I find both the office of Elasticsearch and the Yellow Claw DJ? [SEP] SUB [SEP] Yellow_Claw	office	28173
+In which city can I find both the office of Elasticsearch and the Yellow Claw DJ? [SEP] SUB [SEP] Djibouti	office	28173
 Name the partners of Kelly Brook? [SEP] SUB [SEP] Kelly_Brook	partner	50973
 What is the area of the broadcast network which has the affiliation with 9TV? [SEP] SUB [SEP] 9TV	affiliation	14578
 Who is married to Gerard Piqu? [SEP] OBJ [SEP] Gerard_Piqué	partner	50973
 Which sports are played in schools affiliated with the Harvest Christian Center? [SEP] OBJ [SEP] Harvest_Christian_Center	religiousAffiliation	7933
 Who debuted their career in a team coached by Chip Kelly? [SEP] OBJ [SEP] Chip_Kelly	coach	12657
 What are the nicknames given to the characters of The Wolves of the Mercy Falls? [SEP] SUB [SEP] List_of_The_Wolves_of_Mercy_Falls_characters	nickname	60600
-Name the river with source country in Zambia and source region as North-Western Province, Zambia? [SEP] OBJ [SEP] North-Western_Province,_Zambia	sourceRegion	45823
 Name the river with source country in Zambia and source region as North-Western Province, Zambia? [SEP] OBJ [SEP] Zambia	sourceCountry	4064
+Name the river with source country in Zambia and source region as North-Western Province, Zambia? [SEP] OBJ [SEP] North-Western_Province,_Zambia	sourceRegion	45823
 Members of how many political parties have died in Delhi? [SEP] OBJ [SEP] Delhi	placeOfDeath	45761
-What is the birthplace of Adugna Deyas and the place where Fiq is located? [SEP] SUB [SEP] Fiq	position	26672
 What is the birthplace of Adugna Deyas and the place where Fiq is located? [SEP] SUB [SEP] Adugna_Deyas	birthPlace	29833
+What is the birthplace of Adugna Deyas and the place where Fiq is located? [SEP] SUB [SEP] Fiq	birthPlace	29833
 what is the headquarters of Juan Dalmau Ramerez? [SEP] SUB [SEP] Juan_Dalmau_Ramírez	headquarters	42877
-The president who was in office when Lee Hyun Jae was the PM followed which religion? [SEP] OBJ [SEP] Lee_Hyun-jae	primeminister	45610
+The president who was in office when Lee Hyun Jae was the PM followed which religion? [SEP] OBJ [SEP] PM	religion	21742
 Who is the maker of the engine of Ford F-Series first generation ? [SEP] SUB [SEP] Ford_F-Series_first_generation	engine	4316
 What is the religious affiliation of Neungin High School? [SEP] SUB [SEP] Neungin_High_School	religiousAffiliation	7933
+Is Maria Sharapova the silver medalist of Tennis at the 2012 Summer Olympics  Women's singles? [SEP] SUB [SEP] Tennis_at_the_2012_Summer_Olympics	championInSingleMale	17757
 Is Maria Sharapova the silver medalist of Tennis at the 2012 Summer Olympics  Women's singles? [SEP] OBJ [SEP] Maria_Sharapova	silverMedalist	51702
-Is Maria Sharapova the silver medalist of Tennis at the 2012 Summer Olympics  Women's singles? [SEP] OBJ [SEP] Tennis_at_the_2012_Summer_Olympics	championInSingleMale	17757
-Name the office holder with successor as Adrian A Basora and child as Lori Black ? [SEP] OBJ [SEP] A	leaderName	4863
+Name the office holder with successor as Adrian A Basora and child as Lori Black ? [SEP] SUB [SEP] A	tenant	14682
+Name the office holder with successor as Adrian A Basora and child as Lori Black ? [SEP] SUB [SEP] A	successor	10209
 Who is the owner of the South end ? [SEP] SUB [SEP] The_South_End	owners	29350
 What is the colour of Xocolatlite ? [SEP] SUB [SEP] Xocolatlite	colour	30549
 For how many other teams have the members of Atlant Moscow Oblast played? [SEP] OBJ [SEP] Atlant_Moscow_Oblast	playedFor	56313
 What is the state of origin of the president whose alma mater is Hellenic Naval Academy ? [SEP] OBJ [SEP] Hellenic_Naval_Academy	almaMater	18496
-What is the common ethnicity of the Maike Evers and Francisco Lachowski ? [SEP] SUB [SEP] Francisco_Lachowski	ethnicity	14643
 What is the common ethnicity of the Maike Evers and Francisco Lachowski ? [SEP] SUB [SEP] Maike_Evers	ethnicity	14643
-In which places do companies founded in Newcastle operate? [SEP] OBJ [SEP] Newcastle	locationCity	20127
+What is the common ethnicity of the Maike Evers and Francisco Lachowski ? [SEP] SUB [SEP] Francisco_Lachowski	ethnicity	14643
+In which places do companies founded in Newcastle operate? [SEP] OBJ [SEP] Newcastle	deathPlace	46824
 Which senator served in military units VMF-155 and VMF-218? [SEP] OBJ [SEP] VMF-155	militaryUnit	22544
 Which senator served in military units VMF-155 and VMF-218? [SEP] OBJ [SEP] VMF-218	militaryUnit	22544
 What kind of games are made by Interplay Entertainment? [SEP] OBJ [SEP] Interplay_Entertainment	publisher	48680
 Which producer of Purvis Eureka engine is also the owner of Ford Theatre ? [SEP] SUB [SEP] Purvis_Eureka	engine	4316
 Which producer of Purvis Eureka engine is also the owner of Ford Theatre ? [SEP] SUB [SEP] Ford_Theatre	company	28063
 What developed EMMS? [SEP] SUB [SEP] EMMS	developer	25969
-Which music band made Take Me There, and to which Tedd Riley was associated? [SEP] SUB [SEP] Teddy_Riley	associatedBand	31652
 Which music band made Take Me There, and to which Tedd Riley was associated? [SEP] SUB [SEP] Take_Me_There_(Blackstreet_&_Mýa_song)	musicalBand	1534
+Which music band made Take Me There, and to which Tedd Riley was associated? [SEP] SUB [SEP] Teddy_Riley	associatedBand	31652
 In which time zone is Pong Pha? [SEP] SUB [SEP] Pong_Pha	timeZone	36826
 How many fictional characters are there in a series in which Craig Robinson acted? [SEP] OBJ [SEP] Craig_Robinson_(actor)	starring	26771
-Which political party of Chandra Shekhar is also the political party of Datl Satyanarayana Raju ? [SEP] SUB [SEP] Datla_Satyanarayana_Raju	party	51475
 Which political party of Chandra Shekhar is also the political party of Datl Satyanarayana Raju ? [SEP] SUB [SEP] Chandra_Shekhar	otherParty	57772
+Which political party of Chandra Shekhar is also the political party of Datl Satyanarayana Raju ? [SEP] SUB [SEP] Datla_Satyanarayana_Raju	party	51475
 Who owns the airport in Paphos? [SEP] OBJ [SEP] Paphos_District	city	42352
 What is the baseball team whose club manager is Chip Hale? [SEP] OBJ [SEP] Chip_Hale	manager	1385
-Which bacteria's taxonomic class is Bacilli? [SEP] OBJ [SEP] Class_(biology)	<r0	61207
+Which bacteria's taxonomic class is Bacilli? [SEP] OBJ [SEP] Bacilli	class	21255
 What honours did Reigh Count receive? [SEP] SUB [SEP] Reigh_Count	honours	4031
-What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies? [SEP] OBJ [SEP] Sony	company	28063
+What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies? [SEP] OBJ [SEP] Sony	subsidiary	24874
+What are some products of the the company whose subsidiary is Sony Corp shareholders and subsidies? [SEP] OBJ [SEP] Subsidies_in_India	subsidiary	24874
 Who built the stadiums where 2014 FIFA under 17 woman's world cup took place? [SEP] OBJ [SEP] 2014_FIFA_U-17_Women's_World_Cup	tenant	14682
 Which area operataed by the South Side Elevated Railroad is also the palce of death of the Sakari Suzuki ? [SEP] SUB [SEP] South_Side_Elevated_Railroad	operatedBy	37735
 Which area operataed by the South Side Elevated Railroad is also the palce of death of the Sakari Suzuki ? [SEP] SUB [SEP] Sakari_Suzuki	deathPlace	46824
 What is the television show whose related with  Doctor Who Confidential? [SEP] OBJ [SEP] Doctor_Who_Confidential	related	56672
 In which city wasThe Triple Door (The Courage album)  performed live? [SEP] SUB [SEP] Live_at_The_Triple_Door_(The_Courage_album)	recorded	12808
-Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ? [SEP] SUB [SEP] Jurgens_Site	nearestCity	32453
 Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ? [SEP] SUB [SEP] Jimmie_Heuga	deathPlace	46824
+Which nearest city of Jurgens Site is the death plce of Jimmie Heuga ? [SEP] SUB [SEP] Jurgens_Site	nearestCity	32453
 List the battles fought by  Ali Habib Mahmud ? [SEP] SUB [SEP] Ali_Habib_Mahmud	battles	51886
-How many companies were started in the states? [SEP] OBJ [SEP] Companies_listed_on_the_New_York_Stock_Exchange_(J)	source	52585
-Is Charles Drummond Ellis a doctoral student of James Chadwick? [SEP] OBJ [SEP] Charles_Drummond_Ellis	doctoralStudent	44426
+How many companies were started in the states? [SEP] SUB [SEP] Companies_listed_on_the_New_York_Stock_Exchange_(J)	source	52585
 Is Charles Drummond Ellis a doctoral student of James Chadwick? [SEP] SUB [SEP] James_Chadwick	doctoralStudent	44426
+Is Charles Drummond Ellis a doctoral student of James Chadwick? [SEP] OBJ [SEP] Charles_Drummond_Ellis	doctoralStudent	44426
 How many movies are distributed by Cinema International Corporation? [SEP] OBJ [SEP] Cinema_International_Corporation	distributor	2105
 Name the local authority of Trinity School, Brentwood ? [SEP] SUB [SEP] Trinity_School,_Brentwood	localAuthority	38304
 Name the president of Wyche Fowler ? [SEP] SUB [SEP] Wyche_Fowler	president	60714
 In which fields have people born in Lausanne worked? [SEP] OBJ [SEP] Lausanne	placeOfBirth	46252
-Which Texas based company  was founded by Jim Harris ? [SEP] OBJ [SEP] Jim_Harris	office	28173
+Which Texas based company  was founded by Jim Harris ? [SEP] OBJ [SEP] Jim_Harris	leader	30944
 Name a show hosted by Brian Dunkleman and judged by Harry Connick, Jr.? [SEP] OBJ [SEP] Brian_Dunkleman	presenter	35954
 Name a show hosted by Brian Dunkleman and judged by Harry Connick, Jr.? [SEP] OBJ [SEP] Harry_Connick,_Jr.	judges	19319
 To which educational institute does Cornell University Press belong to? [SEP] SUB [SEP] Cornell_University_Press	parentCompany	8328
 In which country's cuisine, ham is an important part? [SEP] OBJ [SEP] Ham	mainIngredient	38277
 List the softwares which runs on Microsoft Windows and has license as Software as a service? [SEP] OBJ [SEP] Microsoft_Windows	operatingSystem	27233
-List the softwares which runs on Microsoft Windows and has license as Software as a service? [SEP] OBJ [SEP] Software	themeMusicComposer	48383
+List the softwares which runs on Microsoft Windows and has license as Software as a service? [SEP] OBJ [SEP] Software	industry	10551
 Which ppolitical party of Yashpal Kapur is also the owner of National Herald ? [SEP] SUB [SEP] Yashpal_Kapur	party	51475
 Which ppolitical party of Yashpal Kapur is also the owner of National Herald ? [SEP] SUB [SEP] The_National_Herald_(India)	owner	23181
 Who all have been presenters on shows by the NBC? [SEP] OBJ [SEP] NBC	channel	18373
-Give me the list of cars which are the predecessor of Full Sized Cars? [SEP] OBJ [SEP] Man-Sized_Wreath	management	46432
-List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor? [SEP] OBJ [SEP] Samuel_W._McCall	predecessor	37087
-List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor? [SEP] OBJ [SEP] W	themeMusicComposer	48383
+Give me the list of cars which are the predecessor of Full Sized Cars? [SEP] SUB [SEP] Man-Sized_Wreath	predecessor	37087
+List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor? [SEP] OBJ [SEP] No_Resting_Place	predecessor	37087
+List the people with final resting place as Plymouth, Vermont and has Samuel W. McCall as predecessor? [SEP] OBJ [SEP] W	predecessor	37087
 What disease led to the demise of Letitia MacTavish Hargrave and Martino Martini ? [SEP] SUB [SEP] Letitia_MacTavish_Hargrave	deathCause	25190
 What disease led to the demise of Letitia MacTavish Hargrave and Martino Martini ? [SEP] SUB [SEP] Martino_Martini	deathCause	25190
-What are some software which are written in languages that are run on Unix like OS? [SEP] OBJ [SEP] Unix	leaderName	4863
+What are some software which are written in languages that are run on Unix like OS? [SEP] OBJ [SEP] OS	computingPlatform	61133
 List all the movies whose directors were born in Kenosha, Wisconsin? [SEP] OBJ [SEP] Kenosha,_Wisconsin	birthPlace	29833
 Does the St lawrence river start in Kingston, Ontario? [SEP] SUB [SEP] Saint_Lawrence_River	sourceMountain	33972
 Does the St lawrence river start in Kingston, Ontario? [SEP] OBJ [SEP] Kingston,_Ontario	sourceMountain	33972
 What stadium's operator is Stan Kroenke [SEP] OBJ [SEP] Stan_Kroenke	operator	59761
-Is Mike Babcock the head coach of Toronto Maple Leafs? [SEP] OBJ [SEP] Mike_Babcock	headCoach	57501
 Is Mike Babcock the head coach of Toronto Maple Leafs? [SEP] SUB [SEP] Toronto_Maple_Leafs	headCoach	57501
-Whose commanders are John Mc Ewen and Park Chunghee? [SEP] OBJ [SEP] John_Ewen	commander	4055
+Is Mike Babcock the head coach of Toronto Maple Leafs? [SEP] OBJ [SEP] Mike_Babcock	headCoach	57501
+Whose commanders are John Mc Ewen and Park Chunghee? [SEP] OBJ [SEP] Chunghee_Sarah_Soh	commander	4055
 Who gave guest appearances on the show which is the next episode after the Bombshell one? [SEP] OBJ [SEP] Bombshell_(Smash)	previousWork	60944
 What is manufactured by a company headed by Kazuo Hirai? [SEP] OBJ [SEP] Kazuo_Hirai	keyPeople	4072
 Under which presidents have politicians from the Continental army served? [SEP] OBJ [SEP] Continental_Army	branch	38710
 Philadelphia City Council is the governing body of which city? [SEP] OBJ [SEP] Philadelphia_City_Council	governingBody	58573
 What are the binomial authority of Menetries's warbler? [SEP] SUB [SEP] Cyprus_warbler	binomialAuthority	8297
-Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ? [SEP] OBJ [SEP] Akiva_Goldsman	screenplay	20549
 Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ? [SEP] OBJ [SEP] Elliot_Goldenthal	music	27000
+Name the movie which has music composed by Elliot Goldenthal and screenplay by Akiva Goldsman ? [SEP] OBJ [SEP] Akiva_Goldsman	screenplay	20549
+Name the fictional character whose relative are Duck family and Clan McDuck? [SEP] OBJ [SEP] Duck_family	relative	29794
 Name the fictional character whose relative are Duck family and Clan McDuck? [SEP] OBJ [SEP] Clan_McDuck	relatives	22219
-Name the fictional character whose relative are Duck family and Clan McDuck? [SEP] OBJ [SEP] Duck_family	<r3	61207
-Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ? [SEP] SUB [SEP] I	athletics	15887
-Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ? [SEP] SUB [SEP] National_Collegiate_Athletic_Association	university	14298
+Which university with athletics department in NCAA Division I Football Bowl Subdivision has nickname Tulane Green Wave ? [SEP] OBJ [SEP] I	athletics	15887
 Which state does Jerome B. Chaffee belong ? [SEP] SUB [SEP] Jerome_B._Chaffee	state	50216
 In which of the parties that have governed over Rishikesh, does Govinda belong too? [SEP] SUB [SEP] Rishikesh	leaderName	4863
 What awards are won by the screenwriter of Lucky You? [SEP] SUB [SEP] Lucky_You_(film)	screenplay	20549
@@ -639,36 +658,37 @@ Name  the Pole driver of 1994 Spanish Grand Prix ? [SEP] SUB [SEP] 1994_Spanish_
 Where did Georges Wolinski and Judson Huss die/ [SEP] SUB [SEP] Georges_Wolinski	placeOfDeath	45761
 Where did Georges Wolinski and Judson Huss die/ [SEP] SUB [SEP] Judson_Huss	deathPlace	46824
 What is the parent company of the airline whose hub is in Detroit? [SEP] OBJ [SEP] Detroit	hubs	46029
-What is the appliance which uses the central processing unit manufactured by Marvell Technology Group? [SEP] OBJ [SEP] Marvell_Technology_Group	cpu	56226
+What is the appliance which uses the central processing unit manufactured by Marvell Technology Group? [SEP] SUB [SEP] Central_processing_unit	InformationAppliance	61207
 Give me all magazines whose founder died in Berkeley, California? [SEP] OBJ [SEP] Berkeley,_California	deathPlace	46824
 Which technological products were manufactured by Foxconn? [SEP] OBJ [SEP] Foxconn	manufacturer	12225
-Is George Lucas the cinematographer of 6-18-67? [SEP] SUB [SEP] Cinematographer	<r0	61207
+Is George Lucas the cinematographer of 6-18-67? [SEP] SUB [SEP] 6-18-67	cinematography	44968
 Is George Lucas the cinematographer of 6-18-67? [SEP] OBJ [SEP] George_Lucas	cinematography	44968
 Whose predecessor had Jenny Macklin as a deputy ? [SEP] OBJ [SEP] Jenny_Macklin	deputy	40330
 How many cars are similar to the ones assembled in the Jefferson North Assembly? [SEP] OBJ [SEP] Jefferson_North_Assembly	assembly	1238
 Count the number of region of AN/FSQ-7 Combat Direction Central? [SEP] SUB [SEP] AN/FSQ-7_Combat_Direction_Central	region	15210
 Count the number of region of AN/FSQ-7 Combat Direction Central? [SEP] SUB [SEP] AN/FSQ-7_Combat_Direction_Central	region	15210
-What are the common houses of US Congress and the Kansas Legislature? [SEP] SUB [SEP] Kansas_Legislature	house	14940
 What are the common houses of US Congress and the Kansas Legislature? [SEP] SUB [SEP] United_States_Congress	houses	36035
+What are the common houses of US Congress and the Kansas Legislature? [SEP] SUB [SEP] Kansas_Legislature	house	14940
+Was John Muir the first one to ascend one of the peaks in the cathedral peak? [SEP] OBJ [SEP] John_Muir	firstAscentPerson	7678
 Was John Muir the first one to ascend one of the peaks in the cathedral peak? [SEP] OBJ [SEP] John_Muir	firstAscentPerson	7678
 From how many different places have people gone to the Harward Medical School? [SEP] OBJ [SEP] Harvard_Medical_School	institution	52605
-Name the television show where Mona Marshall has given voice and is distributed by Comedy Central? [SEP] OBJ [SEP] Comedy_Central	distributor	2105
 Name the television show where Mona Marshall has given voice and is distributed by Comedy Central? [SEP] OBJ [SEP] Mona_Marshall	voices	57080
+Name the television show where Mona Marshall has given voice and is distributed by Comedy Central? [SEP] OBJ [SEP] Comedy_Central	distributor	2105
 What are Jerry Bock's musicals based upon? [SEP] OBJ [SEP] Jerry_Bock	music	27000
 Give me list of people who were the first to climb a peak in the Yosemite park? [SEP] OBJ [SEP] Yosemite_National_Park	locatedInArea	41630
 What is Naval Support Activity Naples a part of? [SEP] SUB [SEP] Naval_Support_Activity_Naples	type	48286
 Who has allegiance is Colony of Virginia and buried in Montpelier? [SEP] OBJ [SEP] Colony_of_Virginia	allegiance	57391
 Who has allegiance is Colony of Virginia and buried in Montpelier? [SEP] OBJ [SEP] Montpelier	flag	14685
-Was Tim Gunn a guest on The Broken Code? [SEP] SUB [SEP] The_Broken_Code	guests	44086
 Was Tim Gunn a guest on The Broken Code? [SEP] OBJ [SEP] Tim_Gunn	guests	44086
+Was Tim Gunn a guest on The Broken Code? [SEP] SUB [SEP] The_Broken_Code	guests	44086
 What is the successor of PlayStation 4 [SEP] OBJ [SEP] PlayStation_4	successor	10209
 What is the sovereign state of the Dafydd Benfras where Jasmine Lowson is also citizen of ? [SEP] SUB [SEP] Jasmine_Lowson	citizenship	53580
 What is the sovereign state of the Dafydd Benfras where Jasmine Lowson is also citizen of ? [SEP] SUB [SEP] Dafydd_Benfras	country	60260
 Who did their highschool from a school whose mascot was a fighting tiger? [SEP] OBJ [SEP] Fighting_Tiger	mascot	9941
-Which destination of Emerald Air is also the city served by houston Fort Bend Airport ? [SEP] SUB [SEP] Houston_Fort_Bend_Airport	cityServed	1159
 Which destination of Emerald Air is also the city served by houston Fort Bend Airport ? [SEP] SUB [SEP] Emerald_Air_(United_States)	destination	36667
-name the region served by Jerusalem Institue of Justice which was also the conflict region in GazaIsrael ? [SEP] OBJ [SEP] Jerusalem	region	15210
-Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook? [SEP] OBJ [SEP] Boeing_CH-47_Chinook	products	9311
+Which destination of Emerald Air is also the city served by houston Fort Bend Airport ? [SEP] SUB [SEP] Houston_Fort_Bend_Airport	cityServed	1159
+name the region served by Jerusalem Institue of Justice which was also the conflict region in GazaIsrael ? [SEP] SUB [SEP] Jerusalem	regionServed	15934
+Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook? [SEP] OBJ [SEP] Raymond_Conner	keyPeople	4072
 Name the company whose key person is Raymond Conner and produces Boeing CH-47 Chinook? [SEP] OBJ [SEP] Boeing_CH-47_Chinook	products	9311
 What is the total number of professions in which someone who has suicided worked? [SEP] OBJ [SEP] Suicide	deathCause	25190
 How many golf players are there in Arizona State Sun Devils ? [SEP] OBJ [SEP] Arizona_State_Sun_Devils	college	49467
@@ -684,8 +704,8 @@ What is the stylistic origin of the music genres where the Bass guitar is import
 What are the other notable work of the executive producer of The Runaway Bride episode of Doctor Who? [SEP] SUB [SEP] The_Runaway_Bride_(Doctor_Who)	executiveProducer	18481
 Who was the voice actor of allen walker also gave voice to kimihiro watanuki? [SEP] SUB [SEP] Allen_Walker	voice	16613
 Who was the voice actor of allen walker also gave voice to kimihiro watanuki? [SEP] SUB [SEP] Kimihiro_Watanuki	voice	16613
-Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ? [SEP] OBJ [SEP] Siege_of_Isfahan	<r3	61207
-Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ? [SEP] OBJ [SEP] No_Resting_Place	themeMusicComposer	48383
+Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ? [SEP] SUB [SEP] Fort_Recovery_High_School	place	29115
+Name the office holder whose final resting place is North Bend and was part of Siege of fort recovery conflict ? [SEP] SUB [SEP] No_Resting_Place	place	29115
 What type of engines are utilised by Purvis Eureka? [SEP] SUB [SEP] Purvis_Eureka	engine	4316
 Who edited Easy street ? [SEP] SUB [SEP] Easy_Street_(film)	editing	42946
 Who were involved in the wars where Jonathan Haskell battled? [SEP] SUB [SEP] Jonathan_Haskell	battles	51886
@@ -696,8 +716,8 @@ List the territory of Tonkin Campaign ? [SEP] SUB [SEP] Tonkin_Campaign	territor
 For which teams did Ryan Powell play for? [SEP] SUB [SEP] Ryan_Powell_(lacrosse)	team	48483
 What are the awards won by the person who wrote the screen play for Lost in Rio ? [SEP] SUB [SEP] OSS_117:_Lost_in_Rio	screenplay	20549
 Total number of places where people drafted in the detroit pistons have died? [SEP] OBJ [SEP] Detroit_Pistons	draftTeam	54294
-What band made The trial and One of these days song? [SEP] SUB [SEP] One_of_These_Days_(instrumental)	musicalArtist	16478
 What band made The trial and One of these days song? [SEP] SUB [SEP] The_Trial_(song)	artist	57049
+What band made The trial and One of these days song? [SEP] SUB [SEP] One_of_These_Days_(instrumental)	musicalArtist	16478
 Name the club of Julie Hastings ? [SEP] SUB [SEP] Julie_Hastings	club	54161
 From where does the river Upper Neretva start flowing? [SEP] SUB [SEP] NK_Neretva	riverMouth	13746
 Name the university located in Indiana and has affiliations with Kaplan, Inc.? [SEP] OBJ [SEP] Indiana	campus	54176
@@ -709,10 +729,10 @@ Did Phillippe Cabot go to Columbia for studying? [SEP] SUB [SEP] Ryan_Phillippe	
 What river originates in Kingston Ontario? [SEP] OBJ [SEP] Kingston,_Ontario	sourceLocation	36037
 By what style was Providence Chapel, Charlwood made? [SEP] SUB [SEP] Providence_Chapel,_Charlwood	style	29149
 For how many PMs did the politician work, whose successor was Kingsley Wood? [SEP] SUB [SEP] Kingsley_Wood	successor	10209
-list some companies founded by Jim Harris. [SEP] OBJ [SEP] Jim_Harris	leaderName	4863
+list some companies founded by Jim Harris. [SEP] OBJ [SEP] Jim_Harris	foundingYear	55373
 Give me the total number of employer of the engineers whose one of the employer is McDonnell Aircraft ? [SEP] OBJ [SEP] McDonnell_Aircraft	employer	41337
-How many developers have games where I can hear Lightning McQueen? [SEP] OBJ [SEP] I	games	19755
-Which universit's affiliation is with Kalpan, Inc. and has campus at Iowa ? [SEP] OBJ [SEP] Indian_National_Congress	party	51475
+How many developers have games where I can hear Lightning McQueen? [SEP] SUB [SEP] Lightning_McQueen	voice	16613
+Which universit's affiliation is with Kalpan, Inc. and has campus at Iowa ? [SEP] OBJ [SEP] Indian_National_Congress	institution	52605
 Which universit's affiliation is with Kalpan, Inc. and has campus at Iowa ? [SEP] OBJ [SEP] Iowa	campus	54176
 How many record labels publish works of Jazz fusion? [SEP] OBJ [SEP] Jazz_fusion	genre	33756
 What are the regions in which the distributor of Secrets and Lies serves ?  [SEP] SUB [SEP] Secrets_and_Lies_(U.S._TV_series)	distributor	2105
@@ -720,8 +740,8 @@ List all the writers of the comics which has Robert Bernstein as one of the writ
 What are the settlements whose neighboring municipalities is Lancy? [SEP] OBJ [SEP] Lancy	neighboringMunicipalities	21106
 Count the total number  of hometown of the gymnasts whose one of the hometown in Russia ? [SEP] OBJ [SEP] Russia	hometown	16022
 In which states does the river flow whose left tributary is Toms Creek? [SEP] SUB [SEP] Toms_Creek_(Monocacy_River)	leftTributary	14378
-Name the river whose source mountain is Baikal Mountains and mouth location is Arctic Ocean? [SEP] OBJ [SEP] Arctic_Ocean	mouthLocation	51026
 Name the river whose source mountain is Baikal Mountains and mouth location is Arctic Ocean? [SEP] OBJ [SEP] Baikal_Mountains	sourceMountain	33972
+Name the river whose source mountain is Baikal Mountains and mouth location is Arctic Ocean? [SEP] OBJ [SEP] Arctic_Ocean	mouthLocation	51026
 Count the PhD students whose thesis are supervised by National Medal of Science winners? [SEP] OBJ [SEP] National_Medal_of_Science	prizes	29044
 Which broadcast area of CFRX is also the palce of birth of Anthony Raymond ? [SEP] SUB [SEP] CFRX	broadcastArea	17756
 Which broadcast area of CFRX is also the palce of birth of Anthony Raymond ? [SEP] SUB [SEP] Farid_Raymond-Anthony	place	29115
@@ -729,56 +749,58 @@ Count the total number of cast member of the television shows whose actress is J
 List all the awards won by the artist who has won SIGGRAPH ? [SEP] OBJ [SEP] SIGGRAPH	award	271
 Where was david Scherman trained ? [SEP] SUB [SEP] David_Scherman	training	30534
 Count the battles fought by Raoul Magrin-Vernerey? [SEP] SUB [SEP] Raoul_Magrin-Vernerey	battles	51886
-Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics ? [SEP] SUB [SEP] 2004_OFC_Men's_Olympic_Qualifying_Tournament	numberOfParticipatingAthletes	24296
-Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics ? [SEP] SUB [SEP] Switzerland	flag	14685
+Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics ? [SEP] SUB [SEP] 2004_OFC_Men's_Olympic_Qualifying_Tournament	flag	14685
+Which athlete was the flag bearer for Switzerland in 2004 and 2008 summer Olympics ? [SEP] SUB [SEP] 2008_Summer_Olympics	flag	14685
+Which nationalist group was responsible for foundation of Young Lords? [SEP] SUB [SEP] Responsible_position	international	8267
 Which nationalist group was responsible for foundation of Young Lords? [SEP] SUB [SEP] Young_Lords	international	8267
 What award was won by the father of Angelina Jolie? [SEP] OBJ [SEP] Angelina_Jolie	children	21932
 What are the software whose programming language are Multilingual? [SEP] OBJ [SEP] Multilingual_User_Interface	programmingLanguage	27882
 Was Marshall Arisman the cover artist in american psycho? [SEP] OBJ [SEP] Marshall_Arisman	coverArtist	10040
 Was Marshall Arisman the cover artist in american psycho? [SEP] SUB [SEP] American_Psycho	coverArtist	10040
-Which birthplace of Liliya Lobanova is also the location of the Snake Island ? [SEP] SUB [SEP] Snake_Island_(Black_Sea)	locationCountry	20276
 Which birthplace of Liliya Lobanova is also the location of the Snake Island ? [SEP] SUB [SEP] Liliya_Lobanova	birthplace	28350
+Which birthplace of Liliya Lobanova is also the location of the Snake Island ? [SEP] SUB [SEP] Snake_Island_(Black_Sea)	locationCountry	20276
+Count all the stateless people [SEP] OBJ [SEP] Colonel_(United_States)	religion	21742
 Josef Bhler belongs to which political party? [SEP] SUB [SEP] Josef_Bühler	occupation	58311
 Where did the war take place where one of the commander was Zuo Zongtang? [SEP] OBJ [SEP] Zuo_Zongtang	commander	4055
 In which place is the company which is known for Barbara bestor located ? [SEP] SUB [SEP] Barbara_Bestor	knownFor	51841
 What novels are belong to the genre of Utopian and dystopian fiction? [SEP] OBJ [SEP] Utopian_and_dystopian_fiction	literaryGenre	44323
 What are the movies written by Nick Castle? [SEP] OBJ [SEP] Nick_Castle	writer	38511
 On which river are there things belonging to zambezi river authority? [SEP] OBJ [SEP] Zambezi_River_Authority	owner	23181
-Is Egyptian Arabic belong to the Central Semitic Languages family? [SEP] SUB [SEP] Egypt	languageFamily	17277
-Is Egyptian Arabic belong to the Central Semitic Languages family? [SEP] OBJ [SEP] Central_Semitic_languages	languageFamily	17277
+Is Egyptian Arabic belong to the Central Semitic Languages family? [SEP] SUB [SEP] Egypt	membership	34676
+Is Egyptian Arabic belong to the Central Semitic Languages family? [SEP] OBJ [SEP] Maldives	membership	34676
 Who is the artist of Sings Kristofferson and also performed Milk Cow Blues atleast once? [SEP] SUB [SEP] Sings_Kristofferson	artist	57049
 Who is the artist of Sings Kristofferson and also performed Milk Cow Blues atleast once? [SEP] SUB [SEP] Milk_Cow_Blues	artist	57049
-Who has fought in wars under commander Arthur St Clair? [SEP] OBJ [SEP] Lake_St._Clair	type	48286
+Who has fought in wars under commander Arthur St Clair? [SEP] OBJ [SEP] Lake_St._Clair	battles	51886
+Which Paramount TV show was produced by Glen and Les Charles ? [SEP] OBJ [SEP] Tv_test_pattern	manufacturer	12225
 Which Paramount TV show was produced by Glen and Les Charles ? [SEP] OBJ [SEP] Glen_and_Les_Charles	executiveProducer	18481
-Which Paramount TV show was produced by Glen and Les Charles ? [SEP] OBJ [SEP] Plaxton_Paramount	themeMusicComposer	48383
-Name some basketball players who  have played for chicago bulls? [SEP] OBJ [SEP] The_Players_(film)	coach	12657
-Which owner of the national Herald india is the leader of Kumta ? [SEP] SUB [SEP] Kumta	governmentType	26334
+Name some basketball players who  have played for chicago bulls? [SEP] OBJ [SEP] Chicago_Bulls	team	48483
 Which owner of the national Herald india is the leader of Kumta ? [SEP] SUB [SEP] The_National_Herald_(India)	owner	23181
+Which owner of the national Herald india is the leader of Kumta ? [SEP] SUB [SEP] Kumta	governmentType	26334
 Was Francisco Pizarro of the monarch of Charles 5, of the roman empire? [SEP] SUB [SEP] Melbourne_tram_route_5	country	60260
 Was Francisco Pizarro of the monarch of Charles 5, of the roman empire? [SEP] SUB [SEP] Francisco_Pizarro	monarch	2353
 What is the largest city of Pulau Ubin ? [SEP] SUB [SEP] Pulau_Ubin	largestCity	6967
 What is the origin of the musical artist of A Todo Romantic Style ? [SEP] SUB [SEP] A	origin	33099
 Horses sired by Karinga Bay have participated in which races? [SEP] OBJ [SEP] Karinga_Bay	sire	635
-What is the alma mater of the scientists  known for  String theory? [SEP] OBJ [SEP] String_theory	knownFor	51841
+What is the alma mater of the scientists  known for  String theory? [SEP] SUB [SEP] Scientists_for_Global_Responsibility	school	35189
 What is a common nickname given to both Lyons Township high school and the wheaton college in massachusetts? [SEP] SUB [SEP] Lyons_Township_High_School	nickname	60600
 What is a common nickname given to both Lyons Township high school and the wheaton college in massachusetts? [SEP] SUB [SEP] Wheaton_College_(Massachusetts)	nickname	60600
-Where do beauty queens with brown hair reside? [SEP] OBJ [SEP] Beauty_Queens	residence	27866
-List the television shows one of whose distributor's divisions is Warner Bros. Animation. [SEP] OBJ [SEP] Warner_Bros._Television	distributor	2105
-Name the television show directed by Simon Fuller and judged by Jennifier Lopez ? [SEP] OBJ [SEP] Ancízar_López_López	president	60714
+Where do beauty queens with brown hair reside? [SEP] OBJ [SEP] Beauty_Queens	hairColor	25750
+List the television shows one of whose distributor's divisions is Warner Bros. Animation. [SEP] OBJ [SEP] Warner_Bros._Television	divisions	12602
 Name the television show directed by Simon Fuller and judged by Jennifier Lopez ? [SEP] OBJ [SEP] Simon_Fuller	creator	44347
+Name the television show directed by Simon Fuller and judged by Jennifier Lopez ? [SEP] OBJ [SEP] Ancízar_López_López	developer	25969
 Name the appointer of William Clark ? [SEP] SUB [SEP] William_Clark	appointer	2270
 in which movies have momoki kochi acted [SEP] OBJ [SEP] Momoko_Kōchi	starring	26771
 What is the base currency of the Benelux and is also used as money in Kerguelen Islands? [SEP] SUB [SEP] Benelux	currency	31836
 What is the base currency of the Benelux and is also used as money in Kerguelen Islands? [SEP] SUB [SEP] Kerguelen_Islands	currency	31836
-List the mammals whose taxonomy is Diprotodontia and phylum is Chordate? [SEP] OBJ [SEP] Chordate	phylum	36439
 List the mammals whose taxonomy is Diprotodontia and phylum is Chordate? [SEP] OBJ [SEP] Diprotodontia	order	51098
+List the mammals whose taxonomy is Diprotodontia and phylum is Chordate? [SEP] OBJ [SEP] Chordate	phylum	36439
 Count the key people of the Clinton Foundation? [SEP] SUB [SEP] Clinton_Foundation	keyPeople	4072
 Name the company founded in New Mexico and provides Outlook.com as services ? [SEP] OBJ [SEP] New_Mexico	foundation	30318
 Name the company founded in New Mexico and provides Outlook.com as services ? [SEP] OBJ [SEP] Outlook.com	services	13703
+Which tv show was preceded by The spirit of Christmas and voice to the character was given by Mona Marshall ? [SEP] OBJ [SEP] The_Spirit_of_Christmas	flag	14685
 Which tv show was preceded by The spirit of Christmas and voice to the character was given by Mona Marshall ? [SEP] OBJ [SEP] Mona_Marshall	voices	57080
-Which tv show was preceded by The spirit of Christmas and voice to the character was given by Mona Marshall ? [SEP] OBJ [SEP] The_Spirit_of_Christmas	themeMusicComposer	48383
-Under which common jurisdiction do Trinity School, Brentwood and Buckhurst Hill County High School fall? [SEP] SUB [SEP] Buckhurst_Hill_County_High_School	localAuthority	38304
 Under which common jurisdiction do Trinity School, Brentwood and Buckhurst Hill County High School fall? [SEP] SUB [SEP] Trinity_School,_Brentwood	localAuthority	38304
+Under which common jurisdiction do Trinity School, Brentwood and Buckhurst Hill County High School fall? [SEP] SUB [SEP] Buckhurst_Hill_County_High_School	localAuthority	38304
 Music of how many things has been given by Akira Ifukube? [SEP] OBJ [SEP] Akira_Ifukube	music	27000
 What made jo garcia and merritt cabal both famous? [SEP] SUB [SEP] Garcia_House_(Los_Angeles,_California)	knownFor	51841
 What made jo garcia and merritt cabal both famous? [SEP] SUB [SEP] Merritt_Cabal	knownFor	51841
@@ -792,104 +814,106 @@ List the successor of successor of Hayden, Stone & Co. [SEP] SUB [SEP] Hayden,_S
 Count the number of battles fought by the military person involved in Morocco ? [SEP] OBJ [SEP] Morocco	battles	51886
 What is the origin of Xynisteri? [SEP] SUB [SEP] Xynisteri	origin	33099
 How many important works have been done by Russel Davies? [SEP] SUB [SEP] Russell_T_Davies	notableWork	46501
-Who are currently playing for Barcelona FC? [SEP] OBJ [SEP] Barcelona	field	32951
-Is Andrew Lincoln the narrator of Million Dollar Traders? [SEP] OBJ [SEP] Andrew_Lincoln	narrator	35460
+Who are currently playing for Barcelona FC? [SEP] OBJ [SEP] Barcelona	currentclub	23052
 Is Andrew Lincoln the narrator of Million Dollar Traders? [SEP] SUB [SEP] Million_Dollar_Traders	narrator	35460
+Is Andrew Lincoln the narrator of Million Dollar Traders? [SEP] OBJ [SEP] Andrew_Lincoln	narrator	35460
 Who is the owner of Saumarez ? [SEP] SUB [SEP] Saumarez_(horse)	owner	23181
 What is telecasted on the network where Deborah Turness holds important position? [SEP] OBJ [SEP] Deborah_Turness	keyPerson	24557
 Who is the fictional character whose relative is Vestigial Peter? [SEP] OBJ [SEP] Vestigial_Peter	relative	29794
 How many home stadium are there, of the soccer club seasons whose chairman is Merritt Paulson? [SEP] OBJ [SEP] Merritt_Paulson	chairman	8592
 Name the alma mater of Ernest de Saisset ? [SEP] SUB [SEP] Ernest_de_Saisset	almaMater	18496
 What magazine companies are of form Limited liability company? [SEP] OBJ [SEP] Limited_liability_company	company	28063
+List the driver of SA MArino Grand Prix is also the Pole driver of Canadian Grand Proix ? [SEP] SUB [SEP] Poland	poleDriver	59587
 List the driver of SA MArino Grand Prix is also the Pole driver of Canadian Grand Proix ? [SEP] SUB [SEP] 2008_Canadian_Grand_Prix	poleDriver	59587
-Where does John A Danaher III work? [SEP] SUB [SEP] John_A._Danaher	<r0	61207
+Where does John A Danaher III work? [SEP] SUB [SEP] John_A._Danaher	residence	27866
 Name few movies directed by Tim Burton ? [SEP] OBJ [SEP] Tim_Burton	director	19232
 Where was Live in Detroit, MI recorded ? [SEP] SUB [SEP] MI	recordedIn	8087
 Name all the bands which have members of QDT in them. [SEP] SUB [SEP] QDT	bandMember	23381
-Which footballers did their high school in west Sacramento california?  [SEP] OBJ [SEP] Spice_Boys_(footballers)	highschool	58284
-List the names of the soccer club seasons whose division is 2012 Campeonato Brasileiro Srie A. [SEP] OBJ [SEP] A	division	4874
-Which successor of Philippine Ports Authority is the state of origin of Ruben J. Villote ? [SEP] SUB [SEP] J	origin	33099
+Which footballers did their high school in west Sacramento california?  [SEP] OBJ [SEP] Sacramento,_California	highschool	58284
+List the names of the soccer club seasons whose division is 2012 Campeonato Brasileiro Srie A. [SEP] OBJ [SEP] Campeonato_Brasileiro	division	4874
+Which successor of Philippine Ports Authority is the state of origin of Ruben J. Villote ? [SEP] SUB [SEP] Philippine_Ports_Authority	successor	10209
 Which successor of Philippine Ports Authority is the state of origin of Ruben J. Villote ? [SEP] SUB [SEP] Ruben_J._Villote	stateOfOrigin	58653
 What awards have been won by the executive producer of Timmy Time ? [SEP] SUB [SEP] Timmy_Time	executiveProducer	18481
 Which american football team is owned by Mark davis and is located in O.co Colliseum ? [SEP] OBJ [SEP] Mark_Davis	owner	23181
 Which american football team is owned by Mark davis and is located in O.co Colliseum ? [SEP] OBJ [SEP] Oco	position	26672
 The successor of Ulrich II, Count of East Frisia was born in what place? [SEP] SUB [SEP] Ulrich_II,_Count_of_East_Frisia	successor	10209
-Who is the prime minister of Michael Jeffery who is also the minister of Williuam Deane ? [SEP] SUB [SEP] Michael_Jeffery	primeminister	45610
 Who is the prime minister of Michael Jeffery who is also the minister of Williuam Deane ? [SEP] SUB [SEP] Philippe_Gigantès	primeMinister	24941
-Who is the owner of the FC which owns the Cobham Training Centre? [SEP] SUB [SEP] FC	owner	23181
-Who is considered to be the deciding person when it comes to crustaceans from the Balanidae family? [SEP] OBJ [SEP] Family	predecessor	37087
+Who is the owner of the FC which owns the Cobham Training Centre? [SEP] SUB [SEP] FC	languageFamily	17277
+Who is considered to be the deciding person when it comes to crustaceans from the Balanidae family? [SEP] OBJ [SEP] Family	person	34569
 What have some US citizens died of? [SEP] OBJ [SEP] United_States	citizenship	53580
 What are some apes? [SEP] OBJ [SEP] Ape	family	22188
 Who is buried at the place governed by National Park Service? [SEP] OBJ [SEP] National_Park_Service	governingBody	58573
 Name the municipality of Roberto Clemente Bridge ? [SEP] SUB [SEP] Roberto_Clemente_Bridge	municipality	26836
 Which past members of the The Conglomerate (American group) also sang Take Me There (Blackstreet & Ma song)? [SEP] SUB [SEP] The_Conglomerate_(American_group)	pastMembers	6231
 Which past members of the The Conglomerate (American group) also sang Take Me There (Blackstreet & Ma song)? [SEP] SUB [SEP] Take_Me	company	28063
-List all the notable works of  Russell T Davies? [SEP] SUB [SEP] Russell_T_Davies	notableWork	46501
-Which military unit garrison is Arlington County, Virginia and The Pentagon? [SEP] OBJ [SEP] The_Pentagon	garrison	47579
+List all the notable works of  Russell T Davies? [SEP] SUB [SEP] T	notableWork	46501
 Which military unit garrison is Arlington County, Virginia and The Pentagon? [SEP] OBJ [SEP] Arlington_County,_Virginia	garrison	47579
+Which military unit garrison is Arlington County, Virginia and The Pentagon? [SEP] OBJ [SEP] The_Pentagon	garrison	47579
 Name all the products produced by the producer of United States dollar ? [SEP] OBJ [SEP] United_States_dollar	product	55169
 What is the launch site of Aquarius (rocket) ? [SEP] SUB [SEP] Aquarius_(rocket)	launchSite	16479
 What are the players whose former teams are Carolina Panthers and Indianapolis Colts? [SEP] OBJ [SEP] Carolina_Panthers	formerTeam	10705
-Count the  total number of mammals whose phylum is Chordate and order (taxonomy) is Diprotodontia? [SEP] OBJ [SEP] Diprotodontia	order	51098
+What are the players whose former teams are Carolina Panthers and Indianapolis Colts? [SEP] OBJ [SEP] Indianapolis_Colts	formerTeam	10705
+Count the  total number of mammals whose phylum is Chordate and order (taxonomy) is Diprotodontia? [SEP] OBJ [SEP] Chordate	phylum	36439
 Who is the music composer of Kenny Dies ? [SEP] SUB [SEP] Kenny_Dies	musicComposer	53162
 How many cities are around the sea into which the aegean sea flows? [SEP] SUB [SEP] Aegean_Sea	outflow	40867
 Where did the office holder  who is predecessor to Marco Aurelio Robles died ? [SEP] OBJ [SEP] Marco_Aurelio_Robles	predecessor	37087
-Who is associated  with the musical artists from Africa '70 (band) and Tony Allen ? [SEP] OBJ [SEP] Africa_'70_(band)	associatedMusicalArtist	38946
+Who is associated  with the musical artists from Africa '70 (band) and Tony Allen ? [SEP] OBJ [SEP] Tony_Allen_(musician)	associatedMusicalArtist	38946
 Is the Hyundai Lavita assembled in Kulim? [SEP] SUB [SEP] Hyundai_Lavita	assembly	1238
 Is the Hyundai Lavita assembled in Kulim? [SEP] OBJ [SEP] Kulim	assembly	1238
 What is the programme format of WWTR ? [SEP] SUB [SEP] WWTR	programmeFormat	38878
 list the founders of Bream Bay ? [SEP] SUB [SEP] Bream_Bay	founder	6960
-Is Essex the Ceremonial County of West Tilbury? [SEP] OBJ [SEP] Essex	ceremonialCounty	37781
 Is Essex the Ceremonial County of West Tilbury? [SEP] SUB [SEP] West_Tilbury	ceremonialCounty	37781
+Is Essex the Ceremonial County of West Tilbury? [SEP] OBJ [SEP] Essex	ceremonialCounty	37781
 What is the total number of participant in conflict of SFOR? [SEP] OBJ [SEP] SFOR	battles	51886
 Name the people whose academic advisor has also mentored the thesis of Alexius Meinong? [SEP] OBJ [SEP] Alexius_Meinong	doctoralStudents	52530
 Where is Denver Broncos located ? [SEP] SUB [SEP] Denver_Broncos	locationCity	20127
 Which serving railway line of the Daund Junction railway station is the home port of INS Viraat ? [SEP] SUB [SEP] Daund_Junction_railway_station	servingRailwayLine	44108
 Which serving railway line of the Daund Junction railway station is the home port of INS Viraat ? [SEP] SUB [SEP] INS_Viraat_(R22)	homeport	28159
-Which river flows through Hudson Highlands State park and also through Troy, New york ? [SEP] SUB [SEP] Troy,_New_York	river	59786
 Which river flows through Hudson Highlands State park and also through Troy, New york ? [SEP] SUB [SEP] Hudson_Highlands_State_Park	river	59786
+Which river flows through Hudson Highlands State park and also through Troy, New york ? [SEP] SUB [SEP] Troy,_New_York	river	59786
 What is the university to which Erica Frank went, and where Ivan Toplak was a club manager? [SEP] SUB [SEP] Erica_Frank	institution	52605
 What is the university to which Erica Frank went, and where Ivan Toplak was a club manager? [SEP] SUB [SEP] Ivan_Toplak	managerClub	50459
 How many movies have been directed by Orson Welles ? [SEP] OBJ [SEP] Orson_Welles	director	19232
 Which borough is common for Duddeston and Bordesley railway station ? [SEP] SUB [SEP] Duddeston_railway_station	borough	7134
 Which borough is common for Duddeston and Bordesley railway station ? [SEP] SUB [SEP] Bordesley_railway_station	borough	7134
+Does Mauritius follow a parliamentary republic? [SEP] SUB [SEP] Mauritius_national_under-20_football_team	result	41808
 Does Mauritius follow a parliamentary republic? [SEP] OBJ [SEP] Parliamentary_republic	governmentType	26334
-Does Mauritius follow a parliamentary republic? [SEP] OBJ [SEP] Mauritius_national_under-20_football_team	result	41808
 Who is the performer of the album whose subsequent work is Willie Nelson and Family ? [SEP] OBJ [SEP] Willie_Nelson_and_Family	subsequentWork	51389
 What is the birthplace of Ludovic Boi which is also the residence of Fernando Augustin? [SEP] SUB [SEP] Ludovic_Boi	birthPlace	29833
 What is the birthplace of Ludovic Boi which is also the residence of Fernando Augustin? [SEP] SUB [SEP] Fernando_Augustin	residence	27866
 Who is the producer of album, which has the song Eclipse ? [SEP] SUB [SEP] Eclipse_(song)	album	4867
 Which parties have their members live in the PM House, Colombo? [SEP] OBJ [SEP] Prime_Minister's_House_(Colombo)	residence	27866
 Which awards have been given to scientists that graduated from NKU athens? [SEP] OBJ [SEP] National_and_Kapodistrian_University_of_Athens	almaMater	18496
-Ricky Gervais is the executive producer of the series having how many fictional characters? [SEP] OBJ [SEP] Fiction	executiveProducer	18481
+Ricky Gervais is the executive producer of the series having how many fictional characters? [SEP] OBJ [SEP] Fiction	series	38064
 Did Jerry Rice study in Oktoc Mississippi? [SEP] OBJ [SEP] Oktoc,_Mississippi	highSchool	6077
-Did Jerry Rice study in Oktoc Mississippi? [SEP] OBJ [SEP] Ethiopia	<r0	61207
+Did Jerry Rice study in Oktoc Mississippi? [SEP] OBJ [SEP] Columbia_University	institution	52605
 Cable stayed bridges have been used to cross over how many things? [SEP] OBJ [SEP] Cable-stayed_bridge	design	185
-Is north caucasian emirate have an islamic government? [SEP] OBJ [SEP] Islam	governmentType	26334
 Is north caucasian emirate have an islamic government? [SEP] SUB [SEP] North_Caucasian_Emirate	governmentType	26334
+Is north caucasian emirate have an islamic government? [SEP] OBJ [SEP] Islam	governmentType	26334
 What are the television shows whose starting music is composed by Ron Grainer? [SEP] OBJ [SEP] Ron_Grainer	themeMusicComposer	48383
 Who influenced the author of The Shooting of Dan McGrew ? [SEP] SUB [SEP] The_Shooting_of_Dan_McGrew_(1924_film)	writer	38511
 Raymond Johansen is the mayor of what city? [SEP] OBJ [SEP] Raymond_Johansen	leaderName	4863
-What region was Gloria Schaffer born in, which also contains Newington? [SEP] SUB [SEP] Newington	part	33353
 What region was Gloria Schaffer born in, which also contains Newington? [SEP] SUB [SEP] Gloria_Schaffer	birthPlace	29833
+What region was Gloria Schaffer born in, which also contains Newington? [SEP] SUB [SEP] Newington	region	15210
 Which rivers start from the Provinces of Zambia? [SEP] OBJ [SEP] Provinces_of_Zambia	settlementType	157
 Who are the scientists known for the Manhattan Project? [SEP] OBJ [SEP] Manhattan_Project	knownFor	51841
-Which religion do the people follow, whose constituency is Jadavpur? [SEP] OBJ [SEP] Jadavpur	religion	21742
+Which religion do the people follow, whose constituency is Jadavpur? [SEP] OBJ [SEP] Jadavpur	part	33353
 In which region is the rival school of Somerset, Massachusetts located? [SEP] OBJ [SEP] Somerset,_Massachusetts	rival	15173
-Which key person of Clinton Foundation is also the president of Jim Sasser ? [SEP] SUB [SEP] Jim_Sasser	president	60714
 Which key person of Clinton Foundation is also the president of Jim Sasser ? [SEP] SUB [SEP] Clinton_Foundation	keyPeople	4072
+Which key person of Clinton Foundation is also the president of Jim Sasser ? [SEP] SUB [SEP] Jim_Sasser	president	60714
 Where did the athlete start his career, who did his highschool in Red Lion Area School District? [SEP] OBJ [SEP] Red_Lion_Area_School_District	highschool	58284
 Name a person who works in Open Society Foundation and has wife named Susan Weber Soros ? [SEP] OBJ [SEP] Open_Society_Foundations	employer	41337
 Name a person who works in Open Society Foundation and has wife named Susan Weber Soros ? [SEP] OBJ [SEP] Susan_Weber_Soros	spouse	10737
 How many things are crossed over by bridges which can carry cars? [SEP] OBJ [SEP] Motor_vehicle	carries	38914
-Which fictional character sculpted by Josh Friedmann was portrayed in Terminator 3 ? [SEP] OBJ [SEP] Cornell_Capa	party	51475
-Which team won the American Football League? [SEP] SUB [SEP] American_Football_League	champion	23854
+Which fictional character sculpted by Josh Friedmann was portrayed in Terminator 3 ? [SEP] OBJ [SEP] Skynet_(Terminator)	portrayer	23015
+Which team won the American Football League? [SEP] OBJ [SEP] Organization_of_American_States	team	48483
 Which currency can I use both in Kerguelen islands and French southern and antarctic lands? [SEP] SUB [SEP] I	currency	31836
-Which currency can I use both in Kerguelen islands and French southern and antarctic lands? [SEP] SUB [SEP] Kerguelen_Islands	currency	31836
-Who is the founder of the trade union which affiliates Amalgamated Association of Iron and Steel Workers? [SEP] SUB [SEP] Amalgamated_Weavers'_Association	riverBranch	1911
+Which currency can I use both in Kerguelen islands and French southern and antarctic lands? [SEP] SUB [SEP] French_Southern_and_Antarctic_Lands	currency	31836
 Who is the founder of the trade union which affiliates Amalgamated Association of Iron and Steel Workers? [SEP] SUB [SEP] Amalgamated_Weavers'_Association	founder	6960
+Who is the founder of the trade union which affiliates Amalgamated Association of Iron and Steel Workers? [SEP] SUB [SEP] Visakha_Steel_Workers_Union	founder	6960
 Which leader of United States House of Representatives was the appinter of ohn Drayton ? [SEP] SUB [SEP] United_States_House_of_Representatives_elections,_1788_and_1789	leader	30944
 Which leader of United States House of Representatives was the appinter of ohn Drayton ? [SEP] SUB [SEP] John_Drayton	appointer	2270
+Is fox belong to the phylum of Chordate? [SEP] OBJ [SEP] Chordate	phylum	36439
 Is fox belong to the phylum of Chordate? [SEP] OBJ [SEP] Chordate	phylum	36439
 Which researchers received fellowship from Royal Society? [SEP] OBJ [SEP] Royal_Society	award	271
 Which president of United States had vice president as John Adams? [SEP] OBJ [SEP] John_Adams	vicePresident	10628
@@ -906,50 +930,51 @@ What company is the one which wrote the google web toolkit and PlayN? [SEP] SUB 
 How many different songwriters have had their songs recorded in London? [SEP] OBJ [SEP] London	recordedIn	8087
 Which are the  automobile platform whose one of the automobile platform is Dodge ? [SEP] OBJ [SEP] Dodge	automobilePlatform	26942
 What is the total number of other combatant of the military conflicts whose combatant is Choctaw? [SEP] OBJ [SEP] Choctaw	combatant	26261
-List some pupils of National Science Medal winning scientists? [SEP] OBJ [SEP] National_Medal_of_Science	prizes	29044
+List some pupils of National Science Medal winning scientists? [SEP] OBJ [SEP] Scientists_for_Global_Responsibility	first	27210
 Relatives of Moses used to follow which religions? [SEP] SUB [SEP] Moses	relative	29794
 Where was Ne daj se, Nina first aired ? [SEP] SUB [SEP] Ne_daj_se,_Nina	firstAired	38317
 Where did the 2015 MLS All-Star Game take place? [SEP] SUB [SEP] 2015_MLS_All-Star_Game	city	42352
-Is Nikolai Morozov the former coach of Stanislav Morozov? [SEP] OBJ [SEP] Nikolai_Morozov_(figure_skater)	formerCoach	53022
 Is Nikolai Morozov the former coach of Stanislav Morozov? [SEP] SUB [SEP] Stanislav_Morozov	formerCoach	53022
+Is Nikolai Morozov the former coach of Stanislav Morozov? [SEP] OBJ [SEP] Nikolai_Morozov_(figure_skater)	formerCoach	53022
 Did Alexandre Tichonov study at the Moscow university? [SEP] SUB [SEP] Alexandre_Tichonov	university	14298
 Did Alexandre Tichonov study at the Moscow university? [SEP] OBJ [SEP] Moscow	university	14298
 What is the name of the homeground of football team Panionios G.S.S.? [SEP] SUB [SEP] GSS	name	50666
 Does Timothy Morton study Buddhism? [SEP] SUB [SEP] Timothy_Morton	mainInterests	55033
 Does Timothy Morton study Buddhism? [SEP] OBJ [SEP] Buddhism	mainInterests	55033
-Brian Moriarty designed video games written by whom? [SEP] OBJ [SEP] Video_game	designer	25631
+Brian Moriarty designed video games written by whom? [SEP] SUB [SEP] Video_game	writer	38511
 What are some movies whose distributors are led by Kevin Tsujihara? [SEP] OBJ [SEP] Kevin_Tsujihara	keyPerson	24557
 Name the common associate band of Blayse and Teddy Riley ? [SEP] SUB [SEP] Blayse	associatedBand	31652
 What did Steven T Mason's father die from? [SEP] OBJ [SEP] Stevens_T._Mason	child	9507
 Whose military units are VMF-218 and VMF-155? [SEP] OBJ [SEP] VMF-155	militaryUnit	22544
 What automobile engine's successor is BMW M40 [SEP] OBJ [SEP] BMW_M40	successor	10209
-Name the company which produces both  Boeing F/A-18 E/F Hornet nad CH-46 Chinook ? [SEP] SUB [SEP] Switzerland	manufacturer	12225
 Name the company which produces both  Boeing F/A-18 E/F Hornet nad CH-46 Chinook ? [SEP] SUB [SEP] F._E._Brown	manufacturer	12225
+Name the company which produces both  Boeing F/A-18 E/F Hornet nad CH-46 Chinook ? [SEP] OBJ [SEP] Boeing_F/A-18E/F_Super_Hornet	product	55169
 What is the district of Methodist Central Hall Westminster ? [SEP] SUB [SEP] Methodist_Central_Hall_Westminster	district	8043
 Who develops the computation platform of Microsoft Expression Encoder ? [SEP] SUB [SEP] Microsoft_Expression_Encoder	computingPlatform	61133
 What is the official language of Ladonia, which is the target area of Probus Journal? [SEP] SUB [SEP] Probus_(journal)	academicDiscipline	51789
 What is the official language of Ladonia, which is the target area of Probus Journal? [SEP] SUB [SEP] Ladonia_(micronation)	officialLanguage	4888
-Where did the conflict take place where Louis Briere de I'Isle was a commander? [SEP] OBJ [SEP] I	deathPlace	46824
+Where did the conflict take place where Louis Briere de I'Isle was a commander? [SEP] OBJ [SEP] I	almaMater	18496
 In which team was the person drafted who has studied at the Worcester college, Oxford? [SEP] OBJ [SEP] Worcester_College,_Oxford	almaMater	18496
 How many people hold important positions alongwith Donna Shalala? [SEP] OBJ [SEP] Donna_Shalala	keyPerson	24557
 What other things are provided by the producer of Office 365? [SEP] OBJ [SEP] Office_365	service	57207
 Who owns the company that made the Edsel Villager? [SEP] OBJ [SEP] Edsel_Villager	products	9311
-Which collaborator of Nice and Smooth wrote Same Song ? [SEP] OBJ [SEP] Nice_Package	writer	38511
+Which collaborator of Nice and Smooth wrote Same Song ? [SEP] SUB [SEP] Nice_Package	writer	38511
+Which collaborator of Nice and Smooth wrote Same Song ? [SEP] SUB [SEP] Same_Song	writer	38511
 Who fought in the battle at Tupelo Mississippi? [SEP] OBJ [SEP] Tupelo,_Mississippi	place	29115
 List the movies whose cast member were born in Scotland. [SEP] OBJ [SEP] Scotland	birthPlace	29833
 List the other nicknames of city which has one of the nickname as City of Angels ? [SEP] OBJ [SEP] City_of_Angels	nickname	60600
 Count the writers whose work has been played in NY? [SEP] OBJ [SEP] New_York	place	29115
 Where did the graduates of Memphis, Tenessee continue their education? [SEP] SUB [SEP] Memphis_International_Airport	numberOfGraduateStudents	39181
-What subsequent work of Moondog Matinee has the composer of Motorpsycho Nitemare ? [SEP] SUB [SEP] Motorpsycho_Nitemare	composer	19833
 What subsequent work of Moondog Matinee has the composer of Motorpsycho Nitemare ? [SEP] SUB [SEP] Moondog_Matinee	subsequentWork	51389
+What subsequent work of Moondog Matinee has the composer of Motorpsycho Nitemare ? [SEP] SUB [SEP] Motorpsycho_Nitemare	composer	19833
 What was the language of the single which came before To Know Him Is to Love Him? [SEP] SUB [SEP] To_Know_Him_Is_to_Love_Him	previousWork	60944
 What are the television shows whose company is owned by Viacom? [SEP] OBJ [SEP] Viacom_(original)	owningCompany	24243
 How many people used to play in the youthclub of FC Barcelona? [SEP] OBJ [SEP] FC_Barcelona	youthclubs	44726
 Quebec born ice hockey players have stopped playing for which teams? [SEP] OBJ [SEP] Ice_hockey	patron	28787
 Who is the chancellor of Falmouth University ? [SEP] SUB [SEP] Falmouth_University	chancellor	42581
-what kind of things play on WBIG FM? [SEP] OBJ [SEP] FM	team	48483
-Name the are where South side Elevated Railroad operate and has place of birth as Arthur A. Ross ? [SEP] SUB [SEP] Arthur_A._Ross	placeOfBirth	46252
+what kind of things play on WBIG FM? [SEP] OBJ [SEP] FM	computingPlatform	61133
 Name the are where South side Elevated Railroad operate and has place of birth as Arthur A. Ross ? [SEP] SUB [SEP] South_Side_Elevated_Railroad	operatedBy	37735
+Name the are where South side Elevated Railroad operate and has place of birth as Arthur A. Ross ? [SEP] SUB [SEP] Arthur_A._Ross	placeOfBirth	46252
 In which fields are the graduates of Worcester College, Oxford working? [SEP] OBJ [SEP] Worcester_College,_Oxford	almaMater	18496
 List the places where the relatives of Mark Donaldson died ? [SEP] SUB [SEP] Mark_Donaldson_(rugby_player)	relatives	22219
 What famous politician died in the Petersen House? [SEP] OBJ [SEP] Petersen_House	deathPlace	46824
@@ -959,29 +984,29 @@ What are the musical performances whose label is Celluloid Records? [SEP] OBJ [S
 What is the craft of the Ralph Flanders which is also the profession of  Claiborne Pell ? [SEP] SUB [SEP] Ralph_Flanders	occupation	58311
 What is the craft of the Ralph Flanders which is also the profession of  Claiborne Pell ? [SEP] SUB [SEP] Claiborne_Pell	profession	52340
 How many people have fought wars where Arthur St. Clair was a commander? [SEP] OBJ [SEP] Arthur_St._Clair	commander	4055
-Does Chicago own the Monroe Station? [SEP] SUB [SEP] Monroe_station_(CTA_Blue_Line)	owned	34086
 Does Chicago own the Monroe Station? [SEP] OBJ [SEP] Chicago	owned	34086
-Which team has had both Martin prochzka and garry unger as its players ? [SEP] OBJ [SEP] Joel_W._Martin	portrayer	23015
+Does Chicago own the Monroe Station? [SEP] SUB [SEP] Monroe_station_(CTA_Blue_Line)	owned	34086
+Which team has had both Martin prochzka and garry unger as its players ? [SEP] OBJ [SEP] Joel_W._Martin	assetUnderManagement	31786
 What are the awards received by spouse of Ellen Lundstrom? [SEP] OBJ [SEP] Ellen_Lundström	spouse	10737
 Who all have succeeded the kings buried in Rome? [SEP] OBJ [SEP] Rome	placeOfBurial	59321
 Through which states do the rivers flow which join in the republican river from the left? [SEP] SUB [SEP] Republican_River	leftTributary	14378
 Give me the home town of all musical artists who uses Guitar as instrument ? [SEP] OBJ [SEP] Guitar	instrument	60877
-How many religions are followed amongst the people who've worked in the Korean army? [SEP] OBJ [SEP] Korean_Army	religion	21742
-Was andy warhol a part of Pop Art movement? [SEP] OBJ [SEP] Pop_art	movement	48022
+How many religions are followed amongst the people who've worked in the Korean army? [SEP] OBJ [SEP] Korea	associate	27040
 Was andy warhol a part of Pop Art movement? [SEP] SUB [SEP] Andy_Warhol	movement	48022
+Was andy warhol a part of Pop Art movement? [SEP] OBJ [SEP] Pop_art	movement	48022
 Count the number of musical work which were sold by Sony Music? [SEP] OBJ [SEP] Sony_Music_Entertainment	label	29992
 Who is the person whose home town is Fairmount, Indiana? [SEP] OBJ [SEP] Fairmount,_Indiana	hometown	16022
-Name the movies directed by Stanley Kubrick and edited by Anthony Harvey? [SEP] OBJ [SEP] Anthony_Harvey	editing	42946
 Name the movies directed by Stanley Kubrick and edited by Anthony Harvey? [SEP] OBJ [SEP] Stanley_Kubrick	director	19232
+Name the movies directed by Stanley Kubrick and edited by Anthony Harvey? [SEP] OBJ [SEP] Anthony_Harvey	editing	42946
 List all binomial authority of the insects whose one of the  binomial authority is douard Mntries? [SEP] OBJ [SEP] Édouard_Ménétries	binomialAuthority	8297
 Who is the military general buried in St Mary's Church, Battersea? [SEP] OBJ [SEP] Battersea_(EP)	flag	14685
-What is the military unit whose command structures are United States Department of the Navy and United States Department of Defense? [SEP] OBJ [SEP] United_States_Department_of_Defense	commandStructure	19806
 What is the military unit whose command structures are United States Department of the Navy and United States Department of Defense? [SEP] OBJ [SEP] United_States_Department_of_the_Navy	commandStructure	19806
+What is the military unit whose command structures are United States Department of the Navy and United States Department of Defense? [SEP] OBJ [SEP] United_States_Department_of_Defense	commandStructure	19806
 What are some other things developed by the company who made the remote desktop protocol? [SEP] OBJ [SEP] Remote_Desktop_Protocol	products	9311
 Where was Al-Muzaffar Umar buried ? [SEP] SUB [SEP] Al-Muzaffar_Umar	placeOfBurial	59321
 List the guests of On Broadway ? [SEP] SUB [SEP] On_Broadway_(Smash)	guests	44086
 How many universities are there whose country's capital is Oslo? [SEP] OBJ [SEP] Oslo	capital	9607
-Did Bob Dylan write the lyrics of the times they are a changin'? [SEP] OBJ [SEP] Bob_Dylan	lyrics	58081
+Did Bob Dylan write the lyrics of the times they are a changin'? [SEP] SUB [SEP] The_Times_They_Are_a-Changin'_(musical)	lyrics	58081
 What is the religion of the ones in the Kampuchean Union of Salvation? [SEP] SUB [SEP] Union_of_Salvation	religion	21742
 Name the airlines which have a hub in airport in SF? [SEP] OBJ [SEP] San_Francisco	cityServed	1159
 Which executive producer of the ultimate merger is also an important person at Trump Productions? [SEP] SUB [SEP] The_Ultimate_Merger	executiveProducer	18481
@@ -992,34 +1017,33 @@ who developed google videos? [SEP] SUB [SEP] Google_Videos	developer	25969
 Who is the child of John Tyler, Sr.? [SEP] SUB [SEP] John_Tyler	child	9507
 Is Brazilian jiu-jitsu the trainer of Nick Diaz? [SEP] SUB [SEP] Nick_Diaz	trainer	48412
 Is Brazilian jiu-jitsu the trainer of Nick Diaz? [SEP] OBJ [SEP] Brazil	trainer	48412
-Who is the owner of  Latvian Wikipedia and Wiktionary ? [SEP] SUB [SEP] Latvian_Wikipedia	owner	23181
-What royalties's sepulchre is Mausoleum of Augustus? [SEP] OBJ [SEP] Royalties	successor	10209
-Name the common university of the Cardinal and Jim Wylie? [SEP] SUB [SEP] Jim_Wylie	university	14298
+Who is the owner of  Latvian Wikipedia and Wiktionary ? [SEP] SUB [SEP] Wiktionary	owner	23181
+What royalties's sepulchre is Mausoleum of Augustus? [SEP] OBJ [SEP] Mausoleum_of_Augustus	placeOfBurial	59321
 Name the common university of the Cardinal and Jim Wylie? [SEP] SUB [SEP] Stanford_Cardinal	university	14298
+Name the common university of the Cardinal and Jim Wylie? [SEP] SUB [SEP] Jim_Wylie	university	14298
 What is the automobile platform of Chiva bus ? [SEP] SUB [SEP] Chiva_bus	automobilePlatform	26942
 Who are the animator of The Skeleton Dance? [SEP] SUB [SEP] The_Skeleton_Dance	animator	27549
 How many movies have a screenplay located in the States? [SEP] OBJ [SEP] United_States	birthPlace	29833
 Which ceremonial County of the East Tilbury is also the local authority of the Trinity School, Brentwood? [SEP] SUB [SEP] East_Tilbury	ceremonialCounty	37781
 Which ceremonial County of the East Tilbury is also the local authority of the Trinity School, Brentwood? [SEP] SUB [SEP] Trinity_School,_Brentwood	localAuthority	38304
-What system is both a platform where Nord runs and also distributed The beauty inside? [SEP] SUB [SEP] Nord_(video_game)	computingPlatform	61133
 What system is both a platform where Nord runs and also distributed The beauty inside? [SEP] SUB [SEP] The_Beauty_Inside	distributor	2105
+What system is both a platform where Nord runs and also distributed The beauty inside? [SEP] SUB [SEP] Nord_(video_game)	computingPlatform	61133
 Name the country whose leader's deputy is Piotr Glinski? [SEP] OBJ [SEP] Piotr_Gliński	deputy	40330
-Is Cologny a neighbouring city of Geneva? [SEP] OBJ [SEP] Cologny	neighboringMunicipalities	21106
 Is Cologny a neighbouring city of Geneva? [SEP] SUB [SEP] Geneva	neighboringMunicipalities	21106
-Whose creators are Jerry Seinfeld and Larry David? [SEP] OBJ [SEP] Larry_David	creator	44347
+Is Cologny a neighbouring city of Geneva? [SEP] OBJ [SEP] Cologny	neighboringMunicipalities	21106
 Whose creators are Jerry Seinfeld and Larry David? [SEP] OBJ [SEP] Jerry_Seinfeld	creator	44347
-Which TV show is related to The Sarah Jane Adventures and theme music is composed by  Ron Grainer? [SEP] OBJ [SEP] Ron_Grainer	themeMusicComposer	48383
+Whose creators are Jerry Seinfeld and Larry David? [SEP] OBJ [SEP] Larry_David	creator	44347
+Which TV show is related to The Sarah Jane Adventures and theme music is composed by  Ron Grainer? [SEP] OBJ [SEP] The_Sarah_Jane_Adventures	related	56672
 Which TV show is related to The Sarah Jane Adventures and theme music is composed by  Ron Grainer? [SEP] OBJ [SEP] Tv_test_pattern	themeMusicComposer	48383
 Name the parent company of  Ford Air Transport Service ? [SEP] SUB [SEP] Ford_Air_Transport_Service	parentCompany	8328
 Who  has these major shrines  : Emmitsburg, Maryland and Shrine of St. Elizabeth Ann Bayley Seton? [SEP] OBJ [SEP] Emmitsburg,_Maryland	majorShrine	19003
 Who  has these major shrines  : Emmitsburg, Maryland and Shrine of St. Elizabeth Ann Bayley Seton? [SEP] OBJ [SEP] Shrine_of_St._Elizabeth_Ann_Bayley_Seton	majorShrine	19003
 Which region of Bannock is the origin od Spaghetti squash ? [SEP] SUB [SEP] Bannock_(food)	region	15210
 Which region of Bannock is the origin od Spaghetti squash ? [SEP] SUB [SEP] Spaghetti_squash	origin	33099
-Where in the us military did pierre r graham and edwin f hunter work? [SEP] SUB [SEP] Graham_Avenue_(BMT_Canarsie_Line)	militaryBranch	54483
-Where in the us military did pierre r graham and edwin f hunter work? [SEP] SUB [SEP] Edwin	spike	6075
+Where in the us military did pierre r graham and edwin f hunter work? [SEP] SUB [SEP] Graham_Avenue_(BMT_Canarsie_Line)	spike	6075
 Count everyone who lives in a place where Indian English is an official language ? [SEP] OBJ [SEP] Indian_English	officialLanguage	4888
-Did Raymond Picard take birth in Paris? [SEP] SUB [SEP] Paris_Theodore	birthplace	28350
 Did Raymond Picard take birth in Paris? [SEP] SUB [SEP] Raymond_Picard	birthplace	28350
+Did Raymond Picard take birth in Paris? [SEP] OBJ [SEP] Paris_Theodore	birthplace	28350
 How many religions are practiced by diplomats? [SEP] OBJ [SEP] Diplomacy	profession	52340
 Was Elton John a chairman of a Watford FC Season? [SEP] SUB [SEP] 2002–03_Watford_F.C._season	chairman	8592
 Was Elton John a chairman of a Watford FC Season? [SEP] OBJ [SEP] FC	chairman	8592
@@ -1029,13 +1053,13 @@ To whom was Tessa Dahl born to? [SEP] SUB [SEP] Tessa_Dahl	parent	9413
 Which sport at Polytechnic University of the Philippines Taguig is the field of Jon speelman ? [SEP] SUB [SEP] Jon_Speelman	field	32951
 Which sport at Polytechnic University of the Philippines Taguig is the field of Jon speelman ? [SEP] SUB [SEP] Polytechnic_University_of_the_Philippines_Taguig	sport	49094
 Count the number of things people who know linguistics are known for ? [SEP] OBJ [SEP] Linguistics	knownFor	51841
-Where were sverre krogh sundbo and havard vad petersson born? [SEP] SUB [SEP] René_Havard	birthPlace	29833
 Where were sverre krogh sundbo and havard vad petersson born? [SEP] SUB [SEP] Sverre_Krogh_Sundbø	birthPlace	29833
-Was Cliff Burton in Metallica? [SEP] SUB [SEP] Metallica	pastMembers	6231
+Where were sverre krogh sundbo and havard vad petersson born? [SEP] SUB [SEP] René_Havard	birthPlace	29833
 Was Cliff Burton in Metallica? [SEP] OBJ [SEP] Cliff_Burton	pastMembers	6231
+Was Cliff Burton in Metallica? [SEP] SUB [SEP] Metallica	pastMembers	6231
 How many religions are followed by organizations which are internationally known as the muslim brotherhood? [SEP] OBJ [SEP] Muslim_Brotherhood	international	8267
 What are some people born in NY known for? [SEP] OBJ [SEP] New_York_City	birthPlace	29833
-Who is the developer of the software which is produced by Claris ? [SEP] SUB [SEP] Software_Publishing_Corporation	developer	25969
+Who is the developer of the software which is produced by Claris ? [SEP] SUB [SEP] Software_Publishing_Corporation	author	46678
 What is the river whose source is Cowombat  Flat and has it's mouth located in Murray Mouth? [SEP] OBJ [SEP] Cowombat_Flat	source	52585
 What is the river whose source is Cowombat  Flat and has it's mouth located in Murray Mouth? [SEP] OBJ [SEP] Murray_Mouth	riverMouth	13746
 Where does the river flow into which begins in Lebrsnik? [SEP] OBJ [SEP] Lebršnik	sourcePlace	42829
@@ -1043,12 +1067,12 @@ What is the government type of Ancient Rome ? [SEP] SUB [SEP] Ancient_Rome	gover
 Which director of On deadly Ground also released Mojo Priest ? [SEP] SUB [SEP] On_Deadly_Ground	director	19232
 Which director of On deadly Ground also released Mojo Priest ? [SEP] SUB [SEP] Mojo_Priest	artist	57049
 What is the television show whose channel's parent organisation is Fox Sports? [SEP] OBJ [SEP] Fox_Sports_(United_States)	parentOrganisation	3927
-Who commanded the invasion of Buwat and made Fatima bint Sa'd famous? [SEP] OBJ [SEP] Buwat	occupation	58311
-Who commanded the invasion of Buwat and made Fatima bint Sa'd famous? [SEP] OBJ [SEP] Fatima	occupation	58311
+Who commanded the invasion of Buwat and made Fatima bint Sa'd famous? [SEP] SUB [SEP] Buwat	occupation	58311
+Who commanded the invasion of Buwat and made Fatima bint Sa'd famous? [SEP] SUB [SEP] Fatima	occupation	58311
 What is the home ground of the clubs managed by Ciao Zanardi? [SEP] OBJ [SEP] Caio_Zanardi	manager	1385
 What is the country with native language as Languages of Ethiopia? [SEP] OBJ [SEP] Languages_of_Ethiopia	language	25837
-What is the band with previous members  Kevin Jonas and Joe Jonas? [SEP] OBJ [SEP] Joe_Jonas	pastMembers	6231
 What is the band with previous members  Kevin Jonas and Joe Jonas? [SEP] OBJ [SEP] Kevin_Jonas	pastMembers	6231
+What is the band with previous members  Kevin Jonas and Joe Jonas? [SEP] OBJ [SEP] Joe_Jonas	pastMembers	6231
 List the people with Scientology as their religious belief? [SEP] OBJ [SEP] Scientology	religion	21742
 How many fictional characters were humans? [SEP] OBJ [SEP] List_of_fictional_genderqueer_characters	person	34569
 Where was Girls (The Prodigy song)  recorded ? [SEP] SUB [SEP] Girls_(The_Prodigy_song)	recorded	12808
@@ -1059,17 +1083,16 @@ Give me some shows owned by BBC one and BBC hd? [SEP] OBJ [SEP] BBC_One	network	
 How many teams have rented stadiums in Canada? [SEP] OBJ [SEP] Canada	location	20193
 List the awards won by the film director of Chicken Run? [SEP] SUB [SEP] Chicken_Run	director	19232
 What territory of Sino French War was the battle of Raoul Magrin-Vernerey fought ? [SEP] SUB [SEP] Sino-French_War	territory	9357
-What territory of Sino French War was the battle of Raoul Magrin-Vernerey fought ? [SEP] SUB [SEP] Raoul_Magrin-Vernerey	battles	51886
 List the  outflow of Lake Uniamsi? [SEP] SUB [SEP] Lake_Uniamési	outflow	40867
 Did John Byrne create Emma Frost? [SEP] SUB [SEP] Emma_Frost	creators	49430
 Did John Byrne create Emma Frost? [SEP] OBJ [SEP] John_Byrne_(comics)	creators	49430
 Was Heinrich Himmler ever a commanders of Army Group Oberrhein? [SEP] SUB [SEP] Army_Group_Oberrhein_(Germany)	notableCommanders	47959
 Was Heinrich Himmler ever a commanders of Army Group Oberrhein? [SEP] OBJ [SEP] Heinrich_Himmler	notableCommanders	47959
-List the universities from a country where Norwegian language is officially accepted. [SEP] OBJ [SEP] Norwegian_language	officialLanguage	4888
+List the universities from a country where Norwegian language is officially accepted. [SEP] OBJ [SEP] Norway	country	60260
 Name the incumbent of Linda Jenness ? [SEP] SUB [SEP] Linda_Jenness	incumbent	41795
 Which companies makes cars assembled in Karachi, Pakistan? [SEP] OBJ [SEP] Karachi	assembly	1238
-Which company founded by Fusajiro Yamauchi also provides services of Nintendo eShop ? [SEP] OBJ [SEP] Nintendo_eShop	services	13703
 Which company founded by Fusajiro Yamauchi also provides services of Nintendo eShop ? [SEP] OBJ [SEP] Fusajiro_Yamauchi	foundedBy	7071
+Which company founded by Fusajiro Yamauchi also provides services of Nintendo eShop ? [SEP] OBJ [SEP] Nintendo_eShop	services	13703
 In which countries does the sea lie on whose shore is the city of Cumana? [SEP] OBJ [SEP] Cumaná	cities	54723
 Tirana is the largest city of which country? [SEP] OBJ [SEP] Tirana	largestCity	6967
 From which countries are the people from who are an academic authority of the Western pygmy blue species? [SEP] SUB [SEP] Western_pygmy_blue	binomialAuthority	8297
@@ -1077,10 +1100,10 @@ Where is the headquarters of Sigma TV [SEP] SUB [SEP] Sigma_TV	headquarters	4287
 Which scientist was advised by John Robert Woodyard? [SEP] OBJ [SEP] John_Robert_Woodyard	doctoralAdvisor	45011
 What is the launch site of the Juno I which was also the ground of 2016 Fort Lauderdale Strikers season ? [SEP] SUB [SEP] Juno_I	launchSite	16479
 What is the launch site of the Juno I which was also the ground of 2016 Fort Lauderdale Strikers season ? [SEP] SUB [SEP] 2016_Fort_Lauderdale_Strikers_season	ground	44631
-Who has been married to both Penny Lancaster and Alana Stewart? [SEP] SUB [SEP] Alana_Stewart	spouse	10737
 Who has been married to both Penny Lancaster and Alana Stewart? [SEP] SUB [SEP] Penny_Lancaster	spouse	10737
+Who has been married to both Penny Lancaster and Alana Stewart? [SEP] SUB [SEP] Alana_Stewart	spouse	10737
 Count the affiliations of International Union of Anarchists? [SEP] SUB [SEP] International_Union_of_Anarchists	affiliation	14578
-What is the alma mater of the scientist  whose PhD advisor is Jean-Claude Latombe ? [SEP] OBJ [SEP] Doctor_of_Philosophy	almaMater	18496
+What is the alma mater of the scientist  whose PhD advisor is Jean-Claude Latombe ? [SEP] OBJ [SEP] Jean-Claude_Latombe	doctoralAdvisor	45011
 List the people residing in Wilton, Connecticut? [SEP] OBJ [SEP] Wilton,_Connecticut	residence	27866
 What is the Location of the Peetz Table Wind Energy Center which is also the state of Ben Nighthorse Campbell ? [SEP] SUB [SEP] Peetz_Table_Wind_Energy_Center	location	20193
 What is the Location of the Peetz Table Wind Energy Center which is also the state of Ben Nighthorse Campbell ? [SEP] SUB [SEP] Ben_Nighthorse_Campbell	state	50216
@@ -1088,22 +1111,22 @@ Count the water bodies that flow into the North Sea? [SEP] SUB [SEP] North_Sea	i
 Who was the First Driver of 1999 San Marino Grand Prix ? [SEP] SUB [SEP] 1999_San_Marino_Grand_Prix	firstDriver	5441
 Bantam Spectra is the publisher of which series? [SEP] OBJ [SEP] Bantam_Spectra	publisher	48680
 Where is the sister station of Al Arabiya 99 located? [SEP] OBJ [SEP] Al_Arabiya_99	sisterStations	41446
-Which common prime minister did Graham Richardson and Bon McMullan serve ? [SEP] OBJ [SEP] McMullan	primeMinister	24941
 Which common prime minister did Graham Richardson and Bon McMullan serve ? [SEP] SUB [SEP] Graham_Richardson	primeMinister	24941
+Which common prime minister did Graham Richardson and Bon McMullan serve ? [SEP] SUB [SEP] Theresa_May	primeMinister	24941
 How many things are produced by companies located in Tehran? [SEP] OBJ [SEP] Tehran	location	20193
-Which is the common past team of the Charlie Justice (American football player) and Bobby Hoppe ? [SEP] SUB [SEP] Bobby_Hoppe	pastteams	33745
 Which is the common past team of the Charlie Justice (American football player) and Bobby Hoppe ? [SEP] SUB [SEP] Charlie_Justice_(American_football_player)	pastteams	33745
+Which is the common past team of the Charlie Justice (American football player) and Bobby Hoppe ? [SEP] SUB [SEP] Bobby_Hoppe	pastteams	33745
 Name the officeholder who hasa child named Augustus and has an associate named Marcus Bibulus ? [SEP] OBJ [SEP] Augustus	children	21932
-Name the officeholder who hasa child named Augustus and has an associate named Marcus Bibulus ? [SEP] OBJ [SEP] Pope_Mark	child	9507
+Name the officeholder who hasa child named Augustus and has an associate named Marcus Bibulus ? [SEP] OBJ [SEP] Pope_Mark	associate	27040
 Which party won both the general electoin and the andhra pradesh election in 2004? [SEP] SUB [SEP] Indian_general_election,_2004_(Delhi)	affiliation	14578
 Which party won both the general electoin and the andhra pradesh election in 2004? [SEP] SUB [SEP] Indian_general_election,_2004_(Andhra_Pradesh)	affiliation	14578
 Give me someone on the board of trinity house? [SEP] OBJ [SEP] Trinity_House	board	27862
-Whose leaders are Willem-Alexander and Fredis Refunjol? [SEP] OBJ [SEP] Fredis_Refunjol	leader	30944
 Whose leaders are Willem-Alexander and Fredis Refunjol? [SEP] OBJ [SEP] Willem-Alexander_of_the_Netherlands	leader	30944
-Horses grandsired by Sundridge  have won which awards? [SEP] OBJ [SEP] Sundridge	award	271
-What is the river whose source region is North-Western Province, Zambia and river mouth is Indian Ocean? [SEP] OBJ [SEP] Indian_Ocean	riverMouth	13746
-What is the river whose source region is North-Western Province, Zambia and river mouth is Indian Ocean? [SEP] OBJ [SEP] India	themeMusicComposer	48383
-Who was on the first team in the GPs that were held at Watkins Glen, NY? [SEP] OBJ [SEP] NBEAL2	firstTeam	18122
+Whose leaders are Willem-Alexander and Fredis Refunjol? [SEP] OBJ [SEP] Fredis_Refunjol	leader	30944
+Horses grandsired by Sundridge  have won which awards? [SEP] OBJ [SEP] Sundridge	operator	59761
+What is the river whose source region is North-Western Province, Zambia and river mouth is Indian Ocean? [SEP] OBJ [SEP] North-Western_Province,_Zambia	sourceRegion	45823
+What is the river whose source region is North-Western Province, Zambia and river mouth is Indian Ocean? [SEP] OBJ [SEP] India	relative	29794
+Who was on the first team in the GPs that were held at Watkins Glen, NY? [SEP] OBJ [SEP] New_York	position	26672
 Name the movie whose screenplay is by Akiva Goldsman and directed by Joel Schumacher ? [SEP] OBJ [SEP] Akiva_Goldsman	screenplay	20549
 Name the movie whose screenplay is by Akiva Goldsman and directed by Joel Schumacher ? [SEP] OBJ [SEP] Joel_Schumacher	director	19232
 What ethinicity of Linda Hogan is also the state of origin of Holmes Colbert ? [SEP] SUB [SEP] Linda_Hogan	ethnicity	14643
@@ -1111,19 +1134,19 @@ What ethinicity of Linda Hogan is also the state of origin of Holmes Colbert ? [
 What are the track and field events of Jamiatu Muslim Mindanao? [SEP] SUB [SEP] Jamiatu_Muslim_Mindanao	athletics	15887
 How many cities are close to Lake Victoria? [SEP] SUB [SEP] Lake_Victoria	nearestCity	32453
 Is greasy pop recording the distributor of festival records? [SEP] OBJ [SEP] Festival_Records	distributingLabel	13095
-What is the baseball team whose club manager's debut team is Houston Astros? [SEP] OBJ [SEP] The_Debut	team	48483
+What is the baseball team whose club manager's debut team is Houston Astros? [SEP] OBJ [SEP] Houston_Astros	debutTeam	33901
 What cities are near to Nihoa which is also known as Bird Island ? [SEP] OBJ [SEP] Bird_Island	nearestCity	32453
-Is Sloth in the Chordate phylum? [SEP] OBJ [SEP] Chordate	phylum	36439
 Is Sloth in the Chordate phylum? [SEP] SUB [SEP] Sloth	phylum	36439
+Is Sloth in the Chordate phylum? [SEP] OBJ [SEP] Chordate	phylum	36439
 Which shareholder of Naval Air facility Adak is also the operator of New Sanno Hotel ? [SEP] SUB [SEP] Naval_Air_Facility_Adak	owner	23181
 Which shareholder of Naval Air facility Adak is also the operator of New Sanno Hotel ? [SEP] SUB [SEP] New_Sanno_Hotel	operator	59761
 What other awards have been given to Golden Globe winners? [SEP] OBJ [SEP] Golden_Globe_Award	award	271
-Which allegiance of the John Kotelawala is also the  sovereign state of the Sanath Weerakoon ? [SEP] SUB [SEP] Sanath_Weerakoon	country	60260
 Which allegiance of the John Kotelawala is also the  sovereign state of the Sanath Weerakoon ? [SEP] SUB [SEP] John_Kotelawala	allegiance	57391
-List the television shows whose network's sister names is N-tv. [SEP] OBJ [SEP] Sister,_Sister_(TV_series)	hometown	16022
+Which allegiance of the John Kotelawala is also the  sovereign state of the Sanath Weerakoon ? [SEP] SUB [SEP] Sanath_Weerakoon	country	60260
+List the television shows whose network's sister names is N-tv. [SEP] OBJ [SEP] N-tv	sisterNames	57614
 God Defend New Zealand is the national anthem of which country? [SEP] OBJ [SEP] God_Defend_New_Zealand	nationalAnthem	52699
 Where do the rivers starting from Zambia end? [SEP] OBJ [SEP] Zambia	sourceCountry	4064
-Which political party of kumta had affiliation with Indian general election, 2004 (Andhra Pradesh)  [SEP] SUB [SEP] Indian_general_election,_2004_(Andhra_Pradesh)	affiliation	14578
+Which political party of kumta had affiliation with Indian general election, 2004 (Andhra Pradesh)  [SEP] OBJ [SEP] India	affiliation	14578
 Who was member of boards at Royal Society and Trinity House? [SEP] OBJ [SEP] Royal_Society	board	27862
 Who was member of boards at Royal Society and Trinity House? [SEP] OBJ [SEP] Trinity_House	board	27862
 Where is the king buried whose predecessor was Iyasu II? [SEP] OBJ [SEP] Iyasu_II	predecessor	37087
@@ -1132,12 +1155,12 @@ What faiths are followed by the relatives of Meadow Soprano? [SEP] SUB [SEP] Mea
 Where is the headquarters of the public transit system which owns Target Field, a Metro Transit Station  ? [SEP] SUB [SEP] Target_Field	publictransit	10111
 What is the nationality of Aishath Saffa ? [SEP] SUB [SEP] Aishath_Saffa	nationality	46679
 who was the president under whom winston bryant served as a lieutenant? [SEP] OBJ [SEP] Winston_Bryant	lieutenant	15995
-What are the bands associated with the artists of My Favorite Girl  ? [SEP] OBJ [SEP] My_Favorite_Girl	associatedBand	31652
+What are the bands associated with the artists of My Favorite Girl  ? [SEP] SUB [SEP] My_Favorite_Girl	artist	57049
 On what subjects was Broca's Brain written? [SEP] SUB [SEP] Broca's_Brain	subject	53678
 Which parent organization of GetTV is also the label of next thing ? [SEP] SUB [SEP] GetTV	parentOrganisation	3927
 Which teams have used the stadium whose architect was Populous ? [SEP] OBJ [SEP] Populous_(company)	architect	16129
-Name the route end of the North-South Transport Corridor and Mumbai Vadodara Expressway? [SEP] SUB [SEP] Mumbai_Vadodara_Expressway	routeEnd	35144
 Name the route end of the North-South Transport Corridor and Mumbai Vadodara Expressway? [SEP] SUB [SEP] North_Spokane_Corridor	routeEnd	35144
+Name the route end of the North-South Transport Corridor and Mumbai Vadodara Expressway? [SEP] SUB [SEP] Mumbai_Vadodara_Expressway	routeEnd	35144
 Is Albert P Clark buried in Colorado? [SEP] SUB [SEP] P	placeofburial	24330
 Is Albert P Clark buried in Colorado? [SEP] OBJ [SEP] Colorado	placeofburial	24330
 Which hockey team is head coached by Bill Peters? [SEP] OBJ [SEP] Bill_Peters_(ice_hockey)	headCoach	57501
@@ -1145,7 +1168,7 @@ Count the number of religions followed by the alumini of Ananda College. [SEP] O
 Which team did Wilfred McDonalds and Cam Plante play for? [SEP] SUB [SEP] Cam_Plante	playedFor	56313
 Which team did Wilfred McDonalds and Cam Plante play for? [SEP] SUB [SEP] Wilfred_McDonald	playedFor	56313
 What are the television shows whose network's stockholder is Warner Bros. Television? [SEP] OBJ [SEP] Warner_Bros._Television	owner	23181
-Name the Fox TV show judged by Rand Jackson ? [SEP] OBJ [SEP] The_Fox_(1967_film)	budget	16210
+Name the Fox TV show judged by Rand Jackson ? [SEP] OBJ [SEP] Rand_Grange	budget	16210
 What is the total number of software whose programming language is C++ and operating system is Microsoft Windows? [SEP] OBJ [SEP] Microsoft_Windows	operatingSystem	27233
 Name the city of Phil-Ellena ? [SEP] SUB [SEP] Phil-Ellena	city	42352
 how many companies are located in a spanish speaking region? [SEP] OBJ [SEP] Spanish_language	language	25837
@@ -1157,8 +1180,8 @@ Name the islands that belong to the archipelago whose largest city is Papeete? [
 In which team did Dave Bing and Ron Reed started their basketball career? [SEP] SUB [SEP] Dave_Bing	draftTeam	54294
 In which team did Dave Bing and Ron Reed started their basketball career? [SEP] SUB [SEP] Ron_Reed	draftTeam	54294
 List the settlements area whose province is Metropolitan City of Venice ? [SEP] OBJ [SEP] Metropolitan_City_of_Venice	province	32026
-What was recorded by Live in Detroit, MI and also palce of birth of the Bodhin Kjolhede? [SEP] SUB [SEP] Bodhin_Kjolhede	placeOfBirth	46252
 What was recorded by Live in Detroit, MI and also palce of birth of the Bodhin Kjolhede? [SEP] SUB [SEP] MI	recordedIn	8087
+What was recorded by Live in Detroit, MI and also palce of birth of the Bodhin Kjolhede? [SEP] SUB [SEP] Bodhin_Kjolhede	placeOfBirth	46252
 From how many different institutes have the members of Judge Advocate General's Corps graduated? [SEP] OBJ [SEP] Judge_Advocate_General's_Corps,_United_States_Army	militaryRank	36007
 Whos a famous relative of anne spielberg? [SEP] OBJ [SEP] Anne_Spielberg	relation	34514
 To which city does Northeast Library belong? [SEP] SUB [SEP] Northeast_Library	city	42352
@@ -1166,101 +1189,105 @@ What are the airline hubs of Cascade Airways? [SEP] SUB [SEP] Cascade_Airways	hu
 Who has manufactured vehicles designed originally by NASA? [SEP] OBJ [SEP] NASA	designCompany	29715
 What is the order of the Henry Clay and profession of the William Luther Hill? [SEP] SUB [SEP] Henry_Clay	order	51098
 What is the order of the Henry Clay and profession of the William Luther Hill? [SEP] SUB [SEP] William_Luther_Hill	profession	52340
-What show  has theme music composer as Ron Grainer and at the same time  related to Class (2016 TV series)? [SEP] OBJ [SEP] Class_(2016_TV_series)	related	56672
 What show  has theme music composer as Ron Grainer and at the same time  related to Class (2016 TV series)? [SEP] OBJ [SEP] Ron_Grainer	themeMusicComposer	48383
+What show  has theme music composer as Ron Grainer and at the same time  related to Class (2016 TV series)? [SEP] OBJ [SEP] Class_(2016_TV_series)	related	56672
 What is the life stance of the ethnic groups related to Micronesia ? [SEP] OBJ [SEP] Micronesia	related	56672
-Name the river whose mouth mountain is Southend-on-Sea and mouth place is Essex? [SEP] OBJ [SEP] Essex	mouthPlace	4324
 Name the river whose mouth mountain is Southend-on-Sea and mouth place is Essex? [SEP] OBJ [SEP] Southend-on-Sea	mouthMountain	41951
+Name the river whose mouth mountain is Southend-on-Sea and mouth place is Essex? [SEP] OBJ [SEP] Essex	mouthPlace	4324
 Which venue of indy PopCon is also the death palce of Louis Le Cocqq ? [SEP] SUB [SEP] Indy_PopCon	venue	25176
-Which venue of indy PopCon is also the death palce of Louis Le Cocqq ? [SEP] SUB [SEP] Louis_XIV_of_France	location	20193
+Which venue of indy PopCon is also the death palce of Louis Le Cocqq ? [SEP] SUB [SEP] Louis_XIV_of_France	deathDate	50501
 What genre's softwares are released with a GNU GPL license? [SEP] OBJ [SEP] Gpl-violations.org	genre	33756
 Is Christchurch the largest city of South Island? [SEP] SUB [SEP] South_Island	largestCity	6967
-Who is the leader of Allgemeine SS ? [SEP] SUB [SEP] Allgemeine_SS	leader	30944
+Is Christchurch the largest city of South Island? [SEP] SUB [SEP] South_Island	largestCity	6967
+Who is the leader of Allgemeine SS ? [SEP] SUB [SEP] Schutzstaffel	leader	30944
 Giorgos Kaminis is the mayor of what? [SEP] OBJ [SEP] Giorgos_Kaminis	mayor	22236
 Where is the headquarters of Metro Transit (Minnesota) ? [SEP] SUB [SEP] Metro_Transit_(Minnesota)	headquarters	42877
 Give me the count of all the names of characters created by Frank Miller [SEP] OBJ [SEP] Frank_Miller_(comics)	creators	49430
 Which fictional character portrayed in Terminator 2: Judgment Day is painted by Josh Friedman? [SEP] OBJ [SEP] Josh_Friedman	creator	44347
 Where was the narrator of Spain on the Road Again born? [SEP] SUB [SEP] Spain..._on_the_Road_Again	narrator	35460
-Does AMC Gremlin have the Volkswagen engine? [SEP] OBJ [SEP] Volkswagen	engine	4316
 Does AMC Gremlin have the Volkswagen engine? [SEP] SUB [SEP] AMC_Gremlin	engine	4316
-Name the movie with narrator as Trevor Peacock and music composer  as Christophe Beck? [SEP] OBJ [SEP] Christophe_Beck	music	27000
+Does AMC Gremlin have the Volkswagen engine? [SEP] OBJ [SEP] Volkswagen	engine	4316
 Name the movie with narrator as Trevor Peacock and music composer  as Christophe Beck? [SEP] OBJ [SEP] Trevor_Peacock	narrator	35460
+Name the movie with narrator as Trevor Peacock and music composer  as Christophe Beck? [SEP] OBJ [SEP] Christophe_Beck	music	27000
 Where did the scientist study whose doctoral thesis was supervised by Leonard Lerman? [SEP] OBJ [SEP] Leonard_Lerman	doctoralAdvisor	45011
 What is the sea whose cities are Gdask and Oulu? [SEP] OBJ [SEP] Oulu_University_Hospital	country	60260
-What rivers originate from Australian Alps? [SEP] OBJ [SEP] Australian_Alps	sourcePlace	42829
+What rivers originate from Australian Alps? [SEP] SUB [SEP] Australia	sourcePlace	42829
 Which venues are located at places governed by John Roberts? [SEP] OBJ [SEP] John_Roberts	leader	30944
 What is the venue of San Diego Comic-Con International ? [SEP] SUB [SEP] San_Diego_Comic-Con_International	venue	25176
 Which office holder owes its allegiance to a state whose capital town is Jamestown, Virginia? [SEP] OBJ [SEP] Jamestown,_Virginia	capital	9607
 Which professional fighter, who is also a politician and was elected to House of Representatives of the Philippines? [SEP] OBJ [SEP] House_of_Representatives_of_the_Philippines	occupation	58311
+Which professional fighter, who is also a politician and was elected to House of Representatives of the Philippines? [SEP] OBJ [SEP] House_of_Representatives_of_the_Philippines	occupation	58311
 List the comic characters created by Joe Shuster ? [SEP] OBJ [SEP] Joe_Shuster	creators	49430
 Which kind of conventions are held in Rosemont, Illinois? [SEP] OBJ [SEP] Rosemont,_Illinois	location	20193
 What city is located on the mouth of Duwamish River? [SEP] SUB [SEP] Duwamish_River	riverMouth	13746
-Which governer of Winston Bryant is the president of Joseph Stiglitz ? [SEP] SUB [SEP] Joseph_Stiglitz	president	60714
 Which governer of Winston Bryant is the president of Joseph Stiglitz ? [SEP] SUB [SEP] Winston_Bryant	governor	25211
-How many people have led agencies in German occupied Europe? [SEP] OBJ [SEP] Germany	field	32951
+Which governer of Winston Bryant is the president of Joseph Stiglitz ? [SEP] SUB [SEP] Joseph_Stiglitz	president	60714
+How many people have led agencies in German occupied Europe? [SEP] OBJ [SEP] Agencies_of_the_European_Union	about	47543
 Where did the plays written by Robert Schenkkan take place? [SEP] OBJ [SEP] Robert_Schenkkan	writer	38511
 Under which president did the predecessor of Simon Ferro work? [SEP] OBJ [SEP] Simon_Ferro	successor	10209
-Name  some ww1 veterans? [SEP] OBJ [SEP] WW1_(album)	name	50666
+Name  some ww1 veterans? [SEP] SUB [SEP] WW1_(album)	name	50666
 Who appointed both John Drayton and William Clark to their respective offices? [SEP] SUB [SEP] John_Drayton	appointer	2270
 Who appointed both John Drayton and William Clark to their respective offices? [SEP] SUB [SEP] William_Clark	appointer	2270
-Which operator of New Sanno Hotel is also the  governing body of the Oahu Railway and Land Company ? [SEP] SUB [SEP] Oahu_Railway_and_Land_Company	governingBody	58573
 Which operator of New Sanno Hotel is also the  governing body of the Oahu Railway and Land Company ? [SEP] SUB [SEP] New_Sanno_Hotel	operator	59761
+Which operator of New Sanno Hotel is also the  governing body of the Oahu Railway and Land Company ? [SEP] SUB [SEP] Oahu_Railway_and_Land_Company	governingBody	58573
 Which predecessor of Alexander Downer was deputy to Neil Brown ? [SEP] OBJ [SEP] Alexander_Downer	predecessor	37087
+Which predecessor of Alexander Downer was deputy to Neil Brown ? [SEP] OBJ [SEP] Neil_Brown_(Australian_politician)	deputy	40330
 Which are the predecessor of Chevrolet Caprice? [SEP] SUB [SEP] Chevrolet_Caprice	predecessor	37087
-Who wrote the album coming right before Dead Man's Chest's OST? [SEP] OBJ [SEP] Dead_Man	leaderName	4863
+Who wrote the album coming right before Dead Man's Chest's OST? [SEP] OBJ [SEP] OST	debut	8292
 What is the series of the book which is a subsequent work of Blade Runner 2: The Edge of Human ? [SEP] SUB [SEP] Blade_Runner_2:_The_Edge_of_Human	subsequentWork	51389
 For how many cities's teams did David Bowens play? [SEP] SUB [SEP] David_Bowens	formerTeam	10705
-Is Anne Hidalgo the mayor of Paris? [SEP] OBJ [SEP] Anne_Hidalgo	mayor	22236
 Is Anne Hidalgo the mayor of Paris? [SEP] SUB [SEP] Paris	mayor	22236
+Is Anne Hidalgo the mayor of Paris? [SEP] OBJ [SEP] Anne_Hidalgo	mayor	22236
 In which countries have models hanged themselves? [SEP] OBJ [SEP] Countries_of_the_United_Kingdom	review	29054
-Is the Vadodara railway junction onwed by Indian Railway Ministry? [SEP] SUB [SEP] India	owner	23181
-Is the Vadodara railway junction onwed by Indian Railway Ministry? [SEP] OBJ [SEP] Indian_Railway_Finance_Corporation	owner	23181
+Is the Vadodara railway junction onwed by Indian Railway Ministry? [SEP] SUB [SEP] Vadodara_Junction_railway_station	owningOrganisation	16597
+Is the Vadodara railway junction onwed by Indian Railway Ministry? [SEP] OBJ [SEP] India	owner	23181
 What city gave birth to Mishal Raheja and also houses New India Assurance? [SEP] SUB [SEP] Mishal_Raheja	birthPlace	29833
 What city gave birth to Mishal Raheja and also houses New India Assurance? [SEP] SUB [SEP] New_India_Assurance	location	20193
 Which TV show whose theme is composed by someone signed up with ATO records? [SEP] OBJ [SEP] ATO_Records	recordLabel	15634
 Which models were featured in Playboy Playmates 1954? [SEP] OBJ [SEP] Playmates	endowment	22460
-What currencies have been prevalent in the country whose national anthem is La Marseillaise? [SEP] OBJ [SEP] Currencies_of_Puerto_Rico	leaderName	4863
+What currencies have been prevalent in the country whose national anthem is La Marseillaise? [SEP] OBJ [SEP] La_Marseillaise	anthem	19364
 Who is the relative of Jim Farley (businessman) ? [SEP] SUB [SEP] Jim_Farley_(businessman)	relatives	22219
-Is Latin the official language of Sovereign Military Order of Malta? [SEP] OBJ [SEP] Latin	officialLanguage	4888
 Is Latin the official language of Sovereign Military Order of Malta? [SEP] SUB [SEP] Sovereign_Military_Order_of_Malta	officialLanguage	4888
-Where do the politicians, Blanche Bruce and John Franklin Miller work? [SEP] SUB [SEP] Franklin_Miller	<r0	61207
+Is Latin the official language of Sovereign Military Order of Malta? [SEP] OBJ [SEP] Latin	officialLanguage	4888
 Where do the politicians, Blanche Bruce and John Franklin Miller work? [SEP] SUB [SEP] Blanche_Bruce	office	28173
-Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season? [SEP] OBJ [SEP] Bill_Walsh_(American_football_player)	<r3	61207
-Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season? [SEP] OBJ [SEP] Organization_of_American_States	themeMusicComposer	48383
-Name a  river with source country as Zambia and source location as Ikelenge  District? [SEP] OBJ [SEP] Ikelenge_District	sourceLocation	36037
+Where do the politicians, Blanche Bruce and John Franklin Miller work? [SEP] SUB [SEP] Franklin_Miller	<r0	61207
+Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season? [SEP] OBJ [SEP] Chicago_Bears	debutteam	49790
+Name an American football player whose debuted in Chicago Bears and former team is 1998 Baltimore Ravens season? [SEP] OBJ [SEP] Organization_of_American_States	formerTeam	10705
 Name a  river with source country as Zambia and source location as Ikelenge  District? [SEP] OBJ [SEP] Zambia	sourceCountry	4064
+Name a  river with source country as Zambia and source location as Ikelenge  District? [SEP] OBJ [SEP] Ikelenge_District	sourceLocation	36037
 Does Ford own the Ford Kansas Assembly plant? [SEP] SUB [SEP] Ford_Kansas_City_Assembly_Plant	owningOrganisation	16597
-Does Ford own the Ford Kansas Assembly plant? [SEP] OBJ [SEP] Ethiopia	owningOrganisation	16597
+Does Ford own the Ford Kansas Assembly plant? [SEP] OBJ [SEP] City_of_Liverpool_Gymnastics_Club	club	54161
 Which fields of the Paul Demiville is also the faith of Koay Teng Hai ? [SEP] SUB [SEP] Paul_Demiéville	fields	2129
 Which fields of the Paul Demiville is also the faith of Koay Teng Hai ? [SEP] SUB [SEP] Koay_Teng_Hai	religion	21742
 Name the institute of Alton Ochsner ? [SEP] SUB [SEP] Alton_Ochsner	institution	52605
 What movies have been written by authors of Monty Python ? [SEP] OBJ [SEP] Monty_Python	writer	38511
 Who was the cover artist of The Adventure of Tom Sawyer also wrote mark Twain Tonight ? [SEP] SUB [SEP] The_Adventures_of_Tom_Sawyer	coverArtist	10040
-Name the scientist whose academic advisor is Karl Ewald Hasse and supervisor is Georg Meissner? [SEP] OBJ [SEP] Georg_Meissner	doctoralAdvisor	45011
+Who was the cover artist of The Adventure of Tom Sawyer also wrote mark Twain Tonight ? [SEP] SUB [SEP] Mark_Twain_Tonight	writer	38511
 Name the scientist whose academic advisor is Karl Ewald Hasse and supervisor is Georg Meissner? [SEP] OBJ [SEP] Karl_Ewald_Hasse	academicAdvisor	56579
+Name the scientist whose academic advisor is Karl Ewald Hasse and supervisor is Georg Meissner? [SEP] OBJ [SEP] Georg_Meissner	doctoralAdvisor	45011
 Where do current famous NatGeo photographers live? [SEP] OBJ [SEP] National_Geographic_(magazine)	knownFor	51841
-Georg Meissner was doctoral supervisor of which scientist ? [SEP] SUB [SEP] Scientist	Scientist	61207
+Georg Meissner was doctoral supervisor of which scientist ? [SEP] OBJ [SEP] Scientist	doctoralAdvisor	45011
 Did Stanlee write the Tales of Suspense? [SEP] SUB [SEP] Stanlee_Gatti	writers	19463
 Did Stanlee write the Tales of Suspense? [SEP] SUB [SEP] Tales_of_Suspense	writers	19463
-Name the common home port of the Trishna (yacht) and INS Viraat (R22)? [SEP] SUB [SEP] INS_Viraat_(R22)	homeport	28159
 Name the common home port of the Trishna (yacht) and INS Viraat (R22)? [SEP] SUB [SEP] Trishna_(yacht)	homeport	28159
+Name the common home port of the Trishna (yacht) and INS Viraat (R22)? [SEP] SUB [SEP] INS_Viraat_(R22)	homeport	28159
 does the US navy have the structure of command of us department of defence? [SEP] SUB [SEP] United_States	order	51098
 Name books with publisher as Francisco de Robles and writer as Miguel de Cervantes ? [SEP] OBJ [SEP] Francisco_de_Robles	publisher	48680
 Name books with publisher as Francisco de Robles and writer as Miguel de Cervantes ? [SEP] OBJ [SEP] Miguel_de_Cervantes	author	46678
 Who owns the schools which have a penguin as its mascot? [SEP] OBJ [SEP] Penguin	mascot	9941
 River which flows into the eugene mahoney state park pass through which states? [SEP] OBJ [SEP] Eugene_T._Mahoney_State_Park	mouthLocation	51026
-What nation is Hornito located in, where Jamie Bateman Cayn died too? [SEP] OBJ [SEP] Hornito	deathPlace	46824
-Which TV show had a judge named Harry Connick, Jr. and was presented by Ryan Seacrest? [SEP] OBJ [SEP] Harry_Connick,_Jr.	judges	19319
+What nation is Hornito located in, where Jamie Bateman Cayn died too? [SEP] SUB [SEP] John_Jones_Bateman	country	60260
+Which TV show had a judge named Harry Connick, Jr. and was presented by Ryan Seacrest? [SEP] OBJ [SEP] Tv_test_pattern	showJudge	53694
 Which TV show had a judge named Harry Connick, Jr. and was presented by Ryan Seacrest? [SEP] OBJ [SEP] Ryan_Seacrest	presenter	35954
 Name the resting place of Fazlur Rahman Khan ? [SEP] SUB [SEP] Fazlur_Rahman_Khan	restingPlace	17425
-Which arena of WPC Dynamo Moscow is death location of Tigran Petrosian > [SEP] SUB [SEP] Tigran_Petrosian	deathPlace	46824
 Which arena of WPC Dynamo Moscow is death location of Tigran Petrosian > [SEP] SUB [SEP] WPC_Dynamo_Moscow	arena	11569
+Which arena of WPC Dynamo Moscow is death location of Tigran Petrosian > [SEP] SUB [SEP] Tigran_Petrosian	deathPlace	46824
 what cities are close by LoDaisKa ? [SEP] SUB [SEP] LoDaisKa_Site	nearestCity	32453
-Which wars were fought when the commanders involved served under PM Choi Tu Son? [SEP] OBJ [SEP] Hu_Tu_Tu	locationCity	20127
+Which wars were fought when the commanders involved served under PM Choi Tu Son? [SEP] OBJ [SEP] Hu_Tu_Tu	predecessor	37087
 Who is the meaning of Isa  ? [SEP] SUB [SEP] Isa_(name)	meaning	42569
-Who is  venerated in  Judaism and Islam? [SEP] OBJ [SEP] Islam	veneratedIn	18698
 Who is  venerated in  Judaism and Islam? [SEP] OBJ [SEP] Judaism	veneratedIn	18698
-Count the number teams which have  former ice hockey players which also included American Hockey League ? [SEP] OBJ [SEP] American_Hockey_League	formerTeam	10705
+Who is  venerated in  Judaism and Islam? [SEP] OBJ [SEP] Islam	veneratedIn	18698
+Count the number teams which have  former ice hockey players which also included American Hockey League ? [SEP] OBJ [SEP] Organization_of_American_States	foundationPlace	4841
 Name the common editor of Easy Street (film) and Work (film)? [SEP] SUB [SEP] Easy_Street_(film)	editing	42946
 Name the common editor of Easy Street (film) and Work (film)? [SEP] SUB [SEP] Work_(film)	editing	42946
 List all the schools of the rugby player whose went to school named Pietermaritzburg ? [SEP] OBJ [SEP] Pietermaritzburg	school	35189
