@@ -8,12 +8,13 @@ This repository contains the data and code for BERT Boost Box. The following ste
 * mkdir ../Results [All the results from the run along with the config files will be saved in this folder]
 * cd ../src
 * Run the main.py file
-  * python main.py --epochs 10 --patience 7 --batch_size 8 --alpha 0.5 --lr 1e-5 
+  * python main.py --path ../data_noise_added/ --epochs 10 --patience 7 --batch_size 8 --alpha 0.5 --lr 1e-5 
   
     args  | Meaning
     ------------- | -------------
     epochs  | Number of Epochs
     patience  |  Number of epochs to wait before stopping training. Early stopping will stop training if the validation loss has not decreased after the patience. [patience < epochs]
     batch_size | Batch Size
+    path | path to Dataset eg., ../data_noise_added/ to run noisy dataset code
     alpha | The hyperparameter to decide the contribution of the Cross-Entropy Loss (Loss_CE) and Mask Based loss (Loss_Mask) in the Total Loss. Total Loss = (1- α ) * Loss_CE + α * Loss_Mask  
     
