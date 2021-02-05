@@ -1,5 +1,10 @@
 This repository contains the data and code for BERT Boost Box. The following steps are required to run the code:
-* cd data
+* cd data [Contains data without noise in training set]
+* Unzip the mask matrices 
+  * unzip train_mask.zip
+  * unzip valid_mask.zip
+  * unzip test_mask.zip
+* cd ../data_noise_added/ [Contains data with noise in training set]
 * Unzip the mask matrices 
   * unzip train_mask.zip
   * unzip valid_mask.zip
