@@ -94,6 +94,6 @@ if __name__ == '__main__':
     #train_dataset = '../data/train_data_final.txt'
     #valid_dataset = '../data/valid_data_final.txt'
     #test_dataset = '../data/test_data_final.txt'
-    run(path, train_dataset, valid_dataset, test_dataset, args.epochs, args.alpha, args.lr, args.batch_size, args.patience)
+    run(args.path, train_dataset, valid_dataset, test_dataset, args.epochs, args.alpha, args.lr, args.batch_size, args.patience)
 
 
