@@ -66,7 +66,7 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
     return
 
 
-def valid(model, testing_loader, device, alpha, type_of_data):
+def valid(model, epochs, testing_loader, device, alpha, type_of_data):
     model.eval()
     n_correct = 0
     tr_loss = 0
@@ -106,7 +106,7 @@ def valid(model, testing_loader, device, alpha, type_of_data):
     print(f"Test Accuracy : {epoch_accu}")
     
     if type_of_data=='test':
-        f=open(f'../Results/Result_{alpha}.txt','w')
+        f=open(f'../Results/Result_{alpha}_{epochs}.txt','w')
         for idx in pred_idx:
             f.write(str(idx)+'\n')
         f.close()
