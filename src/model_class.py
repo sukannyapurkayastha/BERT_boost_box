@@ -9,7 +9,7 @@ class Bert_Kbqa_Model(nn.Module):
         self.bert = transformers.BertModel.from_pretrained(model_name)
         self.bert_drop = nn.Dropout(0.2)
         self.linear_layer = nn.Linear(768, 128)
-        self.out = nn.Linear(128, 61208)
+        self.out = nn.Linear(128, 61633)
 
     def forward(self, ids, mask, token_type_ids):
         _, out = self.bert(ids, attention_mask=mask, token_type_ids=token_type_ids)
