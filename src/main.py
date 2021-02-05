@@ -21,12 +21,12 @@ from pytorchtools import EarlyStopping
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-def run(path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_size, patience):
+def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_size, patience):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_valid = pd.read_csv(valid_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
     df_test = pd.read_csv(test_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
-    train_mask = os.path.join(path,'train_mask.h5')
-    valid_mask = os.path.join(path,'valid_mask.h5')
+    train_mask = os.path.join(user_path,'train_mask.h5')
+    valid_mask = os.path.join(user_path,'valid_mask.h5')
     with h5py.File(train_mask, 'r') as hf:
         mask_train = hf['train_mask'][:].tolist()
     with h5py.File(valid_mask, 'r') as hf:
@@ -70,7 +70,7 @@ def run(path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, bat
     del valid_data_loader
     del valid_data_set
 
-    test_mask = os.path.join(path,'test_mask.h5')
+    test_mask = os.path.join(user_path,'test_mask.h5')
     with h5py.File(test_mask,'r') as hf:
         data_test = hf['test_mask'][:].tolist()
     test_data_set = dataset.BERT_KBQA_Dataloader(df_test.text.values, df_test.relation_label.values, data_test)
