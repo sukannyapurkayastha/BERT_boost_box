@@ -88,9 +88,9 @@ if __name__ == '__main__':
     parser.add_argument("--batch_size", help='batch_size', type=int)
     parser.add_argument("--patience", help= 'patience', type = int)
     args = parser.parse_args()
-    train_dataset = os.path.join(path,'train_data_final.txt')
-    valid_dataset = os.path.join(path,'valid_data_final.txt')
-    test_dataset = os.path.join(path,'test_data_final.txt')
+    train_dataset = os.path.join(args.path,'train_data_final.txt')
+    valid_dataset = os.path.join(args.path,'valid_data_final.txt')
+    test_dataset = os.path.join(args.path,'test_data_final.txt')
     #train_dataset = '../data/train_data_final.txt'
     #valid_dataset = '../data/valid_data_final.txt'
     #test_dataset = '../data/test_data_final.txt'
