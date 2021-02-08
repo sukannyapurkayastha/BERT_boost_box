@@ -16,7 +16,7 @@ def train(model, epoch, training_loader, optimizer, device):
     nb_tr_examples = 0
     model.train()
     print(f'No of correct examples before training:{n_correct}')
-    print(f'No of examples after training:{nb_tr_examples}')
+    print(f'No of examples before training:{nb_tr_examples}')
     for _, data in enumerate(training_loader, 0):
         ids = data['ids']
         mask = data['mask']
