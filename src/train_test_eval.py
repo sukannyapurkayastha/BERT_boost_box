@@ -89,6 +89,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
             big_val, big_idx = torch.max(outputs.data, dim=1)
+            val_topk, idx_topk = torch.topk(outputs.data, 5)
             n_correct += calcuate_accu(big_idx, targets)
 
             nb_tr_steps += 1
@@ -109,6 +110,12 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
         f=open(f'../Results/Result_{alpha}_{epochs}.txt','w')
         for idx in pred_idx:
             f.write(str(idx)+'\n')
+        f.close()
+       
+    elif type_of_data=='train':
+    	f=open(f'../Results/Result_{alpha}_{epochs}_train.txt','w')
+        for idx in idx_topk:
+            f.write(str(idx.tolist())+'\n')
         f.close()
 
     return epoch_accu, epoch_loss
