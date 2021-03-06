@@ -113,9 +113,8 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
         for idx in pred_idx:
             f.write(str(idx)+'\n')
         f.close()
-       
     elif type_of_data=='train':
-    	f=open(f'../Results/Result_{alpha}_{epochs}_train.txt','w')
+        f=open(f'../Results/Result_{alpha}_{epochs}_train.txt','w')
         for idx in topk_idx_list:
             f.write(str(idx)+'\n')
         f.close()
