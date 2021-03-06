@@ -76,6 +76,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
     n_wrong = 0
     total = 0
     pred_idx=[]
+    topk_idx_list=[]
         
     with torch.no_grad():
         for _, data in enumerate(testing_loader, 0):
@@ -89,7 +90,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
             big_val, big_idx = torch.max(outputs.data, dim=1)
-            val_topk, idx_topk = torch.topk(outputs.data, 5)
+            val_topk, idxs_topk = torch.topk(outputs.data, 5)
             n_correct += calcuate_accu(big_idx, targets)
 
             nb_tr_steps += 1
@@ -101,6 +102,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
             #    print(f"Validation Loss per 100 steps: {loss_step}")
             #    print(f"Validation Accuracy per 100 steps: {accu_step}")
             pred_idx.extend(big_idx.tolist())
+            topk_idx_list.extend(idxs_topk.tolist())
     epoch_loss = tr_loss / nb_tr_steps
     epoch_accu = (n_correct * 100) / nb_tr_examples
     print(f"Test Loss: {epoch_loss}")
@@ -114,8 +116,8 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
        
     elif type_of_data=='train':
     	f=open(f'../Results/Result_{alpha}_{epochs}_train.txt','w')
-        for idx in idx_topk:
-            f.write(str(idx.tolist())+'\n')
+        for idx in topk_idx_list:
+            f.write(str(idx)+'\n')
         f.close()
 
     return epoch_accu, epoch_loss
