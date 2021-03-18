@@ -27,22 +27,34 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
     for _, data in enumerate(training_loader, 0):
         ids = data['ids']
         mask = data['mask']
-        targets = data['targets']
+        targets1 = data['targets1']
+        targets2 = data['targets2']
+        targets3 = data['targets3']
+        targets4 = data['targets4']
+        targets5 = data['targets5']
         mask_labels = data['mask_labels']
         token_type_ids = data['token_type_ids']
         ids = ids.to(device, dtype=torch.long)
         mask = mask.to(device, dtype=torch.long)
-        targets = targets.to(device, dtype=torch.long)
+        targets1 = targets1.to(device, dtype=torch.long)
+        targets2 = targets2.to(device, dtype=torch.long)
+        targets3 = targets3.to(device, dtype=torch.long)
+        targets4 = targets4.to(device, dtype=torch.long)
+        targets5 = targets5.to(device, dtype=torch.long)
         mask_labels = mask_labels.to(device, dtype=torch.float)
         token_type_ids = token_type_ids.to(device, dtype=torch.long)
 
         outputs = model(ids, mask, token_type_ids)
         mask_outputs = outputs.type_as(mask_labels)
         # predictions = torch.nn.Softmax(outputs)
-        Loss_CE = loss_function(outputs, targets)
+        Loss_1 = loss_function(outputs, targets1)
+        Loss_2 = loss_function(outputs, targets2)
+        Loss_3 = loss_function(outputs, targets3)
+        Loss_4 = loss_function(outputs, targets4)
+        Loss_5 = loss_function(outputs, targets5)
         Loss_Mask = mask_loss(mask_outputs, mask_labels)
-        loss = (1-alpha) * Loss_CE + alpha * Loss_Mask
-        tr_loss += Loss_CE.item()
+        loss = (1-alpha) * (Loss_1-Loss_2-Loss_3-Loss_4-Loss_5) + alpha * Loss_Mask
+        tr_loss += Loss_1.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
         n_correct += calcuate_accu(big_idx, targets)
 
@@ -109,12 +121,12 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
     print(f"Test Accuracy : {epoch_accu}")
     
     if type_of_data=='test':
-        f=open(f'../Results/Result_{alpha}_{epochs}.txt','w')
+        f=open(f'../Results_hard_neg/Result_{alpha}_{epochs}.txt','w')
         for idx in pred_idx:
             f.write(str(idx)+'\n')
         f.close()
     elif type_of_data=='train':
-        f=open(f'../Results/Result_{alpha}_{epochs}_train.txt','w')
+        f=open(f'../Results_hard_neg/Result_{alpha}_{epochs}_train.txt','w')
         for idx in topk_idx_list:
             f.write(str(idx)+'\n')
         f.close()
