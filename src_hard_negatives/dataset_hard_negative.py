@@ -4,7 +4,7 @@ import numpy as np
 
 
 class BERT_KBQA_Dataloader_hard_neg:
-    def __init__(self, text, relation1, realtion2, relation3, relation4, relation5, mask_labels):
+    def __init__(self, text, relation1, relation2, relation3, relation4, relation5, mask_labels):
         self.text = text
         # self.text, self.relation, self.relation_cat = self.data_item.split('\t')
         self.relation1 = relation1
