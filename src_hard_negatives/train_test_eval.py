@@ -59,7 +59,7 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
         n_correct += calcuate_accu(big_idx, targets1)
 
         nb_tr_steps += 1
-        nb_tr_examples += targets.size(0)
+        nb_tr_examples += targets1.size(0)
 
         if _ % 5000 == 0:
             loss_step = tr_loss / nb_tr_steps
@@ -98,7 +98,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
             token_type_ids = data['token_type_ids']
             mask_labels = data['mask_labels'].to(device, dtype=torch.long)
             outputs = model(ids, mask, token_type_ids).squeeze()
-            outputs = outputs * mask_labels
+            #outputs = outputs * mask_labels
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
             big_val, big_idx = torch.max(outputs.data, dim=1)
