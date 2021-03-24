@@ -56,7 +56,7 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
         loss = (1-alpha) * (Loss_1-Loss_2-Loss_3-Loss_4-Loss_5) + alpha * Loss_Mask
         tr_loss += Loss_1.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
-        n_correct += calcuate_accu(big_idx, targets)
+        n_correct += calcuate_accu(big_idx, targets1)
 
         nb_tr_steps += 1
         nb_tr_examples += targets.size(0)
