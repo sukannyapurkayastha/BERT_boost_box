@@ -63,8 +63,8 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
     f.write(f'Epochs:{epochs}\n Batch size:{batch_size}\n Learning Rate:{lr}\n alpha: {alpha}\n patience: {patience}\n')
     f.close()
     #torch.save(model.state_dict(), f'../checkpoints/checkpoint_{alpha}.pt')
-    acc, _ = valid(model, epochs, train_data_loader, device, alpha, 'train')
-    print("Accuracy on train data = %0.2f%%" % acc)
+    #acc, _ = valid(model, epochs, train_data_loader, device, alpha, 'train')
+    #print("Accuracy on train data = %0.2f%%" % acc)
     del mask_train
     del mask_valid
     del train_data_loader
