@@ -53,7 +53,8 @@ def train(model, epoch, alpha, training_loader, optimizer, device):
         Loss_4 = loss_function(outputs, targets4)
         Loss_5 = loss_function(outputs, targets5)
         Loss_Mask = mask_loss(mask_outputs, mask_labels)
-        loss = ((1-alpha) * (Loss_1-Loss_2-Loss_3-Loss_4-Loss_5))+ (alpha * Loss_Mask)
+        #loss = ((1-alpha) * (Loss_1-Loss_2-Loss_3-Loss_4-Loss_5))+ (alpha * Loss_Mask)
+        loss = Loss_1-Loss_2-Loss_3-Loss_4-Loss_5
         tr_loss += Loss_1.item()
         big_val, big_idx = torch.max(outputs.data, dim=1)
         n_correct += calcuate_accu(big_idx, targets1)
@@ -98,7 +99,7 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
             token_type_ids = data['token_type_ids']
             mask_labels = data['mask_labels'].to(device, dtype=torch.long)
             outputs = model(ids, mask, token_type_ids).squeeze()
-            #outputs = outputs * mask_labels
+            outputs = outputs * mask_labels
             loss = loss_function(outputs, targets)
             tr_loss += loss.item()
             big_val, big_idx = torch.max(outputs.data, dim=1)
