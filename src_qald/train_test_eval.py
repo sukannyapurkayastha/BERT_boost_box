@@ -109,12 +109,12 @@ def valid(model, epochs, testing_loader, device, alpha, type_of_data):
     print(f"Test Accuracy : {epoch_accu}")
     
     if type_of_data=='test':
-        f=open(f'../Results/Result_{alpha}_{epochs}.txt','w')
+        f=open(f'../Results_QALD/Result_{alpha}_{epochs}.txt','w')
         for idx in pred_idx:
             f.write(str(idx)+'\n')
         f.close()
     elif type_of_data=='valid':
-        f=open(f'../Results/Result_{alpha}_{epochs}_valid.txt','w')
+        f=open(f'../Results_QALD/Result_{alpha}_{epochs}_valid.txt','w')
         for idx in pred_idx:
             f.write(str(idx)+'\n')
         f.close()
