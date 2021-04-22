@@ -55,11 +55,11 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
             print("Early stopping")
             break
 
-    #model.load_state_dict(torch.load(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt'))
-    #f=open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.txt','w')
-    #f.write(f'Epochs:{epochs}\n Batch size:{batch_size}\n Learning Rate:{lr}\n alpha: {alpha}\n patience: {patience}\n')
-    #f.close()
-    #torch.save(model.state_dict(), f'../checkpoints/checkpoint_{alpha}.pt')
+    model.load_state_dict(torch.load(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt'))
+    f=open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.txt','w')
+    f.write(f'Epochs:{epochs}\n Batch size:{batch_size}\n Learning Rate:{lr}\n alpha: {alpha}\n patience: {patience}\n')
+    f.close()
+    torch.save(model.state_dict(), f'../checkpoints/checkpoint_{alpha}.pt')
     acc, _ = valid(model, epochs, valid_data_loader, device, alpha, 'valid')
     print("Accuracy on valid data = %0.2f%%" % acc)
     del mask_train
