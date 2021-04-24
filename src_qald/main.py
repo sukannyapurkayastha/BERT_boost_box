@@ -8,6 +8,7 @@ import config
 import dataset
 import torch
 import os
+import time
 import h5py
 import pandas as pd
 import model_class
@@ -47,6 +48,7 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
     path = f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt'
     early_stopping = EarlyStopping(patience = patience, verbose = True, path = path)
 
+    start = time.time()
     for epoch in range(epochs):
         train(model, epoch, alpha, train_data_loader, optimizer, device)
         _, valid_loss = valid(model, epochs, valid_data_loader, device, alpha, 'valid')
@@ -54,6 +56,12 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
         if early_stopping.early_stop:
             print("Early stopping")
             break
+    end = time.time()
+    print('-----------------------------------------------')
+    print('-----------------------------------------------')
+    print(f'Total time required:{end - start}')
+    print('-----------------------------------------------')
+    print('-----------------------------------------------')
 
     model.load_state_dict(torch.load(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.pt'))
     f=open(f'../checkpoints/checkpoint_{alpha}_{batch_size}_{epochs}_{patience}.txt','w')
@@ -61,7 +69,12 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
     f.close()
     torch.save(model.state_dict(), f'../checkpoints/checkpoint_{alpha}.pt')
     acc, _ = valid(model, epochs, valid_data_loader, device, alpha, 'valid')
+    print('-----------------------------------------------')
+	print('-----------------------------------------------')
     print("Accuracy on valid data = %0.2f%%" % acc)
+    print('-----------------------------------------------')
+	print('-----------------------------------------------')
+
     del mask_train
     del mask_valid
     del train_data_loader
@@ -74,8 +87,12 @@ def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr
         data_test = hf['test_mask'][:].tolist()
     test_data_set = dataset.BERT_KBQA_Dataloader(df_test.text.values, df_test.relation_label.values, data_test)
     test_data_loader = DataLoader(test_data_set, batch_size=batch_size)
+    print('-----------------------------------------------')
+	print('-----------------------------------------------')
     acc, _ = valid(model, epochs, test_data_loader, device, alpha, 'test')
     print("Accuracy on test data = %0.2f%%" % acc)
+    print('-----------------------------------------------')
+    print('-----------------------------------------------')
 
 
 if __name__ == '__main__':
