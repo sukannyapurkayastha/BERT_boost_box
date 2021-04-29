@@ -1,0 +1,142 @@
+What is the time zone of Salt Lake City? [SEP] SUB [SEP] Salt_Lake_City	timeZone	32786
+Who killed Caesar? [SEP] SUB [SEP] Caesar_(game)	billed	37101
+What is the highest mountain in Germany? [SEP] OBJ [SEP] Germany	locatedInArea	3779
+Which American presidents were in office during the Vietnam War? [SEP] OBJ [SEP] Organization_of_American_States	office	35012
+Butch Otter is the governor of which U.S. state? [SEP] OBJ [SEP] Butch_Otter	governor	47133
+How many gold medals did Michael Phelps win at the 2008 Olympics? [SEP] OBJ [SEP] Michael_Phelps	goldMedalist	29390
+Which artists were born on the same date as Rachel Stevens? [SEP] OBJ [SEP] Rachel_Stevens	.	61632
+What is the profession of Frank Herbert? [SEP] SUB [SEP] Frank_Herbert	occupation	33263
+Are Taiko some kind of Japanese musical instrument? [SEP] SUB [SEP] Taiko	a	18543
+How many seats does the home stadium of FC Porto have? [SEP] SUB [SEP] FC_Porto	seat	61616
+Which European countries have a constitutional monarchy? [SEP] OBJ [SEP] Constitutional_monarchy	governmentType	58682
+Which countries have places with more than two caves? [SEP] OBJ [SEP] Caves_of_Aggtelek_Karst_and_Slovak_Karst	location	24490
+Which airports are located in California, USA? [SEP] SUB [SEP] United_States	place	52633
+What are the nicknames of San Francisco? [SEP] SUB [SEP] San_Francisco	<foaf:nick	61632
+What is Angela Merkel’s birth name? [SEP] SUB [SEP] Name_at_birth	<r0	61632
+Who is the mayor of Berlin? [SEP] SUB [SEP] Berlin	leader	46519
+Which countries in the European Union adopted the Euro? [SEP] OBJ [SEP] Europe	location	24490
+Which software has been published by Mean Hamster Software? [SEP] OBJ [SEP] Mean_Hamster_Software	publisher	31091
+Which country was Bill Gates born in? [SEP] SUB [SEP] Bill_Gates	country	5011
+How many grand-children did Jacques Cousteau have? [SEP] SUB [SEP] Jacques_Cousteau	child	59439
+Give me all professional skateboarders from Sweden. [SEP] OBJ [SEP] Sweden	occupation	33263
+Which monarchs of the United Kingdom were married to a German? [SEP] SUB [SEP] United_Kingdom	leader	46519
+Give me all Argentine films. [SEP] OBJ [SEP] Argentina	country	5011
+How did Michael Jackson die? [SEP] SUB [SEP] Michael_Jackson	deathCause	57934
+Which classes does the Millepede belong to? [SEP] SUB [SEP] Millipede	taxon	47886
+Give me the homepage of Forbes. [SEP] SUB [SEP] Forbes	<foaf:homepage	61632
+Who is the husband of Amanda Palmer? [SEP] OBJ [SEP] Amanda_Palmer	spouse	27288
+Who painted The Storm on the Sea of Galilee? [SEP] SUB [SEP] The_Storm_on_the_Sea_of_Galilee	author	18022
+What is the highest place of Karakoram? [SEP] SUB [SEP] Karakoram	highest	46061
+When did Finland join the EU? [SEP] SUB [SEP] Join	date	13299
+Which actors play in Big Bang Theory? [SEP] SUB [SEP] The_Big_Bang_Theory	starring	22326
+Which computer scientist won an oscar? [SEP] SUB [SEP] Oscar	award	60781
+Who wrote Harry Potter? [SEP] SUB [SEP] Harry_Potter	author	18022
+Give me all writers that won the Nobel Prize in literature. [SEP] OBJ [SEP] Literature	writer	17082
+Give me English actors starring in Lovesick. [SEP] OBJ [SEP] Lovesick_(Priscilla_Renea_song)	starring	22326
+What is the nick name of Baghdad? [SEP] SUB [SEP] Baghdad	<foaf:nick	61632
+In which city was the president of Montenegro born? [SEP] SUB [SEP] Montenegro	president	56785
+Which U.S. state has the highest population density? [SEP] SUB [SEP] Population_density	<r0	61632
+What is the longest river in China? [SEP] OBJ [SEP] China	country	5011
+What is the area code of Berlin? [SEP] SUB [SEP] Berlin	areaCode	11336
+How many scientists graduated from an Ivy League university? [SEP] SUB [SEP] Scientists_for_Global_Responsibility	effectiveRadiatedPower	10641
+Which professional surfers were born in Australia? [SEP] OBJ [SEP] Australia	specialist	14349
+Give me all Dutch parties. [SEP] OBJ [SEP] Curaçao	country	5011
+How many moons does Mars have? [SEP] SUB [SEP] 7805_Moons	<r0	61632
+What is Batman's real name? [SEP] SUB [SEP] Batman	name	58366
+What is Elon Musk famous for? [SEP] SUB [SEP] Elon_Musk	knownFor	41537
+Who is the author of WikiLeaks? [SEP] SUB [SEP] WikiLeaks	author	18022
+Sean Parnell was the governor of which U.S. state? [SEP] SUB [SEP] United_States	governor	47133
+How many years was the Ford Model T manufactured? [SEP] SUB [SEP] T	manufacturer	6858
+When was Carlo Giuliani shot? [SEP] SUB [SEP] Carlo_Giuliani,_Boy	discharge	7230
+Who was the wife of President Lincoln? [SEP] SUB [SEP] USS_President_Lincoln_(1907)	spouse	27288
+How many awards has Bertrand Russell? [SEP] SUB [SEP] Bertrand_Russell	award	60781
+Is Pamela Anderson a vegan? [SEP] SUB [SEP] Vegan_Virgin_Valentine	<r0	61632
+Which German cities have more than 250000 inhabitants? [SEP] OBJ [SEP] German	location	24490
+Who is the daughter of Robert Kennedy married to? [SEP] SUB [SEP] Robert_F._Kennedy	child	59439
+How many students does the Free University of Amsterdam have? [SEP] SUB [SEP] Vrije_Universiteit_Amsterdam	numberOfStudents	19357
+What is the revenue of IBM? [SEP] SUB [SEP] IBM	revenue	16188
+How many James Bond movies do exist? [SEP] SUB [SEP] M_(James_Bond)	last	28529
+Who does the voice of Bart Simpson? [SEP] SUB [SEP] Bart_Simpson	voiceactor	49654
+Who was Tom Hanks married to? [SEP] SUB [SEP] Tom_Hanks	spouse	27288
+Through which countries does the Yenisei river flow? [SEP] SUB [SEP] Countries_of_the_United_Kingdom	<r0	61632
+Give me all cars that are produced in Germany. [SEP] OBJ [SEP] Germany	author	18022
+When did Michael Jackson die? [SEP] SUB [SEP] Michael_Jackson	deathDate	44636
+What is the highest volcano in Africa? [SEP] SUB [SEP] Africa	head	6771
+Give me all gangsters from the prohibition era. [SEP] OBJ [SEP] Gangsters_of_the_Frontier	time	60743
+Give me all spacecrafts that flew to Mars. [SEP] OBJ [SEP] Spacecraft	circulation	53416
+Show me all Czech movies. [SEP] OBJ [SEP] Czech_Republic	country	5011
+Give me all taikonauts. [SEP] OBJ [SEP] Astronaut	country	5011
+Which countries have more than ten volcanoes? [SEP] OBJ [SEP] Countries_of_the_United_Kingdom	location	24490
+Give me all movies with Tom Cruise. [SEP] OBJ [SEP] Tom_Cruise	film	30948
+When did Dracula's creator die? [SEP] SUB [SEP] Count_Dracula	creator	46863
+Who created English Wikipedia? [SEP] SUB [SEP] English_Wikipedia	author	18022
+Give me all female German chancellors. [SEP] OBJ [SEP] List_of_German_female_artists	country	5011
+Who owns Aldi? [SEP] SUB [SEP] Aldi	founders	34725
+Which books were written by Danielle Steel? [SEP] OBJ [SEP] Danielle_Steel	author	18022
+Who was influenced by Socrates? [SEP] OBJ [SEP] Socrates	influencedBy	41040
+How deep is Lake Chiemsee? [SEP] SUB [SEP] Chiemsee	maximumDepth	58131
+Which companies work in the aerospace industry as well as in medicine? [SEP] SUB [SEP] Medicine	service	52432
+Which professional surfers were born on the Philippines? [SEP] OBJ [SEP] Medicine	service	52432
+Who were the parents of Queen Victoria? [SEP] SUB [SEP] Queen_Victoria	parent	35693
+Are there any castles in the United States? [SEP] SUB [SEP] United_States	class	23306
+Which languages are spoken in Estonia? [SEP] OBJ [SEP] Estonia	spokenIn	25278
+Give me a list of all critically endangered birds. [SEP] OBJ [SEP] Endangered_Species_(H.A.W.K._album)	principal	48987
+Which countries are connected by the Rhine? [SEP] OBJ [SEP] Countries_of_the_United_Kingdom	related	28535
+Who was the father of Queen Elizabeth II? [SEP] SUB [SEP] Elizabeth_II	parent	35693
+Give me all chemical elements. [SEP] OBJ [SEP] Sand_casting	country	5011
+Give me all American presidents of the last 20 years. [SEP] OBJ [SEP] Organization_of_American_States	<r0	61632
+When is the movie Worst Case Scenario going to be in cinemas in the Netherlands? [SEP] SUB [SEP] Worst-case_scenario	picture	59613
+Whom did Lance Bass marry? [SEP] SUB [SEP] Lance_Bass	spouse	27288
+Which subsidiary of TUI Travel serves both Glasgow and Dublin? [SEP] SUB [SEP] Glasgow_Airport	subsidiary	55669
+What languages are spoken in Pakistan? [SEP] SUB [SEP] Pakistan	language	4342
+Who is the daughter of Bill Clinton married to? [SEP] SUB [SEP] Bill_Clinton	child	59439
+Who was on the Apollo 11 mission? [SEP] SUB [SEP] Apollo_11	crewMembers	8220
+What is the wavelength of Indigo? [SEP] SUB [SEP] Indigo	wavelength	40517
+Give me all B-sides of the Ramones. [SEP] OBJ [SEP] The_B-Sides	country	5011
+Who was called Scarface? [SEP] SUB [SEP] Scarface	alias	22367
+Which rivers flow into the North Sea? [SEP] OBJ [SEP] North_Sea	riverMouth	53104
+Where is Fort Knox located? [SEP] SUB [SEP] Fort_Knox	location	24490
+Which daughters of British earls died at the same place they were born at? [SEP] OBJ [SEP] Daughters_of_the_Dust	place	52633
+How many emperors did China have? [SEP] SUB [SEP] China	leader	46519
+What are the names of the Teenage Mutant Ninja Turtles? [SEP] SUB [SEP] Teenage_Mutant_Ninja_Turtles	members	59944
+Where does Piccadilly start? [SEP] OBJ [SEP] Piccadilly	routeStart	59334
+What is the name of the university where Obama's wife studied? [SEP] SUB [SEP] University_of_Alabama	university	16282
+When did Paraguay proclaim its independence? [SEP] SUB [SEP] Independence	state	3249
+How short is the shortest active NBA player? [SEP] SUB [SEP] Shortest_job_next	thumbnail	18238
+Where did Abraham Lincoln die? [SEP] SUB [SEP] Abraham_Lincoln	deathPlace	35278
+When was Jack Wolfskin founded? [SEP] SUB [SEP] Jack_Wolfskin	foundingYear	47320
+In which city is the headquarter of Air China? [SEP] SUB [SEP] Air_China	headquarter	43534
+What is the founding year of the brewery that produces Pilsner Urquell? [SEP] SUB [SEP] Pilsner_Urquell	brewery	16532
+When did the Boston Tea Party take place? [SEP] SUB [SEP] Boston_Tea_Party	date	13299
+Which animals are critically endangered? [SEP] SUB [SEP] Endangered_Species_(H.A.W.K._album)	principal	48987
+Which politicians were married to a German? [SEP] OBJ [SEP] Politicians_of_The_Wire	spouse	27288
+Is the wife of President Obama called Michelle? [SEP] SUB [SEP] Barack_Obama	spouse	27288
+Which U.S. state has the abbreviation MN? [SEP] OBJ [SEP] MN	abbreviation	3147
+When did Muhammad die? [SEP] SUB [SEP] Muhammad	deathDate	44636
+What is the atmosphere of the Moon composed of? [SEP] SUB [SEP] Moon	atmosphereComposition	26350
+Who is the governor of Texas? [SEP] SUB [SEP] Texas	governor	47133
+Which movies did Kurosawa direct? [SEP] OBJ [SEP] Akira_Kurosawa	director	12368
+What was the name of the famous battle in 1836 in San Antonio? [SEP] OBJ [SEP] San_Antonio	place	52633
+Give me the official websites of actors of the television show Charmed. [SEP] SUB [SEP] Charmed	starring	22326
+How many calories does a baguette have? [SEP] SUB [SEP] Baguette	calories	28625
+Give me all libraries established before 1400. [SEP] OBJ [SEP] Libraries_in_Brighton_and_Hove	established	12468
+Give me all Frisian islands that belong to the Netherlands. [SEP] OBJ [SEP] Netherlands_Antilles_at_the_2007_Pan_American_Games	rank	1650
+Which museum exhibits The Scream by Munch? [SEP] SUB [SEP] The_Scream	museum	13490
+When was the De Beers company founded? [SEP] SUB [SEP] De_Beers	foundingYear	47320
+Who became president after JFK died? [SEP] SUB [SEP] John_F._Kennedy	presidentEnd	9509
+Who are the parents of the wife of Juan Carlos I? [SEP] SUB [SEP] Juan_Carlos_I_of_Spain	spouse	27288
+In which studio did the Beatles record their first album? [SEP] SUB [SEP] Beatles_VI	studio	53808
+Which beer brewing companies are located in North-Rhine Westphalia? [SEP] OBJ [SEP] North_Rhine-Westphalia	location	24490
+When did princess Diana die? [SEP] SUB [SEP] Diana,_Princess_of_Wales	deathDate	44636
+Who founded Intel? [SEP] SUB [SEP] Intel	founders	34725
+Who is the youngest player in the Premier League? [SEP] SUB [SEP] Premier_League	.	61632
+Which instruments does Cat Stevens play? [SEP] SUB [SEP] Cat_Stevens	instrument	58191
+How many rivers and lakes are in South Carolina? [SEP] SUB [SEP] South_Carolina	river	27854
+Who was called Rodzilla? [SEP] SUB [SEP] Rodzilla	alias	22367
+Give me the capitals of all countries in Africa. [SEP] SUB [SEP] Countries_of_the_United_Kingdom	principal	48987
+Which bridges are of the same type as the Manhattan Bridge? [SEP] SUB [SEP] Manhattan_Bridge	type	43388
+How many companies were founded by the founder of Facebook? [SEP] SUB [SEP] Companies_listed_on_the_New_York_Stock_Exchange_(J)	founder	34289
+Show me hiking trails in the Grand Canyon where there's no danger of flash floods. [SEP] SUB [SEP] Hiking	show	41798
+What is the largest state in the United States? [SEP] SUB [SEP] United_States	areaTotal	36274
+Give me the websites of companies with more than 500000 employees. [SEP] SUB [SEP] Websites_blocked_in_Pakistan	numberOfEmployees	45390
+What were the names of the three ships by Columbus? [SEP] SUB [SEP] Columbus	shipBeam	21944

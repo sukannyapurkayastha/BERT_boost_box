@@ -1,0 +1,314 @@
+List all boardgames by GMT. [SEP] OBJ [SEP] GMT_Games	publisher	31091
+Who developed Skype? [SEP] SUB [SEP] Skype	developer	35447
+Which people were born in Heraklion? [SEP] OBJ [SEP] Heraklion	birthPlace	1970
+In which U.S. state is Area 51 located? [SEP] SUB [SEP] Area_51	location	24490
+In which U.S. state is Area 51 located? [SEP] OBJ [SEP] United_States	country	5011
+Who is the mayor of New York City? [SEP] SUB [SEP] New_York_City	leaderName	27563
+Where did Abraham Lincoln die? [SEP] SUB [SEP] Abraham_Lincoln	deathPlace	35278
+Which airports does Air China serve? [SEP] SUB [SEP] Air_China	targetAirport	44450
+What are the official languages of the Philippines? [SEP] SUB [SEP] Philippines	officialLanguage	36666
+Give me all Danish films. [SEP] OBJ [SEP] Denmark	country	5011
+Which movies starring Brad Pitt were directed by Guy Ritchie? [SEP] OBJ [SEP] Brad_Pitt	starring	22326
+Which movies starring Brad Pitt were directed by Guy Ritchie? [SEP] OBJ [SEP] Guy_Ritchie	director	12368
+Give me the grandchildren of Bruce Lee. [SEP] SUB [SEP] Bruce_Lee	child	59439
+Who is the owner of Universal Studios? [SEP] SUB [SEP] Universal_Studios	owner	9084
+Who created the comic Captain America? [SEP] SUB [SEP] Captain_America	creator	46863
+Give me the Apollo 14 astronauts. [SEP] OBJ [SEP] Apollo_14	mission	16581
+Who wrote the book The pillars of the Earth? [SEP] SUB [SEP] The_Pillars_of_the_Earth	author	18022
+Which spaceflights were launched from Baikonur? [SEP] OBJ [SEP] Baikonur_Cosmodrome	launchPad	58941
+Give me a list of all trumpet players that were bandleaders. [SEP] OBJ [SEP] Bandleader	occupation	33263
+Give me a list of all trumpet players that were bandleaders. [SEP] OBJ [SEP] Trumpet	instrument	58191
+Who is the daughter of Ingrid Bergman married to? [SEP] SUB [SEP] Ingrid_Bergman	child	59439
+How deep is Lake Placid? [SEP] SUB [SEP] Lake_Placid_(Texas)	maximumDepth	58131
+Show me all museums in London. [SEP] OBJ [SEP] London	location	24490
+Who is the tallest player of the Atlanta Falcons? [SEP] OBJ [SEP] Atlanta_Falcons	team	55424
+Give me all writers that won the Nobel Prize in literature. [SEP] OBJ [SEP] Nobel_Prize_in_Literature	award	60781
+When was the Statue of Liberty built? [SEP] SUB [SEP] Statue_of_Liberty	beginningDate	56429
+Which states border Illinois? [SEP] SUB [SEP] Illinois	borderingstates	9812
+Who developed Minecraft? [SEP] SUB [SEP] Minecraft	developer	35447
+Where did Hillel Slovak die? [SEP] SUB [SEP] Hillel_Slovak	deathPlace	35278
+What movies does Jesse Eisenberg play in? [SEP] OBJ [SEP] Jesse_Eisenberg	starring	22326
+Give all swimmers that were born in Moscow. [SEP] OBJ [SEP] Moscow	birthPlace	1970
+What kind of music did Lou Reed play? [SEP] SUB [SEP] Lou_Reed	genre	54222
+Where do the Red Sox play? [SEP] SUB [SEP] Boston_Red_Sox	ballpark	20645
+Show a list of soccer clubs that play in the Bundesliga. [SEP] OBJ [SEP] Bundesliga	league	48360
+Which bridges cross the Seine? [SEP] OBJ [SEP] Seine	crosses	8620
+What is the official color of the University of Oxford? [SEP] SUB [SEP] University_of_Oxford	officialSchoolColour	23145
+How many films did Hal Roach produce? [SEP] OBJ [SEP] Hal_Roach	producer	35630
+Give me all Danish movies. [SEP] OBJ [SEP] Denmark	country	5011
+Give me the capitals of all countries that the Himalayas run through. [SEP] SUB [SEP] Himalayas	country	5011
+How many movies did Park Chan-wook direct? [SEP] OBJ [SEP] Park_Chan-wook	director	12368
+Which rivers flow into a German lake? [SEP] OBJ [SEP] Germany	country	5011
+Give me all islands that belong to Japan. [SEP] OBJ [SEP] Japan	country	5011
+How many inhabitants does Maribor have? [SEP] SUB [SEP] Maribor	populationTotal	2630
+Give me all Apollo 14 astronauts. [SEP] OBJ [SEP] Apollo_14	mission	16581
+In which films directed by Garry Marshall was Julia Roberts starring? [SEP] OBJ [SEP] Julia_Roberts	starring	22326
+In which films directed by Garry Marshall was Julia Roberts starring? [SEP] OBJ [SEP] Garry_Marshall	director	12368
+Give me all soccer clubs in the Premier League. [SEP] OBJ [SEP] Premier_League	league	48360
+What is the highest place of the Urals? [SEP] SUB [SEP] Ural_Mountains	highest	46061
+Who is the governor of Wyoming? [SEP] SUB [SEP] Wyoming	governor	47133
+Where did the architect of the Eiffel Tower study? [SEP] SUB [SEP] Eiffel_Tower	architect	51037
+Which movies star both Liz Taylor and Richard Burton? [SEP] OBJ [SEP] Elizabeth_Taylor	starring	22326
+Which movies star both Liz Taylor and Richard Burton? [SEP] OBJ [SEP] Richard_Burton	starring	22326
+Which pope succeeded John Paul II? [SEP] SUB [SEP] Pope_John_Paul_II	successor	15615
+Give me all ESA astronauts. [SEP] OBJ [SEP] European_Space_Agency	type	43388
+Who was president of Pakistan in 1978? [SEP] OBJ [SEP] President_of_Pakistan	title	28991
+Who is the owner of Rolls-Royce? [SEP] SUB [SEP] Rolls-Royce_Motors	owner	9084
+How many museums does Paris have? [SEP] OBJ [SEP] Paris	location	24490
+Where was JFK assassinated? [SEP] SUB [SEP] John_F._Kennedy	deathPlace	35278
+Which beer originated in Ireland? [SEP] OBJ [SEP] Beer	type	43388
+Which beer originated in Ireland? [SEP] OBJ [SEP] Beer_in_Ireland	origin	28865
+To which countries does the Himalayan mountain system extend? [SEP] SUB [SEP] Himalayas	country	5011
+How much carbs does peanut butter have? [SEP] SUB [SEP] Peanut_butter	carbs	35969
+How many employees does Google have? [SEP] SUB [SEP] Google	numberOfEmployees	45390
+Give me all actors who were born in Berlin. [SEP] OBJ [SEP] Berlin	birthPlace	1970
+Who created Goofy? [SEP] SUB [SEP] Goofy	creator	46863
+When was Alberta admitted as province? [SEP] SUB [SEP] Alberta	admittancedate	31900
+How many missions does the Soyuz programme have? [SEP] OBJ [SEP] Soyuz_programme	programme	48268
+Give me all the TV shows with Neil Patrick Harris. [SEP] OBJ [SEP] Neil_Patrick_Harris	starring	22326
+When were the Hells Angels founded? [SEP] SUB [SEP] Hells_Angels	founded	450
+What is the net income of Apple? [SEP] SUB [SEP] Apple_Inc.	netIncome	7568
+Give me all Swedish holidays. [SEP] OBJ [SEP] Sweden	country	5011
+In which city was the former Dutch queen Juliana buried? [SEP] SUB [SEP] Juliana_of_the_Netherlands	burialPlace	44646
+List all the musicals with music by Leonard Bernstein. [SEP] OBJ [SEP] Leonard_Bernstein	musicBy	45556
+What is the largest metropolitan area in Washington state? [SEP] SUB [SEP] Washington_(state)	largestmetro	35618
+Who killed John Lennon? [SEP] OBJ [SEP] Death_of_John_Lennon	conviction	3705
+Was Marc Chagall a jew? [SEP] SUB [SEP] Marc_Chagall	ethnicity	33669
+What was Brazil's lowest rank in the FIFA World Ranking? [SEP] SUB [SEP] Brazil_national_football_team	fifaMin	22139
+How many films did Leonardo DiCaprio star in? [SEP] OBJ [SEP] Leonardo_DiCaprio	starring	22326
+Was Margaret Thatcher a chemist? [SEP] SUB [SEP] Margaret_Thatcher	profession	50370
+Was Margaret Thatcher a chemist? [SEP] OBJ [SEP] Chemist	profession	50370
+Give me all books written by Danielle Steel. [SEP] OBJ [SEP] Danielle_Steel	author	18022
+What is the total amount of men and women serving in the FDNY? [SEP] SUB [SEP] New_York_City_Fire_Department	employees	11322
+Which actor played Chewbacca? [SEP] SUB [SEP] Chewbacca	portrayer	37576
+Which ships were called after Benjamin Franklin? [SEP] OBJ [SEP] Benjamin_Franklin	shipNamesake	45341
+Give me all Methodist politicians. [SEP] OBJ [SEP] Methodism	religion	17409
+What other books have been written by the author of The Fault in Our Stars? [SEP] OBJ [SEP] John_Green_(author)	author	18022
+Which poet wrote the most books? [SEP] OBJ [SEP] Poet	occupation	33263
+Which programming languages influenced Javascript? [SEP] OBJ [SEP] JavaScript	influenced	35999
+Which musician wrote the most books? [SEP] OBJ [SEP] Musician	occupation	33263
+Which films starring Clint Eastwood did he direct himself? [SEP] OBJ [SEP] Clint_Eastwood	director	12368
+Which films starring Clint Eastwood did he direct himself? [SEP] OBJ [SEP] Clint_Eastwood	starring	22326
+Which software has been developed by organizations founded in California? [SEP] OBJ [SEP] California	foundationPlace	40334
+Which instruments does Cat Stevens play? [SEP] SUB [SEP] Cat_Stevens	instrument	58191
+How many airlines are members of the Star Alliance? [SEP] OBJ [SEP] Star_Alliance	alliance	50287
+Who wrote The Hunger Games? [SEP] SUB [SEP] The_Hunger_Games	author	18022
+For which label did Elvis record his first album? [SEP] OBJ [SEP] Elvis_Presley	artist	3997
+Is Christian Bale starring in Batman Begins? [SEP] SUB [SEP] Batman_Begins	starring	22326
+Is Christian Bale starring in Batman Begins? [SEP] OBJ [SEP] Christian_Bale	starring	22326
+Where is the residence of the prime minister of Spain? [SEP] SUB [SEP] Prime_Minister_of_Spain	residence	13749
+Which television shows were created by John Cleese? [SEP] OBJ [SEP] John_Cleese	creator	46863
+When did Latvia join the EU? [SEP] SUB [SEP] Latvia	accessioneudate	57017
+Which soccer players were born on Malta? [SEP] OBJ [SEP] Malta	birthPlace	1970
+How many politicians graduated from Columbia University? [SEP] OBJ [SEP] Politician	profession	50370
+How many politicians graduated from Columbia University? [SEP] OBJ [SEP] Columbia_University	almaMater	2781
+Give me the birthdays of all actors of the television show Charmed. [SEP] SUB [SEP] Charmed	starring	22326
+How many children does Eddie Murphy have? [SEP] SUB [SEP] Eddie_Murphy	child	59439
+Show me all English Gothic buildings in Kent. [SEP] OBJ [SEP] English_Gothic_architecture	architecturalStyle	30164
+Show me all English Gothic buildings in Kent. [SEP] OBJ [SEP] Kent	location	24490
+Who is the manager of Real Madrid? [SEP] SUB [SEP] Real_Madrid_C.F.	manager	6436
+In which countries can you pay using the West African CFA franc? [SEP] OBJ [SEP] West_African_CFA_franc	currency	9581
+What is the birth name of Angela Merkel? [SEP] SUB [SEP] Angela_Merkel	birthName	3732
+Who has Tom Cruise been married to? [SEP] OBJ [SEP] Tom_Cruise	spouse	27288
+Which weapons did Heckler & Koch develop? [SEP] OBJ [SEP] Heckler_&_Koch	designer	33329
+What is the ruling party in Lisbon? [SEP] SUB [SEP] Lisbon	leaderParty	37470
+How heavy is Jupiter's lightest moon? [SEP] OBJ [SEP] Jupiter	satelliteOf	19944
+How many employees does IBM have? [SEP] SUB [SEP] IBM	numberOfEmployees	45390
+List all episodes of the first season of the HBO television series The Sopranos! [SEP] OBJ [SEP] The_Sopranos	series	14567
+Give me all films produced by Hal Roach. [SEP] OBJ [SEP] Hal_Roach	producer	35630
+Who played Agent Smith in Matrix? [SEP] SUB [SEP] Agent_Smith	portrayer	37576
+Which Greek parties are pro-European? [SEP] OBJ [SEP] Greece	country	5011
+Which Greek parties are pro-European? [SEP] OBJ [SEP] Pro-Europeanism	ideology	35861
+Give me a list of all bandleaders that play trumpet. [SEP] OBJ [SEP] Bandleader	occupation	33263
+Give me a list of all bandleaders that play trumpet. [SEP] OBJ [SEP] Trumpet	instrument	58191
+Which rockets were launched from Baikonur? [SEP] OBJ [SEP] Baikonur_Cosmodrome	launchSite	36923
+Who is the owner of Facebook? [SEP] SUB [SEP] Facebook	foundedBy	45516
+Give me all movies with Tom Cruise. [SEP] OBJ [SEP] Tom_Cruise	starring	22326
+In which U.S. state is Fort Knox located? [SEP] SUB [SEP] Fort_Knox	location	24490
+In which U.S. state is Fort Knox located? [SEP] OBJ [SEP] United_States	country	5011
+Give me all B-sides of the Ramones. [SEP] OBJ [SEP] Ramones	musicalArtist	51092
+What are the specialities of the UNC Health Care? [SEP] SUB [SEP] UNC_Health_Care	speciality	44356
+When was Olof Palme shot? [SEP] SUB [SEP] Olof_Palme	deathDate	44636
+List the seven kings of Rome. [SEP] OBJ [SEP] King_of_Rome	title	28991
+Give me all people that were born in Vienna and died in Berlin. [SEP] OBJ [SEP] Vienna	birthPlace	1970
+Give me all people that were born in Vienna and died in Berlin. [SEP] OBJ [SEP] Berlin	deathPlace	35278
+Is Darth Vader Luke’s father? [SEP] SUB [SEP] Darth_Vader	child	59439
+Is Darth Vader Luke’s father? [SEP] OBJ [SEP] Luke_Skywalker	child	59439
+Who produced films starring Natalie Portman? [SEP] OBJ [SEP] Natalie_Portman	starring	22326
+Give me all breeds of the German Shepherd dog. [SEP] OBJ [SEP] German_Shepherd	breed	44655
+Which languages are spoken in Estonia? [SEP] OBJ [SEP] Estonia	spokenIn	25278
+What is the largest city in america? [SEP] SUB [SEP] United_States	largestCity	31828
+Who was the pope that founded the Vatican Television? [SEP] SUB [SEP] Vatican_Television_Center	foundedBy	45516
+Who discovered Ceres? [SEP] SUB [SEP] Ceres_(dwarf_planet)	discoverer	30213
+Who is the king of the Netherlands? [SEP] SUB [SEP] Netherlands	leader	46519
+What is the alma mater of the chancellor of Germany Angela Merkel? [SEP] SUB [SEP] Angela_Merkel	almaMater	2781
+Who wrote the book Les Piliers de la terre? [SEP] SUB [SEP] The_Pillars_of_the_Earth	author	18022
+Which airports does Yeti Airlines serve? [SEP] SUB [SEP] Yeti_Airlines	targetAirport	44450
+Where is the birthplace of Goethe? [SEP] SUB [SEP] Johann_Wolfgang_von_Goethe	birthPlace	1970
+Which ingredients do I need for carrot cake? [SEP] SUB [SEP] Carrot_cake	ingredient	20580
+Who created Wikipedia? [SEP] SUB [SEP] Wikipedia	author	18022
+What is the highest mountain in Saxony Germany? [SEP] OBJ [SEP] Ore_Mountains	mountainRange	23755
+Who is the current federal minister of finance in Germany? [SEP] SUB [SEP] Federal_Ministry_of_Finance_(Germany)	leader	46519
+In which country is Mecca located? [SEP] SUB [SEP] Mecca	country	5011
+Who played Gus Fring in Breaking Bad? [SEP] SUB [SEP] Gus_Fring	portrayer	37576
+In which country does the Nile start? [SEP] SUB [SEP] Nile	sourceCountry	25395
+In which state Penn State University is located? [SEP] SUB [SEP] Pennsylvania_State_University	state	3249
+What is the biggest stadium in Spain? [SEP] OBJ [SEP] Spain	location	24490
+Who is the coach of Ankara's ice hockey team? [SEP] OBJ [SEP] Ankara	city	46989
+Who is the coach of Ankara's ice hockey team? [SEP] OBJ [SEP] Turkish_Ice_Hockey_First_League	league	48360
+How large is the area of UK? [SEP] SUB [SEP] United_Kingdom	areaTotal	36274
+Who created Batman? [SEP] SUB [SEP] Batman	creator	46863
+Was Sigmund Freud married? [SEP] SUB [SEP] Sigmund_Freud	spouse	27288
+Who are the developers of DBpedia? [SEP] SUB [SEP] DBpedia	developer	35447
+Give me all movies directed by Francis Ford Coppola. [SEP] OBJ [SEP] Francis_Ford_Coppola	director	12368
+Are tree frogs a type of amphibian? [SEP] SUB [SEP] Hylidae	class	23306
+Are tree frogs a type of amphibian? [SEP] OBJ [SEP] Amphibian	class	23306
+What is the location of the Houses of Parliament? [SEP] SUB [SEP] Palace_of_Westminster	location	24490
+how much is the elevation of Düsseldorf Airport ? [SEP] SUB [SEP] Düsseldorf_Airport	elevation	14218
+How much is the population of mexico city ? [SEP] SUB [SEP] Mexico_City	populationTotal	2630
+when was the founding date of french fifth republic? [SEP] SUB [SEP] French_Fifth_Republic	foundingDate	42479
+Who is the editor of Forbes? [SEP] SUB [SEP] Forbes	editor	55177
+Which awards did Douglas Hofstadter win? [SEP] SUB [SEP] Douglas_Hofstadter	award	60781
+Which river does the Brooklyn Bridge cross? [SEP] SUB [SEP] Brooklyn_Bridge	crosses	8620
+How many people live in Poland? [SEP] SUB [SEP] Poland	populationTotal	2630
+When was the last episode of the TV series Friends aired? [SEP] SUB [SEP] Friends	completionDate	24160
+how much is the total population of  european union? [SEP] SUB [SEP] European_Union	populationTotal	2630
+Give me all launch pads operated by NASA. [SEP] OBJ [SEP] NASA	operator	12396
+Who developed the video game World of Warcraft? [SEP] SUB [SEP] World_of_Warcraft	developer	35447
+What is the birth name of Adele? [SEP] SUB [SEP] Adele	birthName	3732
+What is the population of Cairo? [SEP] SUB [SEP] Cairo	populationTotal	2630
+Where is Sungkyunkwan University? [SEP] SUB [SEP] Sungkyunkwan_University	city	46989
+Who is the author of the interpretation of dreams? [SEP] SUB [SEP] The_Interpretation_of_Dreams	author	18022
+When was the death  of  Shakespeare? [SEP] SUB [SEP] William_Shakespeare	deathDate	44636
+Who developed Slack? [SEP] OBJ [SEP] Slack_(software)	product	55426
+Where is the origin of Carolina reaper? [SEP] SUB [SEP] Carolina_Reaper	origin	28865
+In which year was Rachel Stevens born? [SEP] SUB [SEP] Rachel_Stevens	birthYear	24171
+How often did Jane Fonda marry? [SEP] SUB [SEP] Jane_Fonda	spouse	27288
+Which cities does the Weser flow through? [SEP] SUB [SEP] Weser	city	46989
+In which programming language is GIMP written? [SEP] SUB [SEP] GIMP	programmingLanguage	50333
+Which university did Angela Merkel attend? [SEP] SUB [SEP] Angela_Merkel	almaMater	2781
+List all the musicals with music by Elton John. [SEP] OBJ [SEP] Elton_John	musicBy	45556
+How many Aldi stores are there? [SEP] SUB [SEP] Aldi	numberOfLocations	15219
+When was John Adams born? [SEP] SUB [SEP] John_Adams	birthDate	49758
+Which companies produce hovercrafts? [SEP] OBJ [SEP] Hovercraft	product	55426
+Who was the wife of U.S. president Lincoln? [SEP] SUB [SEP] Abraham_Lincoln	spouse	27288
+Which species does an elephant belong? [SEP] SUB [SEP] Elephant	species	52461
+How many people live in the capital of Australia? [SEP] SUB [SEP] Australia	capital	53385
+In which ancient empire could you pay with cocoa beans? [SEP] OBJ [SEP] Cocoa_bean	currency	9581
+How many theories did Albert Einstein come up with? [SEP] SUB [SEP] Albert_Einstein	knownFor	41537
+Who composed the soundtrack for Cameron's Titanic? [SEP] SUB [SEP] Titanic_(1997_film)	musicComposer	39166
+Give me the runtime of Toy Story. [SEP] SUB [SEP] Toy_Story	runtime	48852
+With how many countries Iran has borders? [SEP] SUB [SEP] Geography_of_Iran	borders	60976
+Which electronics companies were founded in Beijing? [SEP] OBJ [SEP] Electronics	industry	58983
+Which electronics companies were founded in Beijing? [SEP] OBJ [SEP] Beijing	foundationPlace	40334
+Who was the successor of John F. Kennedy? [SEP] SUB [SEP] John_F._Kennedy	successor	15615
+Who is the mayor of Paris? [SEP] SUB [SEP] Paris	mayor	25349
+Did Arnold Schwarzenegger attend a university? [SEP] SUB [SEP] Arnold_Schwarzenegger	almaMater	2781
+Is James Bond married? [SEP] SUB [SEP] James_Bond	spouse	27288
+Does the Isar flow into a lake? [SEP] OBJ [SEP] Isar	inflow	24639
+Which Indian company has the most employees? [SEP] OBJ [SEP] India	location	24490
+Who was John F. Kennedy's vice president? [SEP] SUB [SEP] John_F._Kennedy	vicePresident	33002
+Which country does the creator of Miffy come from? [SEP] SUB [SEP] Miffy	creator	46863
+In what city is the Heineken brewery? [SEP] SUB [SEP] Heineken	manufacturer	6858
+Is Barack Obama a democrat? [SEP] SUB [SEP] Barack_Obama	party	27323
+Is Barack Obama a democrat? [SEP] OBJ [SEP] Democratic_Party_(United_States)	party	27323
+List the children of Margaret Thatcher. [SEP] SUB [SEP] Margaret_Thatcher	child	59439
+From which region is the Melon de Bourgogne? [SEP] SUB [SEP] Melon_de_Bourgogne	wineRegion	30129
+how big is the total area of North Rhine- Westphalia? [SEP] SUB [SEP] North_Rhine-Westphalia	areaTotal	36274
+What is Donald Trump's main business? [SEP] OBJ [SEP] Donald_Trump	owner	9084
+When will start the final match of the football world cup 2018? [SEP] SUB [SEP] 2018_FIFA_World_Cup	date	13299
+Which films did Stanley Kubrick direct? [SEP] OBJ [SEP] Stanley_Kubrick	director	12368
+how much is the population  Iraq? [SEP] SUB [SEP] Iraq	populationTotal	2630
+How many inhabitants does the largest city in Canada have? [SEP] SUB [SEP] Canada	largestCity	31828
+Who is the mayor of the capital of French Polynesia? [SEP] SUB [SEP] French_Polynesia	capital	53385
+Give me all actors starring in movies directed by William Shatner. [SEP] OBJ [SEP] William_Shatner	director	12368
+How tall is Claudia Schiffer? [SEP] SUB [SEP] Claudia_Schiffer	height	14278
+how much is the population densty rank of germany? [SEP] SUB [SEP] Germany	populationDensityRank	9606
+What is the highest mountain in Italy? [SEP] OBJ [SEP] Italy	locatedInArea	3779
+List all games by GMT. [SEP] OBJ [SEP] GMT_Games	publisher	31091
+What is the official language of Suriname? [SEP] SUB [SEP] Suriname	officialLanguage	36666
+In which city did Nikos Kazantzakis die? [SEP] SUB [SEP] Nikos_Kazantzakis	deathPlace	35278
+What is in a chocolate chip cookie? [SEP] SUB [SEP] Chocolate_chip_cookie	ingredient	20580
+In which country is the Limerick Lake? [SEP] SUB [SEP] Limerick_Lake	country	5011
+Give me all video games published by Mean Hamster Software. [SEP] OBJ [SEP] Mean_Hamster_Software	publisher	31091
+Give me all members of Prodigy. [SEP] SUB [SEP] The_Prodigy	bandMember	40616
+In which time zone is Rome? [SEP] SUB [SEP] Rome	timeZone	32786
+How high is the lighthouse in Colombo? [SEP] SUB [SEP] Colombo_Lighthouse	height	14278
+Who are the writers of the Wall album of Pink Floyd? [SEP] SUB [SEP] The_Wall	writer	17082
+Who is the mayor of Rotterdam? [SEP] SUB [SEP] Rotterdam	leaderName	27563
+What is the largest city in Australia? [SEP] SUB [SEP] Australia	largestCity	31828
+Who was married to president Chirac? [SEP] SUB [SEP] Jacques_Chirac	spouse	27288
+What form of government is found in South Africa? [SEP] SUB [SEP] South_Africa	governmentType	58682
+How high is the Yokohama Marine Tower? [SEP] SUB [SEP] Yokohama_Marine_Tower	height	14278
+How many languages are spoken in Turkmenistan? [SEP] SUB [SEP] Turkmenistan	language	4342
+Did Che Guevara have children? [SEP] SUB [SEP] Che_Guevara	child	59439
+Did Kaurismäki ever win the Grand Prix at Cannes? [SEP] SUB [SEP] Aki_Kaurismäki	award	60781
+Did Kaurismäki ever win the Grand Prix at Cannes? [SEP] OBJ [SEP] Grand_Prix_(Cannes_Film_Festival)	award	60781
+To which party does the mayor of Paris belong? [SEP] SUB [SEP] Paris	mayor	25349
+What country is Sitecore from? [SEP] SUB [SEP] Sitecore	foundationPlace	40334
+Give me the birth place of Frank Sinatra. [SEP] SUB [SEP] Frank_Sinatra	birthPlace	1970
+Is Christian Bale starring in Velvet Goldmine? [SEP] SUB [SEP] Velvet_Goldmine	starring	22326
+Is Christian Bale starring in Velvet Goldmine? [SEP] OBJ [SEP] Christian_Bale	starring	22326
+Who is the son of Sonny and Cher? [SEP] OBJ [SEP] Cher	parent	35693
+Who is the son of Sonny and Cher? [SEP] OBJ [SEP] Sonny_Bono	parent	35693
+How many ethnic groups live in Slovenia? [SEP] SUB [SEP] Slovenia	ethnicGroup	58441
+What is the capital of Cameroon? [SEP] SUB [SEP] Cameroon	capital	53385
+Was Natalie Portman born in the United States? [SEP] SUB [SEP] Natalie_Portman	birthPlace	1970
+Was Natalie Portman born in the United States? [SEP] OBJ [SEP] United_States	country	5011
+How many pages does War and Peace have? [SEP] SUB [SEP] War_and_Peace	numberOfPages	2334
+Who is the oldest child of Meryl Streep? [SEP] SUB [SEP] Meryl_Streep	child	59439
+Which television shows were created by Walt Disney? [SEP] OBJ [SEP] Walt_Disney	creator	46863
+Which types of grapes grow in Oregon? [SEP] SUB [SEP] Oregon_wine	growingGrape	57659
+Was U.S. president Jackson involved in a war? [SEP] SUB [SEP] Andrew_Jackson	battle	2415
+When was the Titanic completed? [SEP] SUB [SEP] RMS_Titanic	completionDate	24160
+Did Tesla win a nobel prize in physics? [SEP] SUB [SEP] Nikola_Tesla	award	60781
+Did Tesla win a nobel prize in physics? [SEP] OBJ [SEP] Nobel_Prize_in_Physics	award	60781
+How many states are in Mexico? [SEP] OBJ [SEP] States_of_Mexico	type	43388
+Which scientist is known for the Manhattan Project and the Nobel Peace Prize? [SEP] OBJ [SEP] Manhattan_Project	knownFor	41537
+Which scientist is known for the Manhattan Project and the Nobel Peace Prize? [SEP] OBJ [SEP] Nobel_Peace_Prize	knownFor	41537
+How much did the Lego Movie cost? [SEP] SUB [SEP] The_Lego_Movie	budget	40387
+Who composed the music for Harold and Maude? [SEP] SUB [SEP] Harold_and_Maude	musicComposer	39166
+List all episodes of the first season of the HBO television series The Sopranos. [SEP] OBJ [SEP] The_Sopranos	series	14567
+Where is Syngman Rhee buried? [SEP] SUB [SEP] Syngman_Rhee	restingPlace	36832
+Does Neymar play for Real Madrid? [SEP] SUB [SEP] Neymar	team	55424
+Does Neymar play for Real Madrid? [SEP] OBJ [SEP] Real_Madrid_C.F.	team	55424
+Who wrote the book The Pillars of the Earth? [SEP] SUB [SEP] The_Pillars_of_the_Earth	author	18022
+Do Prince Harry and Prince William have the same parents? [SEP] SUB [SEP] Prince_William,_Duke_of_Cambridge	parent	35693
+Do Prince Harry and Prince William have the same parents? [SEP] SUB [SEP] Prince_Harry	parent	35693
+Who was the doctoral supervisor of Albert Einstein? [SEP] SUB [SEP] Albert_Einstein	doctoralAdvisor	49969
+Who was Vincent van Gogh inspired by? [SEP] OBJ [SEP] Vincent_van_Gogh	influenced	35999
+What was the final result of the War of the Roses? [SEP] OBJ [SEP] Wars_of_the_Roses	isPartOfMilitaryConflict	695
+How much did Pulp Fiction cost? [SEP] SUB [SEP] Pulp_Fiction	budget	40387
+Do Urdu and Persian have a common root? [SEP] SUB [SEP] Urdu	languageFamily	44437
+Do Urdu and Persian have a common root? [SEP] SUB [SEP] Persian_language	languageFamily	44437
+Who is starring in Spanish movies produced by Benicio del Toro? [SEP] OBJ [SEP] Spain	country	5011
+Who is starring in Spanish movies produced by Benicio del Toro? [SEP] OBJ [SEP] Benicio_del_Toro	producer	35630
+Show me all books in Asimov's Foundation series. [SEP] OBJ [SEP] Foundation_series	series	14567
+Where was Bach born? [SEP] SUB [SEP] Johann_Sebastian_Bach	birthPlace	1970
+Which city has the oldest running metro? [SEP] OBJ [SEP] Rapid_transit	type	43388
+Who designed the Brooklyn Bridge? [SEP] SUB [SEP] Brooklyn_Bridge	architect	51037
+How many people live in Eurasia? [SEP] SUB [SEP] Eurasia	populationTotal	2630
+Who is the host of the BBC Wildlife Specials? [SEP] SUB [SEP] BBC_Wildlife_Specials	presenter	16915
+What is the total population of Melbourne, Florida? [SEP] SUB [SEP] Melbourne,_Florida	populationTotal	2630
+What country is Mount Everest in? [SEP] SUB [SEP] Mount_Everest	locatedInArea	3779
+To which artistic movement did the painter of The Three Dancers belong? [SEP] SUB [SEP] The_Three_Dancers	author	18022
+When did Operation Overlord commence? [SEP] SUB [SEP] Operation_Overlord	date	13299
+Who was buried in the Great Pyramid of Giza? [SEP] OBJ [SEP] Great_Pyramid_of_Giza	restingPlace	36832
+Does the Ford Motor Company have a manufacturing plant in Malaysia? [SEP] OBJ [SEP] Malaysia	assembly	44281
+Does the Ford Motor Company have a manufacturing plant in Malaysia? [SEP] OBJ [SEP] Ford_Motor_Company	manufacturer	6858
+Did Socrates influence Aristotle? [SEP] SUB [SEP] Aristotle	influencedBy	41040
+Did Socrates influence Aristotle? [SEP] OBJ [SEP] Socrates	influencedBy	41040
+How many children did Benjamin Franklin have? [SEP] SUB [SEP] Benjamin_Franklin	child	59439
+How tall is Michael Jordan? [SEP] SUB [SEP] Michael_Jordan	height	14278
+In which UK city are the headquarters of the MI6? [SEP] SUB [SEP] Secret_Intelligence_Service	headquarter	43534
+In which UK city are the headquarters of the MI6? [SEP] OBJ [SEP] United_Kingdom	country	5011
+Who created Family Guy? [SEP] SUB [SEP] Family_Guy	creator	46863
+In which city does the Chile Route 68 end? [SEP] SUB [SEP] Chile_Route_68	routeEnd	4574
+Give me the grandchildren of Elvis Presley. [SEP] SUB [SEP] Elvis_Presley	child	59439
+When did the Ming dynasty dissolve? [SEP] SUB [SEP] Ming_dynasty	dissolutionDate	54862
+In which military conflicts did Lawrence of Arabia participate? [SEP] SUB [SEP] T._E._Lawrence	battle	2415
+What is the timezone in San Pedro de Atacama? [SEP] SUB [SEP] San_Pedro_de_Atacama	timeZone	32786
+What did Bruce Carver die from? [SEP] SUB [SEP] Bruce_Carver	deathCause	57934
+Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel? [SEP] SUB [SEP] Lufthansa	subsidiary	55669
+Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel? [SEP] OBJ [SEP] Dortmund_Airport	targetAirport	44450
+Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel? [SEP] OBJ [SEP] Berlin_Tegel_Airport	targetAirport	44450
