@@ -1,0 +1,49 @@
+Does Abraham Lincoln's death place have a website? [SEP] SUB [SEP] Abraham_Lincoln	deathPlace	35278
+Did Elvis Presley have children? [SEP] SUB [SEP] Elvis_Presley	child	59439
+Is Michelle Obama the wife of Barack Obama? [SEP] SUB [SEP] Barack_Obama	spouse	27288
+Is Michelle Obama the wife of Barack Obama? [SEP] OBJ [SEP] Michelle_Obama	spouse	27288
+In which city does Sylvester Stallone live? [SEP] SUB [SEP] Sylvester_Stallone	residence	13749
+Which books by Kerouac were published by Viking Press? [SEP] OBJ [SEP] Viking_Press	publisher	31091
+Which books by Kerouac were published by Viking Press? [SEP] OBJ [SEP] Jack_Kerouac	author	18022
+Who wrote the song Hotel California? [SEP] SUB [SEP] Hotel_California	writer	17082
+What is the capital of Canada? [SEP] SUB [SEP] Canada	capital	53385
+Who is the mayor of Tel Aviv? [SEP] SUB [SEP] Tel_Aviv	leaderName	27563
+What form of government does Russia have? [SEP] SUB [SEP] Russia	governmentType	58682
+Show me the book that Muhammad Ali wrote. [SEP] OBJ [SEP] Muhammad_Ali	author	18022
+Who was the first to climb Mount Everest? [SEP] SUB [SEP] Mount_Everest	firstAscentPerson	59291
+How many languages are spoken in Colombia? [SEP] SUB [SEP] Colombia	language	4342
+What is the currency of the Czech Republic? [SEP] SUB [SEP] Czech_Republic	currency	9581
+Where in France is sparkling wine produced? [SEP] OBJ [SEP] Sparkling_wine	wineProduced	46509
+Where in France is sparkling wine produced? [SEP] OBJ [SEP] France	location	24490
+When did Boris Becker end his active career? [SEP] SUB [SEP] Boris_Becker	activeYearsEndDate	4098
+Which movies starring Mickey Rourke were directed by Guy Ritchie? [SEP] OBJ [SEP] Mickey_Rourke	starring	22326
+Which movies starring Mickey Rourke were directed by Guy Ritchie? [SEP] OBJ [SEP] Guy_Ritchie	director	12368
+In which films did Julia Roberts as well as Richard Gere play? [SEP] OBJ [SEP] Julia_Roberts	starring	22326
+In which films did Julia Roberts as well as Richard Gere play? [SEP] OBJ [SEP] Richard_Gere	starring	22326
+Show me Hemingway's autobiography. [SEP] OBJ [SEP] Ernest_Hemingway	author	18022
+Show me Hemingway's autobiography. [SEP] OBJ [SEP] Autobiography	literaryGenre	50625
+How tall is Amazon Eve? [SEP] SUB [SEP] Amazon_Eve	height	14278
+What are the five boroughs of New York? [SEP] OBJ [SEP] Borough_(New_York_City)	governmentType	58682
+Give me all Canadian Grunge record labels. [SEP] OBJ [SEP] Grunge	genre	54222
+Give me all Canadian Grunge record labels. [SEP] OBJ [SEP] Canada	country	5011
+In which country does the Ganges start? [SEP] SUB [SEP] Ganges	sourceCountry	25395
+Who is the founder of Penguin Books? [SEP] SUB [SEP] Penguin_Books	founder	34289
+Who wrote the Game of Thrones theme? [SEP] SUB [SEP] Game_of_Thrones	composer	15984
+Who is the president of Eritrea? [SEP] SUB [SEP] Eritrea	leader	46519
+In which city did John F. Kennedy die? [SEP] SUB [SEP] John_F._Kennedy	deathPlace	35278
+What is the highest mountain in Australia? [SEP] OBJ [SEP] Australia	locatedInArea	3779
+Who writes the Farmers' Almanac? [SEP] SUB [SEP] Farmers'_Almanac	editor	55177
+Give me the currency of China. [SEP] SUB [SEP] China	currency	9581
+Give me all Swedish oceanographers. [SEP] OBJ [SEP] Oceanography	field	21433
+Give me all Swedish oceanographers. [SEP] OBJ [SEP] Sweden	birthPlace	1970
+In which city are the headquarters of the United Nations? [SEP] SUB [SEP] Headquarters_of_the_United_Nations	location	24490
+Is Rita Wilson the wife of Tom Hanks? [SEP] SUB [SEP] Tom_Hanks	spouse	27288
+Is Rita Wilson the wife of Tom Hanks? [SEP] OBJ [SEP] Rita_Wilson	spouse	27288
+In which countries do people speak Japanese? [SEP] OBJ [SEP] Japanese_language	language	4342
+Which of Tim Burton's films had the highest budget? [SEP] OBJ [SEP] Tim_Burton	director	12368
+Which museum in New York has the most visitors? [SEP] OBJ [SEP] New_York_City	location	24490
+What was the first Queen album? [SEP] OBJ [SEP] Queen_(band)	artist	3997
+What was the first name of the band Queens of the Stone Age? [SEP] SUB [SEP] Queens_of_the_Stone_Age	alias	22367
+What was the last movie with Alec Guinness? [SEP] OBJ [SEP] Alec_Guinness	starring	22326
+Give me all actors starring in Last Action Hero. [SEP] SUB [SEP] Last_Action_Hero	starring	22326
+Who discovered Pluto? [SEP] SUB [SEP] Pluto	discoverer	30213
