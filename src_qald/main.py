@@ -21,6 +21,12 @@ from pytorchtools import EarlyStopping
 
 
 device = 'cuda' if cuda.is_available() else 'cpu'
+torch.manual_seed(42)
+torch.cuda.manual_seed(42)
+#np.random.seed(42)
+#random.seed(42)
+
+
 
 def run(user_path, train_dataset, valid_dataset, test_dataset, epochs, alpha, lr, batch_size, patience):
     df_train = pd.read_csv(train_dataset, sep='\t', names=['text', 'relation', 'relation_label'])
