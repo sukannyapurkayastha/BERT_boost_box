@@ -20,7 +20,7 @@ from pytorchtools import EarlyStopping
 
 
 device = 'cuda' if cuda.is_available() else 'cpu'
-device = 'cuda' if cuda.is_available() else 'cpu'
+#device = 'cuda' if cuda.is_available() else 'cpu'
 torch.manual_seed(42)
 torch.cuda.manual_seed(42)
 
